@@ -1,0 +1,26 @@
+{
+  "paso": 11,
+  "objetivo": "Auditoría humana dirigida, sin cambios al pipeline",
+  "semilla": 2026,
+  "muestra_por_cluster": 5,
+  "competencias_por_registro_objetivo": 3,
+  "clusters": 8,
+  "registros_total": 274,
+  "registros_muestreados": 40,
+  "pares_texto_esco_para_revision": 116,
+  "localizacion_literal_evidencia": {
+    "LOCALIZADA_LITERAL_NORMALIZADA": 116
+  },
+  "plantilla_relaciones_creada": true,
+  "plantilla_clusters_creada": true,
+  "validacion_humana_realizada_automaticamente": false,
+  "entradas_sha256": {
+    "asignaciones": "e03fb52b3646e764cfb1546b4c527f26db7c37e9ba5ca3d7eddd2188d0258b57",
+    "clusters": "a6e2b41ad087cebf359fb24e31364ee520d4623ed3a3ed32442034b3f009556c",
+    "revision_clusters": "32eab0aa1d51e54980a59add44b4a71c6357a6fef729721ff95f6f8ee5438084",
+    "distintivas": "2c33f1eed981e2a4f59d3b2a163d9e17c198ed8c49531f8bd2e1307dc9fe38bd",
+    "relaciones": "5e935cb8df6ac32c45f9a7fef29ed4f564f88be09ee2f48332fad71e27de3a3e",
+    "academia": "fb0445540ebed660b8d3b872af081c916e4beb0eb471e598321699a9d7f32019",
+    "mercado": "4ec4dcba60cb27180e4a46ce56582ffef86539d3d0d18e17a6eb0a9dddae9315"
+  }
+}

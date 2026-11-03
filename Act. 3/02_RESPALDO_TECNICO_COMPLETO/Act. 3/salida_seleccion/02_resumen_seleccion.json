@@ -1,0 +1,38 @@
+{
+  "criterio": "ELEGIBLE PROVISIONAL si tiene >= 1 URI ESCO; sin ESCO se retiene pero no se vectoriza",
+  "no_valida_semantica": true,
+  "fuentes_sha256": {
+    "C:\\Users\\abasc\\Desktop\\DESARROLLO\\Obj2\\Act. 1\\Perfiles_Normalizados_ESCO_12.csv": "fb0445540ebed660b8d3b872af081c916e4beb0eb471e598321699a9d7f32019",
+    "C:\\Users\\abasc\\Desktop\\DESARROLLO\\Obj2\\Act. 1\\Ofertas_Normalizadas_ESCO_diccionario.csv": "4ec4dcba60cb27180e4a46ce56582ffef86539d3d0d18e17a6eb0a9dddae9315"
+  },
+  "conteos": {
+    "academia": {
+      "registros_originales": 46,
+      "elegibles_provisionales": 46,
+      "sin_esco_no_vectorizables": 0,
+      "en_tope_extractor": 35,
+      "con_revision_pendiente": 46
+    },
+    "mercado": {
+      "registros_originales": 242,
+      "elegibles_provisionales": 228,
+      "sin_esco_no_vectorizables": 14,
+      "en_tope_extractor": 55,
+      "con_revision_pendiente": 242
+    }
+  },
+  "totales": {
+    "registros_originales": 288,
+    "elegibles_provisionales": 274,
+    "sin_esco_no_vectorizables": 14,
+    "competencias_asignadas_filas": 1867,
+    "cola_revision_registros": 288
+  },
+  "prioridades": {
+    "P1_SIN_ESCO": 14,
+    "P2_TOPE_EXTRACTOR": 90,
+    "P3_REVISION_GENERAL": 184
+  },
+  "plantilla_revision_manual_creada": false,
+  "nota": "No usar las URIs ni etiquetas para calcular cobertura hasta revisar su validez. Tope del extractor indica posible truncamiento; no invalida automáticamente el registro."
+}

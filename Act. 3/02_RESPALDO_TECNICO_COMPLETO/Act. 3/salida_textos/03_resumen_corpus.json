@@ -1,0 +1,31 @@
+{
+  "etapa": "Obj2 / Actividad 3 / Etapa 1 / Paso 3",
+  "estado": "PREPARACION_TEXTUAL_PROVISIONAL_NO_VALIDADA_SEMANTICAMENTE",
+  "fuentes_sha256_verificadas": true,
+  "fuentes_sha256": {
+    "C:\\Users\\abasc\\Desktop\\DESARROLLO\\Obj2\\Act. 1\\Perfiles_Normalizados_ESCO_12.csv": "fb0445540ebed660b8d3b872af081c916e4beb0eb471e598321699a9d7f32019",
+    "C:\\Users\\abasc\\Desktop\\DESARROLLO\\Obj2\\Act. 1\\Ofertas_Normalizadas_ESCO_diccionario.csv": "4ec4dcba60cb27180e4a46ce56582ffef86539d3d0d18e17a6eb0a9dddae9315"
+  },
+  "insumos_paso2_sha256": {
+    "02_resumen_seleccion.json": "fe6e5d0a6dfe187e5ff15285bd925c8bb58a4e30fa7fe93ffd5f1bc4785ec079",
+    "02_inventario_y_prioridades.csv": "01ec0587c0ccff7b05e4489a5a2dc962bdf8aaff9f74ed66b055c2406911fb85",
+    "02_elegibles_provisionales.csv": "768098aae1ed6346717ef5a3b3a8e31552ef74468fec31d64bd8549d778f4922",
+    "02_competencias_para_auditar.csv": "900763e4c9b61437276722edb3f40f1518d0c13358a24764331f422ad3897a5a"
+  },
+  "conteos": {
+    "registros_academia": 46,
+    "registros_mercado": 228,
+    "registros_totales_preparados": 274,
+    "ofertas_sin_esco_no_incluidas": 14,
+    "asignaciones_registro_competencia": 1867,
+    "competencias_uris_unicas": 598,
+    "uris_solo_academia": 152,
+    "uris_solo_mercado": 343,
+    "uris_compartidas": 103,
+    "uri_con_etiquetas_distintas": 0,
+    "etiquetas_con_varias_uri": 2
+  },
+  "decision_textual": "Usar la etiqueta ESCO de cada URI como texto del futuro encoder; agregar vectores por registro en paso posterior, sin mezclar evidencias",
+  "normalizacion_textual": "Solo blancos consecutivos -> un espacio; sin lowercasing, lematización ni traducción",
+  "nota": "La igualdad de nombres no implica igualdad de URI. Ninguna asignación ha sido aprobada semánticamente."
+}

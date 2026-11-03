@@ -1,0 +1,4 @@
+﻿grupo;n;k;pca_varianza_1;pca_varianza_2;pca_varianza_acumulada;pca_reajustado_en_poblacion;advertencia
+academia;46;5;0.249571562;0.178836599;0.428408146;academia;No comparar coordenadas de PCA ajustados en diferentes poblaciones
+mercado;228;3;0.188136742;0.098632537;0.286769271;mercado;No comparar coordenadas de PCA ajustados en diferentes poblaciones
+conjunto;274;4;0.171348214;0.108241417;0.279589623;conjunto;No comparar coordenadas de PCA ajustados en diferentes poblaciones

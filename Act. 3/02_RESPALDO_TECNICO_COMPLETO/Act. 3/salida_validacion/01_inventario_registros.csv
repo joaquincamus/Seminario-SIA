@@ -1,0 +1,289 @@
+﻿origen;fila_csv;id_registro;universidad;carrera;job_id;n_competencias_esco;estado_esco;revision_pendiente;alcanza_limite_extractor;errores_estructurales
+academia;2;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL;;10;Catalogo_verificado_revision_pendiente;true;false;0
+academia;3;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL AMBIENTAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL AMBIENTAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;4;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL DE MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;5;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;6;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;8;Catalogo_verificado_revision_pendiente;true;false;0
+academia;7;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;8;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL EN MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;9;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL EN MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;10;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;11;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;12;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;13;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;14;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;;11;Catalogo_verificado_revision_pendiente;true;false;0
+academia;15;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL MECANICA;;7;Catalogo_verificado_revision_pendiente;true;false;0
+academia;16;UNIVERSIDAD SANTO TOMAS | INGENIERIA COMERCIAL;UNIVERSIDAD SANTO TOMAS;INGENIERIA COMERCIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;17;UNIVERSIDAD DE LA SERENA | INGENIERIA COMERCIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA COMERCIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;18;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA COMERCIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA COMERCIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;19;UNIVERSIDAD DE LA SERENA | INGENIERIA DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA DE MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;20;IP INACAP | INGENIERIA ELECTRICA;IP INACAP;INGENIERIA ELECTRICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;21;UNIVERSIDAD DE LA SERENA | INGENIERIA EN ADMINISTRACION DE EMPRESAS;UNIVERSIDAD DE LA SERENA;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;22;IP INACAP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP INACAP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;23;IP DE CHILE | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP DE CHILE;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;24;IP AIEP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP AIEP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;10;Catalogo_verificado_revision_pendiente;true;false;0
+academia;25;UNIVERSIDAD DE LA SERENA | INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;UNIVERSIDAD DE LA SERENA;INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;;10;Catalogo_verificado_revision_pendiente;true;false;0
+academia;26;IP INACAP | INGENIERIA EN CIBERSEGURIDAD;IP INACAP;INGENIERIA EN CIBERSEGURIDAD;;10;Catalogo_verificado_revision_pendiente;true;false;0
+academia;27;IP SANTO TOMAS | INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;28;IP INACAP | INGENIERIA EN ENERGIA;IP INACAP;INGENIERIA EN ENERGIA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;29;IP INACAP | INGENIERIA EN GEOMENSURA Y GEOMATICA;IP INACAP;INGENIERIA EN GEOMENSURA Y GEOMATICA;;10;Catalogo_verificado_revision_pendiente;true;false;0
+academia;30;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN INFORMACION Y CONTROL DE GESTION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN INFORMACION Y CONTROL DE GESTION;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;31;IP SANTO TOMAS | INGENIERIA EN INFORMATICA;IP SANTO TOMAS;INGENIERIA EN INFORMATICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;32;IP INACAP | INGENIERIA EN INFORMATICA;IP INACAP;INGENIERIA EN INFORMATICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;33;IP AIEP | INGENIERIA EN INFORMATICA;IP AIEP;INGENIERIA EN INFORMATICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;34;IP INACAP | INGENIERIA EN LOGISTICA;IP INACAP;INGENIERIA EN LOGISTICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;35;IP DE CHILE | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP DE CHILE;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;36;IP AIEP | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP AIEP;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;37;IP INACAP | INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;IP INACAP;INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;;11;Revisar (1 descartes);true;false;0
+academia;38;IP INACAP | INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;IP INACAP;INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;39;IP DE CHILE | INGENIERIA EN MINAS;IP DE CHILE;INGENIERIA EN MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;40;IP AIEP | INGENIERIA EN MINAS;IP AIEP;INGENIERIA EN MINAS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;41;IP SANTO TOMAS | INGENIERIA EN QUIMICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN QUIMICA INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;42;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN TECNOLOGIAS DE INFORMACION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN TECNOLOGIAS DE INFORMACION;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;43;IP INACAP | INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;IP INACAP;INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;;8;Catalogo_verificado_revision_pendiente;true;false;0
+academia;44;IP AIEP | INGENIERIA INDUSTRIAL;IP AIEP;INGENIERIA INDUSTRIAL;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;45;UNIVERSIDAD DE LA SERENA | INGENIERIA MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA MECANICA;;12;Catalogo_verificado_revision_pendiente;true;true;0
+academia;46;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;;11;Revisar (1 descartes);true;false;0
+academia;47;IP AIEP | INGENIERIA EN PREVENCION DE RIESGOS;IP AIEP;INGENIERIA EN PREVENCION DE RIESGOS;;12;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;2;afe7fc2465345541;;;afe7fc2465345541;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;3;2fec54987f7dfcc4;;;2fec54987f7dfcc4;2;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;4;ed4c03cdd32d6820;;;ed4c03cdd32d6820;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;5;35ebf411ee1348b7;;;35ebf411ee1348b7;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;6;7ffa0f30fe68a741;;;7ffa0f30fe68a741;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;7;b5c228b6f3367f0b;;;b5c228b6f3367f0b;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;8;d1eb46bda5cfe696;;;d1eb46bda5cfe696;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;9;a32355b4640b2f05;;;a32355b4640b2f05;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;10;02d6cadb692d6291;;;02d6cadb692d6291;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;11;3902f8f522c4f2c2;;;3902f8f522c4f2c2;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;12;0bff5abcbea372b8;;;0bff5abcbea372b8;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;13;44bfbba63e03fb24;;;44bfbba63e03fb24;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;14;bd1fe80d46f6a3f8;;;bd1fe80d46f6a3f8;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;15;a3d293f3ed7bb97a;;;a3d293f3ed7bb97a;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;16;109307e023676b2a;;;109307e023676b2a;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;17;f67dddeed1031299;;;f67dddeed1031299;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;18;ebc8fa738fb3fc5b;;;ebc8fa738fb3fc5b;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;19;b3a80b97c410e6f6;;;b3a80b97c410e6f6;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;20;1cf991a582d55258;;;1cf991a582d55258;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;21;919a417a600737a2;;;919a417a600737a2;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;22;2e79028be2c8db87;;;2e79028be2c8db87;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;23;ebee70d8a8d5a6db;;;ebee70d8a8d5a6db;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;24;116cbf0eb760f6f7;;;116cbf0eb760f6f7;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;25;001c618c6d0e8597;;;001c618c6d0e8597;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;26;f3b1f6bc7d55b82a;;;f3b1f6bc7d55b82a;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;27;7212208383eb9252;;;7212208383eb9252;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;28;6cdbb656033bf3b1;;;6cdbb656033bf3b1;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;29;1a9c776eb0cbd270;;;1a9c776eb0cbd270;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;30;8c879c1b8ce6346d;;;8c879c1b8ce6346d;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;31;79e9c6a2fb3d0ddb;;;79e9c6a2fb3d0ddb;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;32;75eeda75b37ae387;;;75eeda75b37ae387;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;33;8a43c14d5af125d0;;;8a43c14d5af125d0;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;34;f1229c8eeb85c0db;;;f1229c8eeb85c0db;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;35;9de9fdddb062c8e7;;;9de9fdddb062c8e7;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;36;0f95d34465aeb521;;;0f95d34465aeb521;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;37;8fdfc1c8e63f4f0a;;;8fdfc1c8e63f4f0a;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;38;4ebf2ba9acdee737;;;4ebf2ba9acdee737;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;39;984b792afa2e6508;;;984b792afa2e6508;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;40;a035a22355cc2b45;;;a035a22355cc2b45;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;41;5bb6d6f932eb028e;;;5bb6d6f932eb028e;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;42;999d74443a82cf34;;;999d74443a82cf34;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;43;a42bec88acd042d0;;;a42bec88acd042d0;2;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;44;7c15107a375b3800;;;7c15107a375b3800;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;45;2de14917aa68b4c0;;;2de14917aa68b4c0;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;46;787112f3120eb1bd;;;787112f3120eb1bd;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;47;41c889af83de77a9;;;41c889af83de77a9;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;48;f9d5a42fa9fa883a;;;f9d5a42fa9fa883a;2;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;49;cfd998e5195c3b48;;;cfd998e5195c3b48;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;50;7e52e03585bf647f;;;7e52e03585bf647f;1;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;51;0fc0519eb558ea2f;;;0fc0519eb558ea2f;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;52;33546e8ad0440411;;;33546e8ad0440411;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;53;94b447aa460b1d43;;;94b447aa460b1d43;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;54;96c63f29fe9b9092;;;96c63f29fe9b9092;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;55;9f40f7994c3785e3;;;9f40f7994c3785e3;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;56;2b8a4fd68d6b0267;;;2b8a4fd68d6b0267;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;57;828006062d10e0c1;;;828006062d10e0c1;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;58;7a312da1e5965a8f;;;7a312da1e5965a8f;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;59;9cc0800a6a6d82fd;;;9cc0800a6a6d82fd;5;Revisar (1 descartes);true;false;0
+mercado;60;afbf9ad33d40ddad;;;afbf9ad33d40ddad;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;61;ef9967fedf303d8b;;;ef9967fedf303d8b;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;62;37c74c2f6cb3da60;;;37c74c2f6cb3da60;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;63;f0d2f48f6e98c973;;;f0d2f48f6e98c973;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;64;351ceba78a7cadee;;;351ceba78a7cadee;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;65;3965db06407770e8;;;3965db06407770e8;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;66;7a48b6e73bf1bfe3;;;7a48b6e73bf1bfe3;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;67;e4e0849cb8f7b4b2;;;e4e0849cb8f7b4b2;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;68;63f17f3260d1079a;;;63f17f3260d1079a;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;69;280ffed8918eb3c8;;;280ffed8918eb3c8;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;70;d66f9334bfda54c0;;;d66f9334bfda54c0;7;Revisar (1 descartes);true;false;0
+mercado;71;93557398fb1d673d;;;93557398fb1d673d;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;72;2d04f9a63d6e7b6a;;;2d04f9a63d6e7b6a;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;73;eb77bbc57db4f479;;;eb77bbc57db4f479;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;74;82f17cfc76defa4d;;;82f17cfc76defa4d;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;75;6ee261dba4c753df;;;6ee261dba4c753df;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;76;60fb28db06b87cac;;;60fb28db06b87cac;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;77;50f2df8564b9dd13;;;50f2df8564b9dd13;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;78;0104560041bf5a34;;;0104560041bf5a34;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;79;7b8512297f555b9e;;;7b8512297f555b9e;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;80;35655529e81d2866;;;35655529e81d2866;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;81;4745ac974a031b2e;;;4745ac974a031b2e;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;82;d49b9f735597a772;;;d49b9f735597a772;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;83;e7ff5e49ea92b8b3;;;e7ff5e49ea92b8b3;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;84;e69676e2eba386bd;;;e69676e2eba386bd;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;85;c5770687694809d0;;;c5770687694809d0;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;86;8aa8e6ef945df7a3;;;8aa8e6ef945df7a3;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;87;09065bec997fae38;;;09065bec997fae38;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;88;9ccc3476623d33a0;;;9ccc3476623d33a0;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;89;5ee0214341fba2e3;;;5ee0214341fba2e3;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;90;792f6e18e13eed51;;;792f6e18e13eed51;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;91;2815b49d53d20b59;;;2815b49d53d20b59;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;92;83d9a688de77a151;;;83d9a688de77a151;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;93;cd0949c7fb619e84;;;cd0949c7fb619e84;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;94;84a6b9c598b6bf98;;;84a6b9c598b6bf98;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;95;075cc906ba06a44b;;;075cc906ba06a44b;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;96;ead17390b2473473;;;ead17390b2473473;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;97;e8f62b4dcd7d51d7;;;e8f62b4dcd7d51d7;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;98;5fe7dad20c757caf;;;5fe7dad20c757caf;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;99;83e12997c74c4194;;;83e12997c74c4194;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;100;d21311f0ff7b6427;;;d21311f0ff7b6427;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;101;7aa78799293d9846;;;7aa78799293d9846;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;102;7472554de0094123;;;7472554de0094123;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;103;014860576cf21fcd;;;014860576cf21fcd;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;104;fc0cf5d2958de6d2;;;fc0cf5d2958de6d2;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;105;4f3cedd4a8a3e7f9;;;4f3cedd4a8a3e7f9;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;106;9a731bfdf05bf1ed;;;9a731bfdf05bf1ed;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;107;c867ba2adb6b6a92;;;c867ba2adb6b6a92;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;108;37110a110452f695;;;37110a110452f695;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;109;3550da5aa6cea3e4;;;3550da5aa6cea3e4;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;110;f8787613958e876a;;;f8787613958e876a;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;111;2df442c31db4acd6;;;2df442c31db4acd6;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;112;a91a50d5748299b7;;;a91a50d5748299b7;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;113;853552dfed7f70d7;;;853552dfed7f70d7;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;114;6365f6be11ccf7f1;;;6365f6be11ccf7f1;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;115;3b50900ff6f2ed17;;;3b50900ff6f2ed17;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;116;4c398ee60fe66f5b;;;4c398ee60fe66f5b;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;117;265b33b626adb5c5;;;265b33b626adb5c5;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;118;330c9f5cfbd6b7ba;;;330c9f5cfbd6b7ba;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;119;b572f31046ec5d73;;;b572f31046ec5d73;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;120;2fb7cf40472a8826;;;2fb7cf40472a8826;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;121;aa89bef008c5df89;;;aa89bef008c5df89;3;Revisar (4 descartes);true;false;0
+mercado;122;908c4119a452c3cb;;;908c4119a452c3cb;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;123;676a12947ad978ba;;;676a12947ad978ba;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;124;180e045f191ae119;;;180e045f191ae119;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;125;07ef5485b9fc6dec;;;07ef5485b9fc6dec;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;126;3f630e60f19e7314;;;3f630e60f19e7314;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;127;4c50dbea17c5e9e9;;;4c50dbea17c5e9e9;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;128;03b02f128310d31f;;;03b02f128310d31f;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;129;cc7dae39df420eda;;;cc7dae39df420eda;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;130;958cc81a27e22430;;;958cc81a27e22430;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;131;d9b3ee80da57ac39;;;d9b3ee80da57ac39;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;132;dbb0585693d68bdc;;;dbb0585693d68bdc;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;133;6eae9f3eb5412ba3;;;6eae9f3eb5412ba3;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;134;2c5002fe15728723;;;2c5002fe15728723;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;135;ac62411852c5296d;;;ac62411852c5296d;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;136;b4d485821ce4cab1;;;b4d485821ce4cab1;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;137;04e407b9f15e649c;;;04e407b9f15e649c;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;138;8849d328f808bcb2;;;8849d328f808bcb2;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;139;0918e932f82de1ce;;;0918e932f82de1ce;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;140;4c6384f7194018c6;;;4c6384f7194018c6;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;141;815406b4d10f8b0d;;;815406b4d10f8b0d;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;142;45b302c38dbead1e;;;45b302c38dbead1e;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;143;486f8e47a9d9dacc;;;486f8e47a9d9dacc;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;144;df5a3e6a3d6b3881;;;df5a3e6a3d6b3881;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;145;4d4ef6269cd2c999;;;4d4ef6269cd2c999;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;146;ca0571449c839323;;;ca0571449c839323;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;147;9576bcc5c737d469;;;9576bcc5c737d469;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;148;6ef5a06a568d0619;;;6ef5a06a568d0619;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;149;c190d525c33f3b4f;;;c190d525c33f3b4f;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;150;3482dc09fd984443;;;3482dc09fd984443;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;151;d0c07aa714764724;;;d0c07aa714764724;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;152;36889f7876b8f7b1;;;36889f7876b8f7b1;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;153;7e77d9887899029a;;;7e77d9887899029a;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;154;37d1643cf7363023;;;37d1643cf7363023;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;155;dca32e5e63695f5e;;;dca32e5e63695f5e;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;156;6303ff8d0957810c;;;6303ff8d0957810c;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;157;fc0314b7de6373f4;;;fc0314b7de6373f4;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;158;15e5f61b5c04bd17;;;15e5f61b5c04bd17;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;159;4c68b4103acd5876;;;4c68b4103acd5876;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;160;c930f221669b5c11;;;c930f221669b5c11;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;161;ce8418e28c6bf8c9;;;ce8418e28c6bf8c9;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;162;ef8f89cabf468e07;;;ef8f89cabf468e07;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;163;6897604f8ecfc2ff;;;6897604f8ecfc2ff;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;164;1e8ef7f40d490c38;;;1e8ef7f40d490c38;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;165;70729cbb7cb2ac86;;;70729cbb7cb2ac86;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;166;ced2434e0963ff31;;;ced2434e0963ff31;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;167;8744493b7a0404fe;;;8744493b7a0404fe;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;168;a42a37da355cea91;;;a42a37da355cea91;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;169;db069fcaafa80e44;;;db069fcaafa80e44;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;170;ec7c0c9b506dadce;;;ec7c0c9b506dadce;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;171;37152caba61e7f8a;;;37152caba61e7f8a;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;172;e31f38c2f5c5c060;;;e31f38c2f5c5c060;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;173;0dcf31f79b3599f9;;;0dcf31f79b3599f9;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;174;f23a3e59b7242e5b;;;f23a3e59b7242e5b;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;175;5e2be675a061d850;;;5e2be675a061d850;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;176;6bd85fc0286284ef;;;6bd85fc0286284ef;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;177;bc4f14a5fb738912;;;bc4f14a5fb738912;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;178;e9f94adf822cb5e2;;;e9f94adf822cb5e2;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;179;67c788955072ab2b;;;67c788955072ab2b;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;180;386d5cc25e22accc;;;386d5cc25e22accc;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;181;25d6b2f5525d9e2f;;;25d6b2f5525d9e2f;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;182;d486de7e321504c9;;;d486de7e321504c9;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;183;d0e4ad93231fcf83;;;d0e4ad93231fcf83;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;184;8137f157b3fd49e2;;;8137f157b3fd49e2;3;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;185;b2c4795587f16ea3;;;b2c4795587f16ea3;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;186;34c73dd190de4758;;;34c73dd190de4758;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;187;618c8232dc4b2467;;;618c8232dc4b2467;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;188;d545c42de8edd985;;;d545c42de8edd985;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;189;54aafde8e4f713bf;;;54aafde8e4f713bf;6;Revisar (1 descartes);true;false;0
+mercado;190;22688ffd05ff1866;;;22688ffd05ff1866;2;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;191;95ebdcc3c5ba7d16;;;95ebdcc3c5ba7d16;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;192;7fea1ceb58c6a3b0;;;7fea1ceb58c6a3b0;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;193;ff1d65ba3c540dc3;;;ff1d65ba3c540dc3;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;194;fe73f0e78d14e0e1;;;fe73f0e78d14e0e1;3;Revisar (3 descartes);true;false;0
+mercado;195;506841504553f0f4;;;506841504553f0f4;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;196;557538938f448940;;;557538938f448940;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;197;71333ae2676b55c5;;;71333ae2676b55c5;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;198;2c7766aeee843d12;;;2c7766aeee843d12;1;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;199;25cd69b763f2df21;;;25cd69b763f2df21;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;200;ec343665bf9cc4bb;;;ec343665bf9cc4bb;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;201;7cfe318d8f75e069;;;7cfe318d8f75e069;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;202;81d51bef019d6d0d;;;81d51bef019d6d0d;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;203;6c9582832a27e7fa;;;6c9582832a27e7fa;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;204;83cc552b67ac6365;;;83cc552b67ac6365;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;205;ccf7325f303cf04b;;;ccf7325f303cf04b;4;Revisar (2 descartes);true;false;0
+mercado;206;126ff37f165cf6eb;;;126ff37f165cf6eb;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;207;f3259e4e2f0fdc88;;;f3259e4e2f0fdc88;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;208;cf33a27321ad8d52;;;cf33a27321ad8d52;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;209;ac9a6e2b05db4260;;;ac9a6e2b05db4260;6;Revisar (1 descartes);true;false;0
+mercado;210;71c22c6762b2f23d;;;71c22c6762b2f23d;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;211;f8adc5b5bb4bc101;;;f8adc5b5bb4bc101;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;212;e19c17bc99802118;;;e19c17bc99802118;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;213;65e4bff17df2d411;;;65e4bff17df2d411;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;214;de102968b5e31191;;;de102968b5e31191;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;215;2b9b1d01c589900b;;;2b9b1d01c589900b;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;216;d29474bf4e8d2b24;;;d29474bf4e8d2b24;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;217;3518453f9bd6b2c2;;;3518453f9bd6b2c2;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;218;9bdb3ea5d3cf2d3e;;;9bdb3ea5d3cf2d3e;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;219;dbf33e40d906fc76;;;dbf33e40d906fc76;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;220;a171947d8f3a4fbc;;;a171947d8f3a4fbc;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;221;a7e3d25d5276af3b;;;a7e3d25d5276af3b;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;222;3f54321c946af971;;;3f54321c946af971;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;223;c19342aeaf4cb215;;;c19342aeaf4cb215;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;224;5e0c6729fa3f8473;;;5e0c6729fa3f8473;4;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;225;02b32249767a7708;;;02b32249767a7708;6;Revisar (1 descartes);true;false;0
+mercado;226;528dd22c3c1b2920;;;528dd22c3c1b2920;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;227;a7bc51c0cf4f9555;;;a7bc51c0cf4f9555;5;Revisar (3 descartes);true;false;0
+mercado;228;c306619f5c911d75;;;c306619f5c911d75;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;229;8ae30fa24612f9ee;;;8ae30fa24612f9ee;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;230;812ed4dd44fcf8a5;;;812ed4dd44fcf8a5;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;231;2b9a7230f21d3795;;;2b9a7230f21d3795;0;Revisar (Sin competencias justificadas);true;false;0
+mercado;232;f320f36c864b6517;;;f320f36c864b6517;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;233;2f1256a7065c1c66;;;2f1256a7065c1c66;6;Revisar (1 descartes);true;false;0
+mercado;234;e8092b821c006e49;;;e8092b821c006e49;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;235;e1152945fa308067;;;e1152945fa308067;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;236;2a8aa4ec588633d5;;;2a8aa4ec588633d5;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;237;13b55e20e09027a8;;;13b55e20e09027a8;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;238;7fe3b9af3f983fa2;;;7fe3b9af3f983fa2;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;239;a11a67b4aa68ee94;;;a11a67b4aa68ee94;8;Catalogo_verificado_revision_pendiente;true;true;0
+mercado;240;1535438fce1a615c;;;1535438fce1a615c;7;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;241;50c62bbf5a5da3ed;;;50c62bbf5a5da3ed;6;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;242;4d38f255d5c4e728;;;4d38f255d5c4e728;5;Catalogo_verificado_revision_pendiente;true;false;0
+mercado;243;46813ab5aeda8244;;;46813ab5aeda8244;6;Catalogo_verificado_revision_pendiente;true;false;0

@@ -1,0 +1,68 @@
+﻿control;resultado;detalle
+matriz_forma;OK;shape=(274, 384)
+matriz_valores_finitos;OK;Sin NaN ni infinito
+matriz_normalizacion_l2;OK;"norma minima=0.9999999; maxima=1.0000000"
+indice_columna_fila_vector_0_based;OK;Columna fila_vector_0_based
+indice_columna_id_registro;OK;Columna id_registro
+indice_columna_origen;OK;Columna origen
+indice_orden;OK;Se esperan filas 0..273 exactamente una vez
+indice_ids_unicos;OK;Cada registro debe tener ID unico
+indice_poblacion;OK;origen={'mercado': 228, 'academia': 46}
+principal_filas;OK;filas=274
+principal_id_filas;OK;Indices completos y unicos
+principal_alineacion;OK;Identidad y origen fila a fila contra indice 05
+principal_grupos;OK;grupos=['academia', 'mercado']
+principal_academia_conteo;OK;"n=46; esperado=46"
+principal_academia_k_clusters;OK;K=5, clusters esperados=[0, 1, 2, 3, 4]
+principal_academia_origen;OK;Sin mezcla de origen
+principal_mercado_conteo;OK;"n=228; esperado=228"
+principal_mercado_k_clusters;OK;K=3, clusters esperados=[0, 1, 2]
+principal_mercado_origen;OK;Sin mezcla de origen
+conjunto_filas;OK;filas=274
+conjunto_id_filas;OK;Indices completos y unicos
+conjunto_alineacion;OK;Identidad y origen fila a fila contra indice 05
+conjunto_grupos;OK;grupos=['conjunto']
+conjunto_conjunto_conteo;OK;"n=274; esperado=274"
+conjunto_conjunto_k_clusters;OK;K=4, clusters esperados=[0, 1, 2, 3]
+clusters_principales_clusters;OK;clusters documentados=8
+clusters_principales_academia_C0_tamano;OK;"documentado=7; asignaciones=7"
+clusters_principales_academia_C1_tamano;OK;"documentado=13; asignaciones=13"
+clusters_principales_academia_C2_tamano;OK;"documentado=13; asignaciones=13"
+clusters_principales_academia_C3_tamano;OK;"documentado=7; asignaciones=7"
+clusters_principales_academia_C4_tamano;OK;"documentado=6; asignaciones=6"
+clusters_principales_mercado_C0_tamano;OK;"documentado=46; asignaciones=46"
+clusters_principales_mercado_C1_tamano;OK;"documentado=103; asignaciones=103"
+clusters_principales_mercado_C2_tamano;OK;"documentado=79; asignaciones=79"
+clusters_conjunto_clusters;OK;clusters documentados=4
+clusters_conjunto_conjunto_C0_tamano;OK;"documentado=52; asignaciones=52"
+clusters_conjunto_conjunto_C1_tamano;OK;"documentado=120; asignaciones=120"
+clusters_conjunto_conjunto_C2_tamano;OK;"documentado=28; asignaciones=28"
+clusters_conjunto_conjunto_C3_tamano;OK;"documentado=74; asignaciones=74"
+coordenadas_total;OK;"filas=548; esperadas=274+274=548"
+coordenadas_finitas;OK;PCA1 y PCA2 son numeros
+coordenadas_grupos;OK;grupos=['academia', 'conjunto', 'mercado']
+coordenadas_academia_n;OK;"n=46; esperado=46"
+coordenadas_academia_ids_unicos;OK;Cada vector aparece una vez en su PCA
+coordenadas_academia_alineacion_clusters;OK;IDs, origen, K y cluster coinciden con paso 08
+coordenadas_mercado_n;OK;"n=228; esperado=228"
+coordenadas_mercado_ids_unicos;OK;Cada vector aparece una vez en su PCA
+coordenadas_mercado_alineacion_clusters;OK;IDs, origen, K y cluster coinciden con paso 08
+coordenadas_conjunto_n;OK;"n=274; esperado=274"
+coordenadas_conjunto_ids_unicos;OK;Cada vector aparece una vez en su PCA
+coordenadas_conjunto_alineacion_clusters;OK;IDs, origen, K y cluster coinciden con paso 08
+diagnostico_pca_grupos;OK;Un diagnostico por poblacion
+pca_academia_varianza;OK;"varianza_2D=0.428408146; n=46; K=5"
+pca_mercado_varianza;OK;"varianza_2D=0.286769271; n=228; K=3"
+pca_conjunto_varianza;OK;"varianza_2D=0.279589623; n=274; K=4"
+grafico_09_pca_academia_k5.png;OK;Existe y tiene contenido: 09_pca_academia_k5.png
+grafico_09_pca_mercado_k3.png;OK;Existe y tiene contenido: 09_pca_mercado_k3.png
+grafico_09_pca_conjunto_k4_exploratorio.png;OK;Existe y tiene contenido: 09_pca_conjunto_k4_exploratorio.png
+grafico_09_pca_conjunto_por_origen.png;OK;Existe y tiene contenido: 09_pca_conjunto_por_origen.png
+sha256_05_vectores_registros.npy;OK;Coincide con SHA-256 registrado en paso 09
+sha256_05_indice_registros.csv;OK;Coincide con SHA-256 registrado en paso 09
+sha256_08_asignaciones_principales.csv;OK;Coincide con SHA-256 registrado en paso 09
+sha256_08_asignaciones_conjunto_exploratorio.csv;OK;Coincide con SHA-256 registrado en paso 09
+sha256_08_clusters_principales.csv;OK;Coincide con SHA-256 registrado en paso 09
+sha256_08_clusters_conjunto_exploratorio.csv;OK;Coincide con SHA-256 registrado en paso 09
+revision_plantilla_ocho_clusters;OK;"filas=8; fichas necesarias=8"
+revision_humana_completada;PENDIENTE;"fichas pendientes=8; la validacion semantica no se infiere"

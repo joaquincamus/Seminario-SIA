@@ -1,0 +1,9 @@
+﻿grupo;k;cluster;etiqueta_propuesta_no_validada;decision_humana;etiqueta_validada;evidencia_revisada;observaciones;responsable_revision;fecha_revision;estado_auditoria
+academia;5;0;Ingeniería de minas y planificación minera;PENDIENTE;;;;;;PENDIENTE_REVISION
+academia;5;1;Gestión, administración e ingeniería industrial;PENDIENTE;;;;;;PENDIENTE_REVISION
+academia;5;2;Informática y otras ingenierías (grupo heterogéneo);PENDIENTE;;;;;;PENDIENTE_REVISION
+academia;5;3;Electricidad, control y mecánica;PENDIENTE;;;;;;PENDIENTE_REVISION
+academia;5;4;Medioambiente y prevención de riesgos;PENDIENTE;;;;;;PENDIENTE_REVISION
+mercado;3;0;Datos y analítica;PENDIENTE;;;;;;PENDIENTE_REVISION
+mercado;3;1;Operaciones, mantenimiento y calidad;PENDIENTE;;;;;;PENDIENTE_REVISION
+mercado;3;2;Gestión y coordinación de proyectos;PENDIENTE;;;;;;PENDIENTE_REVISION

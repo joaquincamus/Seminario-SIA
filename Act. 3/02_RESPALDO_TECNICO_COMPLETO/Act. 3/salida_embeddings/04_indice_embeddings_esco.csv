@@ -1,0 +1,599 @@
+﻿fila_vector_0_based;uri_esco;etiqueta_esco;texto_para_embedding;asignaciones;registros_academia;registros_mercado
+0;http://data.europa.eu/esco/skill/020918ef-4b55-47c1-8430-ab7b8f6a7377;migrar datos existentes;migrar datos existentes;1;0;1
+1;http://data.europa.eu/esco/skill/020b3c27-bae1-4b85-9d6f-eccee0f5ed99;gestionar los suministros;gestionar los suministros;4;2;2
+2;http://data.europa.eu/esco/skill/02b6350e-433a-42b1-b620-92fc53b9a14d;utilizar equipos de teledetección;utilizar equipos de teledetección;1;1;0
+3;http://data.europa.eu/esco/skill/02c71cde-f513-43da-8952-0974763c7568;interpretar diagramas de circuitos;interpretar diagramas de circuitos;3;2;1
+4;http://data.europa.eu/esco/skill/02e235f4-a30a-412a-a06e-1c471ad28678;seguir procedimientos para el control de sustancias peligrosas para la salud;seguir procedimientos para el control de sustancias peligrosas para la salud;1;1;0
+5;http://data.europa.eu/esco/skill/03459358-3f0f-4b13-a143-890e2da798d3;configurar equipos electrónicos;configurar equipos electrónicos;1;0;1
+6;http://data.europa.eu/esco/skill/03b9b491-fc9b-4868-914a-bf7cd47b5041;crear soluciones para problemas;crear soluciones para problemas;2;0;2
+7;http://data.europa.eu/esco/skill/0458f6a0-cb54-4ff5-a543-b2c5354e17c0;mantenerse al día de las innovaciones digitales en los procedimientos industriales;mantenerse al día de las innovaciones digitales en los procedimientos industriales;1;0;1
+8;http://data.europa.eu/esco/skill/05010f6c-0b40-4525-ac4a-057d46a2b6f4;diseñar sistemas eléctricos;diseñar sistemas eléctricos;3;2;1
+9;http://data.europa.eu/esco/skill/0557b66b-3ac5-4a03-a6e4-035aab5777ce;manejar perforadoras para minería;manejar perforadoras para minería;2;2;0
+10;http://data.europa.eu/esco/skill/05bd9f18-370a-4a88-98c7-473cffb7b2ca;preparar materiales para facilitar la toma de decisiones;preparar materiales para facilitar la toma de decisiones;1;0;1
+11;http://data.europa.eu/esco/skill/05c00631-b864-4842-b47e-06710c197c7a;coordinar las actividades de producción;coordinar las actividades de producción;1;0;1
+12;http://data.europa.eu/esco/skill/061f1c12-9811-46f7-ab3e-1d28367d6c73;utilizar programas de diseño asistido por ordenador para las suelas;utilizar programas de diseño asistido por ordenador para las suelas;1;0;1
+13;http://data.europa.eu/esco/skill/0620ecd1-e4b1-4dfa-972b-38a93e5ebd9d;crear entornos 3D;crear entornos 3D;1;0;1
+14;http://data.europa.eu/esco/skill/06670261-ea6b-4b52-a915-c7d4ff837f74;identificar patrones estadísticos;identificar patrones estadísticos;2;0;2
+15;http://data.europa.eu/esco/skill/075228f2-d00d-4e24-9036-bccddbb9b414;equilibrar el circuito hidráulico de los sistemas de agua caliente;equilibrar el circuito hidráulico de los sistemas de agua caliente;1;0;1
+16;http://data.europa.eu/esco/skill/07889c08-7220-47c8-96f7-6068fbea00dc;normalizar datos;normalizar datos;1;0;1
+17;http://data.europa.eu/esco/skill/07d29906-da74-4a35-b064-422877289c28;controlar equipos de perforación;controlar equipos de perforación;2;2;0
+18;http://data.europa.eu/esco/skill/0839eea4-c57b-4c14-b19b-923fbedb5d88;realizar investigación empresarial;realizar investigación empresarial;1;1;0
+19;http://data.europa.eu/esco/skill/089ee650-297e-4716-87d1-440743b70a0d;garantizar el cumplimiento de la legislación ambiental;garantizar el cumplimiento de la legislación ambiental;12;6;6
+20;http://data.europa.eu/esco/skill/09473fea-69ea-40dc-9ff4-bbaaff10840e;realizar auditorías energéticas de instalaciones;realizar auditorías energéticas de instalaciones;1;1;0
+21;http://data.europa.eu/esco/skill/095b0a0f-9b66-4e42-965e-d1c538a2986f;escoger indicador clave de resultados;escoger indicador clave de resultados;2;0;2
+22;http://data.europa.eu/esco/skill/09dd7302-368e-4b3e-b644-7c03a2aae4a2;diseño de planta de producción de alimentos;diseño de planta de producción de alimentos;1;1;0
+23;http://data.europa.eu/esco/skill/0a0532c2-ee60-4410-8e07-70e4d69370ec;realizar el control automático de procesos;realizar el control automático de procesos;4;1;3
+24;http://data.europa.eu/esco/skill/0ad6d5e8-593f-4191-843c-439b23a468ca;realizar balances energéticos;realizar balances energéticos;2;1;1
+25;http://data.europa.eu/esco/skill/0b917c3e-e49f-40d9-8f95-3bc8e9c06fd2;hacer pruebas de laboratorio;hacer pruebas de laboratorio;2;0;2
+26;http://data.europa.eu/esco/skill/0ba0717c-3a7a-45a3-834c-59c554e56c72;implementar fórmulas en procesos de producción;implementar fórmulas en procesos de producción;1;0;1
+27;http://data.europa.eu/esco/skill/0c320215-c2bd-437e-960d-ea85f8f2015a;controlar sistemas de alimentación;controlar sistemas de alimentación;1;0;1
+28;http://data.europa.eu/esco/skill/0c627853-241e-405b-9044-aaff6bca133e;instalar líneas de energía eléctrica;instalar líneas de energía eléctrica;1;1;0
+29;http://data.europa.eu/esco/skill/0ced619a-0f59-4802-88ea-e97bf1b57f95;optimizar el uso de la flota;optimizar el uso de la flota;1;0;1
+30;http://data.europa.eu/esco/skill/0cfc7eb9-2891-4153-b335-6331f381ff05;comunicar las medidas de salud y seguridad;comunicar las medidas de salud y seguridad;1;0;1
+31;http://data.europa.eu/esco/skill/0d11711b-870f-4701-be93-fa175b6e4002;persuadir a los clientes con alternativas;persuadir a los clientes con alternativas;1;0;1
+32;http://data.europa.eu/esco/skill/0d6714c6-720e-4985-9791-5ab85d28da79;extraer datos;extraer datos;4;0;4
+33;http://data.europa.eu/esco/skill/0dcea846-04b4-4ffc-8c75-a35c991454b1;aplicar primeros auxilios;aplicar primeros auxilios;1;1;0
+34;http://data.europa.eu/esco/skill/0e0b8991-4b24-4bb8-9113-df3ce43c1ff9;asesorar sobre el impacto ambiental de proyectos mineros;asesorar sobre el impacto ambiental de proyectos mineros;1;1;0
+35;http://data.europa.eu/esco/skill/0e1fe34b-f4e7-4642-8c8b-5a05ac3438e5;gestionar el calendario de tareas;gestionar el calendario de tareas;1;0;1
+36;http://data.europa.eu/esco/skill/0efbe2dc-2770-47ec-b8f4-d1bdff6ac0a4;asesorar sobre la gestión del riesgo;asesorar sobre la gestión del riesgo;2;1;1
+37;http://data.europa.eu/esco/skill/0f0698e7-04e4-4bf7-9af2-e3191147525a;optimizar los parámetros del proceso de producción;optimizar los parámetros del proceso de producción;3;0;3
+38;http://data.europa.eu/esco/skill/10026df1-670d-4c75-b3d5-ee0037f9d59b;dirigir la optimización de procesos;dirigir la optimización de procesos;12;1;11
+39;http://data.europa.eu/esco/skill/101d63ee-bb22-4a7c-9e0a-c2716063696a;realizar evaluaciones de salud, seguridad y medioambiente;realizar evaluaciones de salud, seguridad y medioambiente;2;2;0
+40;http://data.europa.eu/esco/skill/11245eee-fcbd-44c7-aa6a-3db2eb40106c;gestionar inspecciones de equipos;gestionar inspecciones de equipos;2;0;2
+41;http://data.europa.eu/esco/skill/11430d93-c835-48ed-8e70-285fa69c9ae6;diseñar una arquitectura de nube;diseñar una arquitectura de nube;3;2;1
+42;http://data.europa.eu/esco/skill/114a79ef-1e62-475b-a862-954f5b4cca20;desarrollar procesos de gestión de residuos;desarrollar procesos de gestión de residuos;4;4;0
+43;http://data.europa.eu/esco/skill/114c9698-c999-4369-8498-81bf641fe871;establecer un plan de seguridad informática;establecer un plan de seguridad informática;1;1;0
+44;http://data.europa.eu/esco/skill/11747665-0e98-4f27-bd0d-536862cd5746;identificar proveedores;identificar proveedores;1;0;1
+45;http://data.europa.eu/esco/skill/1174f52e-e861-4056-bd5a-1f678f969b62;analizar la vida útil de los productos;analizar la vida útil de los productos;1;0;1
+46;http://data.europa.eu/esco/skill/1177a1e9-213a-477b-b57c-364368c68b95;diseñar electrónica de potencia;diseñar electrónica de potencia;1;1;0
+47;http://data.europa.eu/esco/skill/128f318e-1bc8-4921-821f-b0aad1d98922;definir el sistema de calefacción y enfriamiento apropiado;definir el sistema de calefacción y enfriamiento apropiado;1;0;1
+48;http://data.europa.eu/esco/skill/12b5cc46-bf35-464c-ac7d-1bdbc23262f7;llevar a cabo un análisis de errores del proceso de fabricación;llevar a cabo un análisis de errores del proceso de fabricación;1;0;1
+49;http://data.europa.eu/esco/skill/1368c06f-202d-4776-8153-93aed512cc64;evaluar los contratos y presentar información al respecto;evaluar los contratos y presentar información al respecto;1;0;1
+50;http://data.europa.eu/esco/skill/13e2378e-0d10-450d-843a-b3592575826e;elaborar estrategias de marketing;elaborar estrategias de marketing;8;8;0
+51;http://data.europa.eu/esco/skill/1441e3b2-d776-40aa-9684-536a25329ebb;asesorar sobre desarrollo minero;asesorar sobre desarrollo minero;3;1;2
+52;http://data.europa.eu/esco/skill/147170ba-0141-4337-89af-b4513d745afe;ayudar al desarrollo del presupuesto anual;ayudar al desarrollo del presupuesto anual;1;0;1
+53;http://data.europa.eu/esco/skill/14832d87-2f2f-4895-b290-e4760ebae42a;resolver problemas técnicos;resolver problemas técnicos;1;0;1
+54;http://data.europa.eu/esco/skill/14d1e367-3efe-4ec5-86ae-eca48710ee4e;aplicar políticas de seguridad de las TIC;aplicar políticas de seguridad de las TIC;1;1;0
+55;http://data.europa.eu/esco/skill/151174e2-2a27-4c1e-be68-6446278d34b7;ejercer la administración;ejercer la administración;3;3;0
+56;http://data.europa.eu/esco/skill/15725b82-9608-4579-abdf-adf91982dad9;desarrollar estrategias en materia de salud y seguridad en minería;desarrollar estrategias en materia de salud y seguridad en minería;6;4;2
+57;http://data.europa.eu/esco/skill/15e6992d-0b78-4693-a0d0-87d7f30b5fd7;gestionar el catastro;gestionar el catastro;1;1;0
+58;http://data.europa.eu/esco/skill/161a6c5a-593a-4977-b7b7-49c6a2a2f2a3;asesorar sobre planificación tributaria y fiscal;asesorar sobre planificación tributaria y fiscal;1;1;0
+59;http://data.europa.eu/esco/skill/165d3ca5-ca47-40d2-a450-cd2ae18deb05;aplicar técnicas de montaje;aplicar técnicas de montaje;3;0;3
+60;http://data.europa.eu/esco/skill/172020d1-e151-445b-8173-e2a5fb16fe51;utilizar herramientas de ingeniería de software asistida por ordenador;utilizar herramientas de ingeniería de software asistida por ordenador;6;6;0
+61;http://data.europa.eu/esco/skill/182915aa-3470-433a-9b12-347511befcde;llevar registros de las intervenciones de mantenimiento;llevar registros de las intervenciones de mantenimiento;1;0;1
+62;http://data.europa.eu/esco/skill/1859883d-c047-4fe1-8e74-7bb4385d6ad2;aplicar técnicas de formación de imágenes en 3D;aplicar técnicas de formación de imágenes en 3D;3;0;3
+63;http://data.europa.eu/esco/skill/18ee0ab2-60c0-42f2-9ce6-041738d63293;gestionar el sistema de transmisión de electricidad;gestionar el sistema de transmisión de electricidad;1;0;1
+64;http://data.europa.eu/esco/skill/1973c966-f236-40c9-b2d4-5d71a89019be;utilizar software de hojas de cálculo;utilizar software de hojas de cálculo;1;1;0
+65;http://data.europa.eu/esco/skill/1a4cc54f-1e53-442b-a6d2-1682dc8ef8f9;utilizar las tecnologías digitales con creatividad;utilizar las tecnologías digitales con creatividad;1;1;0
+66;http://data.europa.eu/esco/skill/1a6c7e0d-fc13-41d7-a5c0-8ca00606de89;promover el uso de energía sostenible;promover el uso de energía sostenible;1;1;0
+67;http://data.europa.eu/esco/skill/1aae38c8-f75a-4009-8aa0-c5fa94b06e6b;gestionar los ensayos de calidad del agua;gestionar los ensayos de calidad del agua;1;0;1
+68;http://data.europa.eu/esco/skill/1aba7c4a-4e13-4fa1-905b-7ed26952fbd5;comprobar la estabilidad de los materiales;comprobar la estabilidad de los materiales;2;0;2
+69;http://data.europa.eu/esco/skill/1abc1d86-e529-42ab-828f-8d4fc225b076;filtrar líquidos;filtrar líquidos;1;0;1
+70;http://data.europa.eu/esco/skill/1b71f0d0-8e57-44dc-aaa0-3ee6fbb59991;comprobar la conformidad de la construcción respecto de la normativa vigente;comprobar la conformidad de la construcción respecto de la normativa vigente;1;0;1
+71;http://data.europa.eu/esco/skill/1bc7c69b-4292-4592-b854-f48165a06082;reparar motores;reparar motores;2;2;0
+72;http://data.europa.eu/esco/skill/1be014ca-6909-497a-95fc-426ef9945583;insertar cargas en pozos de perforación;insertar cargas en pozos de perforación;2;0;2
+73;http://data.europa.eu/esco/skill/1c685542-aa09-4704-ba87-2b1ffd802e1f;realizar una proyección;realizar una proyección;1;0;1
+74;http://data.europa.eu/esco/skill/1d86078b-c78a-46b7-bee6-9e2bb7532b91;gestionar equipos de plantas mineras;gestionar equipos de plantas mineras;3;0;3
+75;http://data.europa.eu/esco/skill/1dae8445-12e5-423a-bb26-824010e299b9;garantizar el cumplimiento de los requisitos legales;garantizar el cumplimiento de los requisitos legales;2;0;2
+76;http://data.europa.eu/esco/skill/1dd23dba-dd00-45ab-abf4-642902538317;realizar un análisis de riesgo;realizar un análisis de riesgo;8;0;8
+77;http://data.europa.eu/esco/skill/1de548e0-9535-4d2e-9d20-d4474c1ea813;supervisar un proyecto de construcción;supervisar un proyecto de construcción;2;1;1
+78;http://data.europa.eu/esco/skill/1e7ed56a-6d6b-422f-962e-38543d150755;gestionar cambios en el sistema de TIC;gestionar cambios en el sistema de TIC;1;0;1
+79;http://data.europa.eu/esco/skill/1f618933-1c1b-4b49-91f7-d567d25406bf;coordinar con las empresas de transporte;coordinar con las empresas de transporte;1;1;0
+80;http://data.europa.eu/esco/skill/1fcce318-3212-487a-ac07-4941bc85060d;llevar a cabo las actividades de un proyecto;llevar a cabo las actividades de un proyecto;1;0;1
+81;http://data.europa.eu/esco/skill/21056f6a-8a85-4eb0-b709-468578b809e0;evaluar la viabilidad de la implementación de desarrollos;evaluar la viabilidad de la implementación de desarrollos;2;0;2
+82;http://data.europa.eu/esco/skill/2111dff8-f830-46ad-80ce-7885893b3134;coordinar eventos;coordinar eventos;1;0;1
+83;http://data.europa.eu/esco/skill/21c5790c-0930-4d74-b3b0-84caf5af12ea;gestionar presupuestos;gestionar presupuestos;31;5;26
+84;http://data.europa.eu/esco/skill/21fecc8a-392e-49ce-ac26-fb0696ccfead;crear especificaciones de proyectos;crear especificaciones de proyectos;2;0;2
+85;http://data.europa.eu/esco/skill/22902bf9-cc3f-495b-811a-c441e28e23f6;gestionar la información de proyectos;gestionar la información de proyectos;4;0;4
+86;http://data.europa.eu/esco/skill/22b8039c-c890-4610-9228-5527e3b98f12;fijar objetivos de garantía de calidad;fijar objetivos de garantía de calidad;2;1;1
+87;http://data.europa.eu/esco/skill/233be639-bdb5-4099-ab40-96d537d6c1f3;garantizar el cumplimiento de la legislación en materia de seguridad;garantizar el cumplimiento de la legislación en materia de seguridad;2;0;2
+88;http://data.europa.eu/esco/skill/2399e65b-cf2b-4f5b-9002-607e790fcf2a;seleccionar el control de riesgos;seleccionar el control de riesgos;5;2;3
+89;http://data.europa.eu/esco/skill/24310a7b-5db1-4917-a705-4835630227ca;elaborar informes de incidentes;elaborar informes de incidentes;1;0;1
+90;http://data.europa.eu/esco/skill/254d5358-8e20-450c-9fed-28ceff0479ef;utilizar drones con fines de ingeniería civil;utilizar drones con fines de ingeniería civil;1;0;1
+91;http://data.europa.eu/esco/skill/26532713-d18f-4e5c-8365-1f57e00f8422;gestionar las operaciones de almacenamiento;gestionar las operaciones de almacenamiento;1;1;0
+92;http://data.europa.eu/esco/skill/267b9417-9d05-4731-a877-bfb978fb50eb;planificar actividades de ingeniería;planificar actividades de ingeniería;13;0;13
+93;http://data.europa.eu/esco/skill/270de514-3206-4cf9-b122-0f148ab06fa1;medir características eléctricas;medir características eléctricas;1;1;0
+94;http://data.europa.eu/esco/skill/279a4b1d-21df-4d78-9f4d-324c73fd7536;gestionar recursos humanos;gestionar recursos humanos;4;3;1
+95;http://data.europa.eu/esco/skill/27ed854c-15b8-4ba2-90e9-ae888a219703;realizar un análisis empresarial;realizar un análisis empresarial;2;2;0
+96;http://data.europa.eu/esco/skill/281a0cb1-4e12-46f4-ba4a-2746cba36e78;coordinar turnos;coordinar turnos;1;0;1
+97;http://data.europa.eu/esco/skill/286e486c-a094-4715-8e5b-a2370b09a408;aplicar medidas correctivas;aplicar medidas correctivas;4;0;4
+98;http://data.europa.eu/esco/skill/2876970d-90af-45bd-9cfd-c0af757947ea;mantener motores eléctricos;mantener motores eléctricos;2;2;0
+99;http://data.europa.eu/esco/skill/28878fd9-9a17-452a-b3b8-5db5c63d7905;analizar las tendencias del mercado de la energía;analizar las tendencias del mercado de la energía;2;1;1
+100;http://data.europa.eu/esco/skill/28a0fe16-4e03-4d5e-8f0e-5198309e77a9;realizar una conservación forense de dispositivos digitales;realizar una conservación forense de dispositivos digitales;1;1;0
+101;http://data.europa.eu/esco/skill/28eb4689-3ba4-47a1-96b0-34a60751ea17;diseñar infraestructuras para explotaciones a cielo abierto;diseñar infraestructuras para explotaciones a cielo abierto;5;4;1
+102;http://data.europa.eu/esco/skill/29312151-0805-41c8-a111-0109a7e932f0;hacer negocios en el mercado financiero;hacer negocios en el mercado financiero;1;1;0
+103;http://data.europa.eu/esco/skill/29cd7e7b-215c-483a-b67a-6bdad0647de9;diseñar la estrategia de contratación;diseñar la estrategia de contratación;1;0;1
+104;http://data.europa.eu/esco/skill/29fb0fb5-dfc4-4098-ac9b-3a712000f48f;gestionar bases de datos;gestionar bases de datos;16;8;8
+105;http://data.europa.eu/esco/skill/2a3807d3-fb29-44cf-8f6c-6a2c36201284;instalar sistemas de filtrado de agua;instalar sistemas de filtrado de agua;1;0;1
+106;http://data.europa.eu/esco/skill/2a45f2d1-8f1a-4c62-9332-cfd3535d9d35;mantener equipos de tratamiento de agua;mantener equipos de tratamiento de agua;2;0;2
+107;http://data.europa.eu/esco/skill/2afefe51-4dcf-4314-a014-7c0477ee7372;aplicar tratamientos al agua;aplicar tratamientos al agua;1;0;1
+108;http://data.europa.eu/esco/skill/2b60c0cf-6ce6-4f04-9748-0e6d883673d8;realizar investigación química de laboratorio en metales;realizar investigación química de laboratorio en metales;1;0;1
+109;http://data.europa.eu/esco/skill/2b7a79e5-84d8-4880-be66-3d9bb05bea17;utilizar patrones de diseño de software;utilizar patrones de diseño de software;2;2;0
+110;http://data.europa.eu/esco/skill/2b834a98-14ff-47e1-8aef-cf8ffae912fa;reunir datos cartográficos;reunir datos cartográficos;1;1;0
+111;http://data.europa.eu/esco/skill/2b92a5b2-6758-4ee3-9fb4-b6387a55cc8f;realizar un análisis de datos;realizar un análisis de datos;5;1;4
+112;http://data.europa.eu/esco/skill/2c28fc20-8a60-4311-8899-5ef8729c05b3;diseñar procesos;diseñar procesos;8;0;8
+113;http://data.europa.eu/esco/skill/2cbb31ac-2403-4c31-90f3-7473623a56fc;investigar accidentes laborales;investigar accidentes laborales;1;1;0
+114;http://data.europa.eu/esco/skill/2d008d5a-b7bd-46f7-bbb1-5d70a0af9c84;controlar los recursos financieros;controlar los recursos financieros;5;1;4
+115;http://data.europa.eu/esco/skill/2d0775c7-2dad-41fa-b8f3-988f73eb6897;reforzar hormigón;reforzar hormigón;1;1;0
+116;http://data.europa.eu/esco/skill/2d78e626-28e9-423a-abb1-5f6491785a20;mantener planos de yacimientos mineros;mantener planos de yacimientos mineros;2;1;1
+117;http://data.europa.eu/esco/skill/2daec0e6-f0c1-43e8-8178-aedba99130ec;establecer procesos de datos;establecer procesos de datos;4;0;4
+118;http://data.europa.eu/esco/skill/2db2d9a8-298d-4d1a-a194-d3282e70d6cb;evaluar planes de proyectos;evaluar planes de proyectos;9;1;8
+119;http://data.europa.eu/esco/skill/2e28b608-2ebc-495f-ab2a-ad2279507647;construir sistemas de drenaje abierto;construir sistemas de drenaje abierto;2;0;2
+120;http://data.europa.eu/esco/skill/2e730bf1-c145-4456-8515-0033f3351067;gestionar bodegas;gestionar bodegas;1;0;1
+121;http://data.europa.eu/esco/skill/2f4e1ff6-1191-4fd8-b1bf-043af19cec65;realizar la evaluación sensorial de productos alimenticios;realizar la evaluación sensorial de productos alimenticios;1;1;0
+122;http://data.europa.eu/esco/skill/307ffd2d-8fb3-43ff-8ad8-4052382f8f83;informar sobre la gestión general de una empresa;informar sobre la gestión general de una empresa;2;0;2
+123;http://data.europa.eu/esco/skill/31599ac3-e03c-42f8-8f08-b549af8234f2;redactar especificaciones técnicas para la contratación;redactar especificaciones técnicas para la contratación;1;0;1
+124;http://data.europa.eu/esco/skill/31c69100-b612-4a61-8db5-fd314318854c;ejecutar cálculos matemáticos analíticos;ejecutar cálculos matemáticos analíticos;2;0;2
+125;http://data.europa.eu/esco/skill/31eecea5-c1ef-4e5c-96a9-808ff4e43813;supervisar tendencias de precios;supervisar tendencias de precios;1;0;1
+126;http://data.europa.eu/esco/skill/3220a66f-d129-463b-848e-891b4f1c79e3;desarrollar estrategias de gestión de residuos peligrosos;desarrollar estrategias de gestión de residuos peligrosos;1;1;0
+127;http://data.europa.eu/esco/skill/328733a7-6d84-420d-a65c-2a8014fadc60;registrar resultados de ensayos;registrar resultados de ensayos;1;0;1
+128;http://data.europa.eu/esco/skill/32db65d3-5ef3-43eb-9bf8-752c9cf0b22e;personalizar metodologías de proyectos;personalizar metodologías de proyectos;9;0;9
+129;http://data.europa.eu/esco/skill/334e3e49-fb02-4051-809a-f06adfdc1c40;resolver problemas operativos;resolver problemas operativos;1;0;1
+130;http://data.europa.eu/esco/skill/3369d4f5-bfa7-47dc-b61f-e74d0d91bf74;optimizar resultados financieros;optimizar resultados financieros;3;0;3
+131;http://data.europa.eu/esco/skill/339ac029-066a-4985-9f9d-b3d7c8fea0bb;gestionar recursos humanos;gestionar recursos humanos;6;2;4
+132;http://data.europa.eu/esco/skill/33f39236-ab8c-4554-b80c-ca506cafde45;evaluar el impacto de los programas sociales;evaluar el impacto de los programas sociales;1;0;1
+133;http://data.europa.eu/esco/skill/344d8c63-0bc2-4a70-9fea-cfe3ca5a6ca0;verificar parámetros de procesamiento;verificar parámetros de procesamiento;2;0;2
+134;http://data.europa.eu/esco/skill/34d6ed30-5d35-44b9-9498-fd15badb5f28;asesorar sobre estrategias de mercado;asesorar sobre estrategias de mercado;1;1;0
+135;http://data.europa.eu/esco/skill/351e3f8f-4631-412d-963f-25b5fd4efe48;mantener registros de operaciones mineras;mantener registros de operaciones mineras;1;0;1
+136;http://data.europa.eu/esco/skill/36e9c099-614e-44f1-ab0a-5e6fda4a0763;realizar inspecciones;realizar inspecciones;3;0;3
+137;http://data.europa.eu/esco/skill/382c11ed-20d5-4ae7-b60e-15fec527fa6c;aplicar métodos de análisis estadísticos;aplicar métodos de análisis estadísticos;14;2;12
+138;http://data.europa.eu/esco/skill/38d49d88-9069-467b-b29e-3cae739bdd4d;construir modelos predictivos;construir modelos predictivos;2;0;2
+139;http://data.europa.eu/esco/skill/39e71107-3aa9-41a0-809c-edea477c968f;realizar levantamientos topográficos;realizar levantamientos topográficos;1;1;0
+140;http://data.europa.eu/esco/skill/3b64ab47-a874-403a-b781-7b23c2fc3c6c;asesorar sobre temas de construcción;asesorar sobre temas de construcción;1;0;1
+141;http://data.europa.eu/esco/skill/3bddfd7c-ab6d-40c2-883d-5e97fb7640ba;crear diseño de software;crear diseño de software;2;2;0
+142;http://data.europa.eu/esco/skill/3bf7e0ee-2580-41e8-924d-9d504dc98546;gestionar datos sobre yacimientos mineros;gestionar datos sobre yacimientos mineros;2;2;0
+143;http://data.europa.eu/esco/skill/3c03ee71-4a23-448f-b79e-81fd75d27dca;aplicar la gestión de cambios;aplicar la gestión de cambios;2;0;2
+144;http://data.europa.eu/esco/skill/3c1af34b-4562-4c39-a30e-0812b84a147e;utilizar software de diseño especializado;utilizar software de diseño especializado;2;0;2
+145;http://data.europa.eu/esco/skill/3c1cbc5e-2220-4f45-bcc8-3d52c8c9cae0;analizar modelos de negocio;analizar modelos de negocio;2;1;1
+146;http://data.europa.eu/esco/skill/3c6fe585-7d12-4315-b579-e30c042088ce;utilizar sistemas de ingeniería asistida por ordenador;utilizar sistemas de ingeniería asistida por ordenador;6;1;5
+147;http://data.europa.eu/esco/skill/3cb68bb2-66fc-495a-af82-012338a9402b;interpretar la información comercial;interpretar la información comercial;3;2;1
+148;http://data.europa.eu/esco/skill/3cd0ee1e-73b1-487e-b186-2e0c4fc3720f;evaluar los problemas de infraestructura de las telecomunicaciones;evaluar los problemas de infraestructura de las telecomunicaciones;1;1;0
+149;http://data.europa.eu/esco/skill/3cd35f5d-ce6d-4f14-9a09-53d7a28d834c;mantener la relación con los proveedores;mantener la relación con los proveedores;2;0;2
+150;http://data.europa.eu/esco/skill/3d0a644e-d056-46cb-aa0e-fbf6f88fcbb1;investigar accidentes en minas;investigar accidentes en minas;1;0;1
+151;http://data.europa.eu/esco/skill/3d3ee5c3-4286-457f-9f76-1704011f7e11;cumplir la normativa legal;cumplir la normativa legal;5;0;5
+152;http://data.europa.eu/esco/skill/3d64b8fd-bb09-4d13-a3cf-300ed8909088;redactar especificaciones;redactar especificaciones;2;0;2
+153;http://data.europa.eu/esco/skill/3dd3dfa7-51c0-40ef-af46-e2df300489f6;vigilar el cumplimiento de los parámetros de los proyectos de construcción;vigilar el cumplimiento de los parámetros de los proyectos de construcción;6;0;6
+154;http://data.europa.eu/esco/skill/3e4cdaee-740c-4754-9135-466362bbd22e;mantener equipos industriales;mantener equipos industriales;4;1;3
+155;http://data.europa.eu/esco/skill/3f6dc31c-ceef-4e93-9d8a-b4b862cf9b51;probar equipos eléctricos;probar equipos eléctricos;3;2;1
+156;http://data.europa.eu/esco/skill/3f86173d-e101-4fcd-934f-ff9de29c081c;realizar análisis de sistemas;realizar análisis de sistemas;4;0;4
+157;http://data.europa.eu/esco/skill/3fa8e226-4f06-4efb-8abe-26dbc1f5c085;mantener registros de información sobre incidentes;mantener registros de información sobre incidentes;1;0;1
+158;http://data.europa.eu/esco/skill/41097e86-42ad-4bbd-9a72-55f428fee251;desarrollar procedimientos de mantenimiento preventivo de instrumentos;desarrollar procedimientos de mantenimiento preventivo de instrumentos;1;0;1
+159;http://data.europa.eu/esco/skill/415cb0c2-e169-4f99-ba3e-d1c433b75368;montar componentes eléctricos;montar componentes eléctricos;1;0;1
+160;http://data.europa.eu/esco/skill/41a3240f-58ba-44e2-a688-edeb21ea5c16;realizar análisis de control de calidad;realizar análisis de control de calidad;13;1;12
+161;http://data.europa.eu/esco/skill/4216e465-7baa-4884-a241-54b197bb9278;efectuar la extracción de datos;efectuar la extracción de datos;7;2;5
+162;http://data.europa.eu/esco/skill/440f64e5-e66c-45ee-bc29-53c14a2ad720;utilizar sistemas de información geográfica;utilizar sistemas de información geográfica;2;2;0
+163;http://data.europa.eu/esco/skill/4463a721-69f3-413d-8321-43e3af13a4f1;utilizar bases de datos;utilizar bases de datos;3;2;1
+164;http://data.europa.eu/esco/skill/44e2c4c4-9fd2-42d4-a133-d81360ded4bc;garantizar el cumplimiento de las normas de salud, seguridad e higiene;garantizar el cumplimiento de las normas de salud, seguridad e higiene;5;0;5
+165;http://data.europa.eu/esco/skill/451c8010-7dbb-4f96-b4d4-0955766d9eff;mejorar procesos químicos;mejorar procesos químicos;2;1;1
+166;http://data.europa.eu/esco/skill/465af498-53b1-4e04-9f49-7458afb59274;diseñar equipos para la prestación de servicios públicos;diseñar equipos para la prestación de servicios públicos;1;0;1
+167;http://data.europa.eu/esco/skill/46ec0033-3c71-415e-bcff-b065675ba2dc;integrar datos de las TIC;integrar datos de las TIC;4;0;4
+168;http://data.europa.eu/esco/skill/47a49cd6-097d-457a-9f7b-c290c14930d5;analizar inteligencia de datos;analizar inteligencia de datos;3;2;1
+169;http://data.europa.eu/esco/skill/49118827-3dbd-4c96-aebf-a23096e43d25;mantener la documentación y los registros contractuales;mantener la documentación y los registros contractuales;1;0;1
+170;http://data.europa.eu/esco/skill/4a2d006d-8349-482b-9e54-175b9b113d27;desarrollar programas de rehabilitación de minas;desarrollar programas de rehabilitación de minas;3;3;0
+171;http://data.europa.eu/esco/skill/4b2c4de9-43d7-4905-9d58-bc2e7d84b2e1;gestionar los procesos de licitación;gestionar los procesos de licitación;8;0;8
+172;http://data.europa.eu/esco/skill/4b3ae518-6746-4487-8d3b-4cfc063a43d0;utilizar herramientas de simulación de negocios;utilizar herramientas de simulación de negocios;6;4;2
+173;http://data.europa.eu/esco/skill/4b905e0b-6323-49fb-aca2-e1bf8c3d5a81;supervisar actividades de planificación de minas;supervisar actividades de planificación de minas;6;1;5
+174;http://data.europa.eu/esco/skill/4bbb309f-9162-49b9-93da-fb2c371e5c5f;recoger muestras para análisis;recoger muestras para análisis;2;0;2
+175;http://data.europa.eu/esco/skill/4c5fed97-939f-4050-adc0-7adaf15065e5;planificar el desarrollo de recursos hídricos;planificar el desarrollo de recursos hídricos;1;1;0
+176;http://data.europa.eu/esco/skill/4ce09e3d-ca6b-424a-a328-7f551db75e59;actualizar el presupuesto;actualizar el presupuesto;1;0;1
+177;http://data.europa.eu/esco/skill/4cecff40-8e5c-4320-a87d-be8687008dbf;inspeccionar instalaciones;inspeccionar instalaciones;1;0;1
+178;http://data.europa.eu/esco/skill/4d30ad07-9e39-4899-81dd-02b280f162f9;aplicar un pensamiento de diseño sistémico;aplicar un pensamiento de diseño sistémico;1;0;1
+179;http://data.europa.eu/esco/skill/4d38b095-6730-4157-9807-8049dd7b43b8;documentar el avance del proyecto;documentar el avance del proyecto;7;0;7
+180;http://data.europa.eu/esco/skill/4d85b881-e490-4b4c-897a-2faa4ef53956;gestionar arquitecturas de datos informáticos;gestionar arquitecturas de datos informáticos;3;1;2
+181;http://data.europa.eu/esco/skill/4df7a57a-9405-4995-8e02-4ca404832247;gestionar los cambios del proyecto;gestionar los cambios del proyecto;5;0;5
+182;http://data.europa.eu/esco/skill/4e0ba879-1cf3-4260-822b-2c2e3cc5e269;instalar sistemas de energía eólica en tierra;instalar sistemas de energía eólica en tierra;1;1;0
+183;http://data.europa.eu/esco/skill/4e4a9605-66d5-4e47-b591-bdc2d0fbdba1;formar a empleados en materia de seguridad minera;formar a empleados en materia de seguridad minera;1;0;1
+184;http://data.europa.eu/esco/skill/4e87c852-602a-4a0e-b8d8-20709ce14ac5;evaluar el ciclo de vida de los recursos;evaluar el ciclo de vida de los recursos;2;0;2
+185;http://data.europa.eu/esco/skill/4f060129-8b75-4d58-a8dd-515bd8fef349;realizar informes estadísticos y financieros;realizar informes estadísticos y financieros;3;0;3
+186;http://data.europa.eu/esco/skill/4f6b656a-54d0-48ce-9b55-ebcac5904a14;manipular tecnologías geoespaciales;manipular tecnologías geoespaciales;1;1;0
+187;http://data.europa.eu/esco/skill/4f9f0410-5db0-4b3b-8de3-1ded1600c719;inspeccionar obras de construcción;inspeccionar obras de construcción;1;0;1
+188;http://data.europa.eu/esco/skill/4fb7c7aa-9f19-4cc3-9e19-64ce564f22f5;gestionar incidentes;gestionar incidentes;1;0;1
+189;http://data.europa.eu/esco/skill/507e2b21-1285-47e9-bf09-0db794df1bf0;elaborar una política medioambiental;elaborar una política medioambiental;1;1;0
+190;http://data.europa.eu/esco/skill/50ab7296-bc34-4cb1-9fdb-7cf7b6f80f9c;mantener las normas de trabajo;mantener las normas de trabajo;1;0;1
+191;http://data.europa.eu/esco/skill/50ac5186-bb18-4ffb-9f29-00636853c8ea;diseñar sistemas de energía solar;diseñar sistemas de energía solar;2;2;0
+192;http://data.europa.eu/esco/skill/50b100ea-74fd-4706-99db-3e4ca55e51b8;realizar una limpieza de datos;realizar una limpieza de datos;1;0;1
+193;http://data.europa.eu/esco/skill/5206a9b8-8337-4f0b-ae00-163a2f55d8cf;ocuparse del tratamiento de aguas residuales;ocuparse del tratamiento de aguas residuales;2;1;1
+194;http://data.europa.eu/esco/skill/52797dce-911c-4e6d-b0cb-491f6469014f;instalar equipos eléctricos y electrónicos;instalar equipos eléctricos y electrónicos;1;1;0
+195;http://data.europa.eu/esco/skill/53815c73-d352-4d4d-92cb-fb7020cbd8e6;llevar a cabo un control preciso del inventario;llevar a cabo un control preciso del inventario;2;0;2
+196;http://data.europa.eu/esco/skill/539b2a34-5982-40b7-ae0c-1a6c3b992627;solicitar permisos de trabajo;solicitar permisos de trabajo;1;0;1
+197;http://data.europa.eu/esco/skill/541561bc-510c-4a99-881c-2d8bf5a85462;utilizar software de dibujo técnico;utilizar software de dibujo técnico;6;5;1
+198;http://data.europa.eu/esco/skill/54660948-b811-49a9-874c-bf2be5f280a2;satisfacer los requisitos técnicos;satisfacer los requisitos técnicos;1;0;1
+199;http://data.europa.eu/esco/skill/5475343c-5e75-415f-b431-17f3c20a347e;utilizar software de planificación de la producción;utilizar software de planificación de la producción;11;0;11
+200;http://data.europa.eu/esco/skill/54c9c155-9293-4329-8ed2-2e76e8b519d4;definir los criterios de la calidad de los datos;definir los criterios de la calidad de los datos;1;0;1
+201;http://data.europa.eu/esco/skill/54ddd422-5905-44db-93d4-03b17b913c5e;utilizar software CADD;utilizar software CADD;1;1;0
+202;http://data.europa.eu/esco/skill/556be6f4-225f-46a2-a795-d3d54d98c3f7;realizar auditorías en el lugar de trabajo;realizar auditorías en el lugar de trabajo;3;0;3
+203;http://data.europa.eu/esco/skill/55cc1f3f-69fc-46ec-b24a-9708f6bd92b4;utilizar herramientas informáticas para la modelización del lugar;utilizar herramientas informáticas para la modelización del lugar;1;0;1
+204;http://data.europa.eu/esco/skill/56042303-972b-41be-9310-58467599ff7e;analizar procesos empresariales;analizar procesos empresariales;4;0;4
+205;http://data.europa.eu/esco/skill/56fa904b-eb1c-4f34-a671-8c5dc6af6de1;colaborar con profesionales de la geología;colaborar con profesionales de la geología;1;0;1
+206;http://data.europa.eu/esco/skill/57231a22-4da7-49c8-97b8-75672feadf1e;gestionar datos cuantitativos;gestionar datos cuantitativos;3;3;0
+207;http://data.europa.eu/esco/skill/576b305e-8c25-4546-8a69-87f975783114;cumplir especificaciones de los contratos;cumplir especificaciones de los contratos;1;0;1
+208;http://data.europa.eu/esco/skill/58240e34-7364-4078-a530-7a4f51649731;identificar acciones preventivas;identificar acciones preventivas;1;0;1
+209;http://data.europa.eu/esco/skill/594bd121-9614-4e87-9ecf-6ccb95507efe;elaborar una evaluación de riesgos;elaborar una evaluación de riesgos;5;1;4
+210;http://data.europa.eu/esco/skill/5966d07c-0242-43ad-b2e8-839031a084d9;analizar resultados de laboratorio;analizar resultados de laboratorio;1;0;1
+211;http://data.europa.eu/esco/skill/5a29fbb3-3b5c-44f2-b07a-e84faa790088;mantener sistemas de sensores;mantener sistemas de sensores;2;1;1
+212;http://data.europa.eu/esco/skill/5b06c369-10db-477d-a8df-987179324001;gestionar procesos de distribución de agua;gestionar procesos de distribución de agua;1;1;0
+213;http://data.europa.eu/esco/skill/5b264a14-d4db-4352-9278-fbb63c5ebed4;utilizar equipos de diagnóstico de automóviles;utilizar equipos de diagnóstico de automóviles;3;3;0
+214;http://data.europa.eu/esco/skill/5b8a3dd2-de10-48a0-8ce5-522f1fff8450;realizar inspecciones de cumplimiento de contratos;realizar inspecciones de cumplimiento de contratos;2;0;2
+215;http://data.europa.eu/esco/skill/5b98cca5-778a-4041-a0c9-130f92b680fc;manipular explosivos;manipular explosivos;5;0;5
+216;http://data.europa.eu/esco/skill/5b9cde20-f1b9-4adc-bfb3-dbf70b14138d;utilizar programación orientada a objetos;utilizar programación orientada a objetos;7;6;1
+217;http://data.europa.eu/esco/skill/5ba1d5b9-3f8d-46ca-bf9f-2e9ca65d1350;aplicar análisis de peligros y puntos de control crítico;aplicar análisis de peligros y puntos de control crítico;1;1;0
+218;http://data.europa.eu/esco/skill/5c98825f-146d-4d35-97cf-207b2afd9ae2;diseñar planos técnicos;diseñar planos técnicos;2;0;2
+219;http://data.europa.eu/esco/skill/5c99d21a-9d02-4638-9b52-a6ba840dcb0a;sintetizar información financiera;sintetizar información financiera;1;0;1
+220;http://data.europa.eu/esco/skill/5d34adde-0b78-42b4-9d3d-69e9388d8398;supervisar el control de calidad;supervisar el control de calidad;6;0;6
+221;http://data.europa.eu/esco/skill/5d71a91f-cc72-4b66-b6e3-d75ecc05e235;gestionar sistemas de instrumentación;gestionar sistemas de instrumentación;12;3;9
+222;http://data.europa.eu/esco/skill/5d9dd44a-81f8-4710-bd4d-af27ec5c2139;calcular materiales necesarios para construcción;calcular materiales necesarios para construcción;1;0;1
+223;http://data.europa.eu/esco/skill/5d9e766b-8f17-4e17-bfab-3bb0e0719791;determinar normas de calidad;determinar normas de calidad;1;0;1
+224;http://data.europa.eu/esco/skill/5da73370-f6b9-417d-a94c-09bf01f84aa2;utilizar software de control de acceso;utilizar software de control de acceso;1;0;1
+225;http://data.europa.eu/esco/skill/5edaf4c4-6747-4eb8-b898-72dd2351dca8;controlar el flujo de producción por control remoto;controlar el flujo de producción por control remoto;1;0;1
+226;http://data.europa.eu/esco/skill/5ef0c719-5bcb-49f8-b8eb-824388225333;utilizar programación con scripts;utilizar programación con scripts;2;1;1
+227;http://data.europa.eu/esco/skill/5f1d1319-7954-4a9b-90c7-57668e3a0d4b;interpretar estados financieros;interpretar estados financieros;1;1;0
+228;http://data.europa.eu/esco/skill/5f2efbdf-08a2-49cd-9c06-bd284e4f0fbf;negociar términos con proveedores;negociar términos con proveedores;1;0;1
+229;http://data.europa.eu/esco/skill/5f60f97b-731e-49cb-8407-d93e98b65a08;evaluar los riesgos implícitos en las operaciones de aparejos;evaluar los riesgos implícitos en las operaciones de aparejos;1;0;1
+230;http://data.europa.eu/esco/skill/60ab2bf7-c812-4a88-86c0-7c81a9b2f77c;realizar auditorías ambientales;realizar auditorías ambientales;1;1;0
+231;http://data.europa.eu/esco/skill/60ccdd6a-c100-43cf-9797-543a5c42b922;garantizar la salud y la seguridad en procesos de producción;garantizar la salud y la seguridad en procesos de producción;1;0;1
+232;http://data.europa.eu/esco/skill/6101480a-811d-46da-b4f6-fc0360826f22;gestionar proyectos de construcción de puentes;gestionar proyectos de construcción de puentes;1;0;1
+233;http://data.europa.eu/esco/skill/61368732-eb1c-47e0-8e33-20c8c8f5e70a;hacer cálculos para instalaciones eléctricas;hacer cálculos para instalaciones eléctricas;3;2;1
+234;http://data.europa.eu/esco/skill/6181f475-110c-497c-a46d-ed2e14e7bc90;garantizar el cumplimiento de los plazos de construcción;garantizar el cumplimiento de los plazos de construcción;4;0;4
+235;http://data.europa.eu/esco/skill/631f70b6-d431-456d-8262-cb8c79fdb2f2;verificar la calidad del papel;verificar la calidad del papel;1;0;1
+236;http://data.europa.eu/esco/skill/6451e645-67b5-4cc7-aafd-fab19629fa82;archivar documentación relativa al trabajo;archivar documentación relativa al trabajo;1;0;1
+237;http://data.europa.eu/esco/skill/649b00ec-a70d-4b3a-ae2e-5662964b0fb8;planificar actividades de mantenimiento;planificar actividades de mantenimiento;7;0;7
+238;http://data.europa.eu/esco/skill/64bd4157-5df0-4166-8259-ede237dd7cdf;estimar las repercusiones de los riesgos;estimar las repercusiones de los riesgos;3;0;3
+239;http://data.europa.eu/esco/skill/65155435-1c5b-41ee-8812-e0b9b03ae480;llevar a cabo la reparación de vehículos;llevar a cabo la reparación de vehículos;1;1;0
+240;http://data.europa.eu/esco/skill/6542601c-92ee-4a03-abd9-fde0635727a2;reaccionar ante contingencias eléctricas;reaccionar ante contingencias eléctricas;1;0;1
+241;http://data.europa.eu/esco/skill/6556cbf1-d5c0-4f53-89a9-8707066069a6;evaluar presupuestos;evaluar presupuestos;2;0;2
+242;http://data.europa.eu/esco/skill/66cf649e-fd1d-4840-8250-ebd546a12239;evaluar necesidades de producción en la planificación de un calendario de producción;evaluar necesidades de producción en la planificación de un calendario de producción;1;0;1
+243;http://data.europa.eu/esco/skill/6742977a-aa00-4c8c-9861-898b0373907e;asesorar sobre políticas de gestión sostenible;asesorar sobre políticas de gestión sostenible;1;1;0
+244;http://data.europa.eu/esco/skill/68162174-68c3-4601-840b-5e63c2dd7481;diagnosticar motores defectuosos;diagnosticar motores defectuosos;1;1;0
+245;http://data.europa.eu/esco/skill/683bc3e3-6ec1-4ad2-8d62-d0ac1fabbe76;utilizar analítica con fines comerciales;utilizar analítica con fines comerciales;5;1;4
+246;http://data.europa.eu/esco/skill/68ad2716-36f4-4445-a437-ebfce0e23430;diseñar un plan de marketing y ventas;diseñar un plan de marketing y ventas;2;2;0
+247;http://data.europa.eu/esco/skill/68b6ef08-d823-489d-a95c-752ae6f6e6a7;leer planos estándar;leer planos estándar;1;0;1
+248;http://data.europa.eu/esco/skill/68e73bf6-2838-4705-86f4-e4bda4ac8a6f;prever la demanda de productos;prever la demanda de productos;2;0;2
+249;http://data.europa.eu/esco/skill/69f23426-9279-4fe6-a283-24c2aa4c855d;garantizar la disponibilidad de los equipos;garantizar la disponibilidad de los equipos;1;0;1
+250;http://data.europa.eu/esco/skill/6a259051-86bf-4d55-a72e-c795d4ec1f23;coordinar operaciones de perforación;coordinar operaciones de perforación;2;2;0
+251;http://data.europa.eu/esco/skill/6a66039e-0580-473b-a605-eedfdab85a2d;educar sobre gestión de emergencias;educar sobre gestión de emergencias;3;2;1
+252;http://data.europa.eu/esco/skill/6a7792a9-888a-46ad-afc9-2c0d94c8fde6;crear modelos de procesos empresariales;crear modelos de procesos empresariales;2;0;2
+253;http://data.europa.eu/esco/skill/6a899482-8bcf-40ca-ae67-579a1cc467ab;gestionar proyectos de ingeniería;gestionar proyectos de ingeniería;47;22;25
+254;http://data.europa.eu/esco/skill/6ab7c99f-a430-419c-a881-8ef945230e4d;revisar especificaciones de productos;revisar especificaciones de productos;1;0;1
+255;http://data.europa.eu/esco/skill/6b222aac-688c-4c9d-acbc-7fe25d37565e;mantener registros y manuales;mantener registros y manuales;2;0;2
+256;http://data.europa.eu/esco/skill/6bc02a4a-66af-4b49-9bd3-d07695d52b42;respetar el código de conducta ética empresarial;respetar el código de conducta ética empresarial;1;1;0
+257;http://data.europa.eu/esco/skill/6c08403c-a5bb-4868-b8c2-b7d039c0e511;diseñar esquema de base de datos;diseñar esquema de base de datos;5;5;0
+258;http://data.europa.eu/esco/skill/6c80c47c-3d08-4356-aa82-46f6ec82c898;asesorar sobre cuestiones relacionadas con problemas de fabricación;asesorar sobre cuestiones relacionadas con problemas de fabricación;1;0;1
+259;http://data.europa.eu/esco/skill/6c870993-9341-438b-91c0-c7fe4f96d8f5;aplicar pensamiento estratégico;aplicar pensamiento estratégico;1;0;1
+260;http://data.europa.eu/esco/skill/6c97d04d-7239-4dc7-90ef-3e812ba2b124;realizar análisis de mercado de la contratación;realizar análisis de mercado de la contratación;1;0;1
+261;http://data.europa.eu/esco/skill/6caa915b-b80d-4b43-8bbc-54914e0d5032;gestionar sistemas de ventilación de minas;gestionar sistemas de ventilación de minas;4;4;0
+262;http://data.europa.eu/esco/skill/6d7e3b0c-3995-4953-816d-cf3c5e9ffe34;respetar los procedimientos operativos estándar;respetar los procedimientos operativos estándar;2;0;2
+263;http://data.europa.eu/esco/skill/6f571969-3640-4774-a9bc-fd2ef583fdec;aplicar procedimientos de seguridad en laboratorios;aplicar procedimientos de seguridad en laboratorios;1;0;1
+264;http://data.europa.eu/esco/skill/6f993130-082b-4732-b62f-52cdf2096ad9;utilizar métodos de análisis de datos logísticos;utilizar métodos de análisis de datos logísticos;4;1;3
+265;http://data.europa.eu/esco/skill/70159320-b7f9-4d3e-9f00-99e0adf3f77e;realizar análisis de inspección;realizar análisis de inspección;1;0;1
+266;http://data.europa.eu/esco/skill/70bc4cfe-16c8-4433-a873-15ea8620453e;utilizar equipos de laboratorio;utilizar equipos de laboratorio;1;0;1
+267;http://data.europa.eu/esco/skill/713fb616-118e-40bc-9366-4a69879a49d5;aplicar procesos de calidad de datos;aplicar procesos de calidad de datos;9;0;9
+268;http://data.europa.eu/esco/skill/714eebcb-569a-4f1b-b592-28f70b59a9ba;promover el desarrollo del personal;promover el desarrollo del personal;1;0;1
+269;http://data.europa.eu/esco/skill/71b300d6-8de6-4282-b3c0-9a0401d9095f;analizar datos de perforación minera;analizar datos de perforación minera;1;1;0
+270;http://data.europa.eu/esco/skill/71dde84c-0058-4c52-a556-523369333db8;utilizar sistemas administrativos;utilizar sistemas administrativos;1;0;1
+271;http://data.europa.eu/esco/skill/7263d760-f114-42b8-8d60-3b9e8107e990;supervisar operaciones de distribución de electricidad;supervisar operaciones de distribución de electricidad;2;1;1
+272;http://data.europa.eu/esco/skill/728cd984-19ad-441c-8145-b8edc9c53445;someter alimentos a procesos de refrigeración;someter alimentos a procesos de refrigeración;1;1;0
+273;http://data.europa.eu/esco/skill/72b5b695-fe1c-4b21-97e4-fa3a680cab2e;implementar sistemas de gestión de calidad;implementar sistemas de gestión de calidad;17;5;12
+274;http://data.europa.eu/esco/skill/72cac57c-ec91-4b1e-95fe-bc005f21a24b;gestionar depósitos subterráneos;gestionar depósitos subterráneos;1;0;1
+275;http://data.europa.eu/esco/skill/73225018-7139-433b-bdba-2b90774761d9;emitir órdenes de compra;emitir órdenes de compra;1;0;1
+276;http://data.europa.eu/esco/skill/7341904f-5913-470c-8c53-bc832df248ec;mantener equipos robóticos;mantener equipos robóticos;1;0;1
+277;http://data.europa.eu/esco/skill/7369f779-4b71-4aab-8836-48b69c676eec;manejar sistema de gestión de bases de datos relacionales;manejar sistema de gestión de bases de datos relacionales;19;5;14
+278;http://data.europa.eu/esco/skill/736ef286-fbd3-4e5c-a4b4-d1e2008c9898;elaborar estrategias de marketing digital;elaborar estrategias de marketing digital;1;1;0
+279;http://data.europa.eu/esco/skill/7373abdb-ee5a-4949-b4ae-dee60ab37914;emplear un equipo de comunicación;emplear un equipo de comunicación;1;1;0
+280;http://data.europa.eu/esco/skill/73a9561d-112c-4d8a-9d5f-b2c11c5bbd5f;gestionar residuos;gestionar residuos;2;2;0
+281;http://data.europa.eu/esco/skill/744442ac-c157-4350-8be0-ce454df4f5c5;detectar y corregir errores de las tecnologías de la información y de las comunicaciones;detectar y corregir errores de las tecnologías de la información y de las comunicaciones;2;2;0
+282;http://data.europa.eu/esco/skill/746d4d58-7e6b-417c-a0b3-3f0c44564a2e;elaborar políticas de gestión de las instalaciones;elaborar políticas de gestión de las instalaciones;1;0;1
+283;http://data.europa.eu/esco/skill/75791d32-ec99-49c3-92dc-728fe73a9de7;examinar estructuras de hormigón;examinar estructuras de hormigón;1;1;0
+284;http://data.europa.eu/esco/skill/75b30aeb-34c0-40f4-b77d-271d75a98b14;mejorar procesos empresariales;mejorar procesos empresariales;12;1;11
+285;http://data.europa.eu/esco/skill/75d2ac62-700a-41d1-b920-5cd7aaa78553;manejar sistemas de control;manejar sistemas de control;5;3;2
+286;http://data.europa.eu/esco/skill/75f839c2-fd9a-4ad3-8921-6e734608568d;utilizar lenguajes de consulta;utilizar lenguajes de consulta;2;2;0
+287;http://data.europa.eu/esco/skill/76415d7f-0fde-4364-b45f-5c044580d2aa;crear planos CAD;crear planos CAD;5;0;5
+288;http://data.europa.eu/esco/skill/770d4956-b5e0-4d44-bf42-3a766b232c5d;mantener un repositorio central para el proyecto;mantener un repositorio central para el proyecto;1;0;1
+289;http://data.europa.eu/esco/skill/772a9c72-abef-4333-9788-f4cb48ad8e08;indicar software para la gestión de almacenes;indicar software para la gestión de almacenes;1;0;1
+290;http://data.europa.eu/esco/skill/77558a0f-5e48-44bb-80d2-6380592080de;desarrollar procesos de producción de alimentos;desarrollar procesos de producción de alimentos;1;1;0
+291;http://data.europa.eu/esco/skill/77e7cb08-2c6f-42ab-881b-b34b2318acbe;gestionar sistemas administrativos;gestionar sistemas administrativos;1;1;0
+292;http://data.europa.eu/esco/skill/7802ce4b-2b70-4bd2-bdb3-6ce1482da6ab;realizar análisis de alimentos;realizar análisis de alimentos;1;1;0
+293;http://data.europa.eu/esco/skill/78845d0c-e56f-4318-a9c6-bf75931dd520;labores de inteligencia sobre amenazas;labores de inteligencia sobre amenazas;1;1;0
+294;http://data.europa.eu/esco/skill/78b1de70-0930-462f-9a7e-bf9b4135e1e2;preparar informes periódicos;preparar informes periódicos;3;0;3
+295;http://data.europa.eu/esco/skill/798d427e-51b3-4cd4-8b24-1357015e9ae7;optimizar la producción;optimizar la producción;1;0;1
+296;http://data.europa.eu/esco/skill/79c36c91-28a5-44b7-ab9b-7093b2d4b21e;asesorar sobre asuntos financieros;asesorar sobre asuntos financieros;1;1;0
+297;http://data.europa.eu/esco/skill/7af6e9e8-1e11-4c0b-b7c6-ac96bbbbc674;coordinar equipos de ingeniería;coordinar equipos de ingeniería;19;1;18
+298;http://data.europa.eu/esco/skill/7afd29d7-9c9f-4151-83f2-562b8c94a3af;aplicar conceptos de gestión del transporte;aplicar conceptos de gestión del transporte;1;1;0
+299;http://data.europa.eu/esco/skill/7b3abd38-61ae-42a4-88bb-0884784f9ee1;asesorar a la clientela acerca de las posibilidades técnicas;asesorar a la clientela acerca de las posibilidades técnicas;1;0;1
+300;http://data.europa.eu/esco/skill/7bb2bd48-0da4-427a-a94f-1eddf5565eba;realizar la instalación eléctrica de un automóvil;realizar la instalación eléctrica de un automóvil;1;1;0
+301;http://data.europa.eu/esco/skill/7c05199f-7b03-4a4a-afee-7c9dfcf9066a;planificar la asignación de recursos;planificar la asignación de recursos;4;0;4
+302;http://data.europa.eu/esco/skill/7ca5d3c2-2cea-4fac-88e4-f2955c5b705c;utilizar sistemas informáticos con fines comerciales;utilizar sistemas informáticos con fines comerciales;1;0;1
+303;http://data.europa.eu/esco/skill/7d092d81-d1e2-4c34-b3cb-c1c9f2e68b7d;finalizar el proyecto dentro del presupuesto;finalizar el proyecto dentro del presupuesto;2;0;2
+304;http://data.europa.eu/esco/skill/7d0f33ea-e724-4d77-8b75-ee4fe66bb9ba;planificar procesos de fabricación;planificar procesos de fabricación;1;1;0
+305;http://data.europa.eu/esco/skill/7e1f9657-ab4e-407c-842f-b846197060e3;ejecutar auditorías de TIC;ejecutar auditorías de TIC;1;1;0
+306;http://data.europa.eu/esco/skill/801ef90e-6db2-4a6b-83bc-5e1144524d10;evitar accidentes de trabajo;evitar accidentes de trabajo;1;1;0
+307;http://data.europa.eu/esco/skill/8181aa4c-42bc-4036-a3d2-5cb6bbb34239;gestionar incidentes de ciberseguridad;gestionar incidentes de ciberseguridad;4;4;0
+308;http://data.europa.eu/esco/skill/818c2b89-1335-4443-ada7-e1046862e273;instalar componentes de automatización;instalar componentes de automatización;1;0;1
+309;http://data.europa.eu/esco/skill/81db5616-3c98-4317-a728-5dae08d44bd4;entender la terminología comercial y financiera;entender la terminología comercial y financiera;2;1;1
+310;http://data.europa.eu/esco/skill/8276e91a-d2c4-4723-9237-ba67da54ff1e;transportar tierra;transportar tierra;1;0;1
+311;http://data.europa.eu/esco/skill/82b6b024-6369-4d84-ba68-c665b9df53f8;comprobar la solidez de los materiales;comprobar la solidez de los materiales;1;1;0
+312;http://data.europa.eu/esco/skill/8327754d-3990-4056-b07e-4faa49cfcd26;innovar en TIC;innovar en TIC;1;1;0
+313;http://data.europa.eu/esco/skill/8369c2d6-c100-4cf6-bd83-9668d8678433;utilizar aprendizaje automático;utilizar aprendizaje automático;2;1;1
+314;http://data.europa.eu/esco/skill/83b33952-3872-46ec-9a2e-b28f91303a7e;supervisar el desarrollo del software;supervisar el desarrollo del software;1;1;0
+315;http://data.europa.eu/esco/skill/84f58e3d-8669-4d83-8c1d-5dd1e73a654f;crear diagramas de bases de datos;crear diagramas de bases de datos;1;1;0
+316;http://data.europa.eu/esco/skill/861cc783-6d4c-442e-9081-3a6e389be454;instalar equipos electrónicos de comunicación;instalar equipos electrónicos de comunicación;1;1;0
+317;http://data.europa.eu/esco/skill/86d2e2ea-1ba2-4aa6-b465-8a1f9abc81b8;aplicar políticas de seguridad de la información;aplicar políticas de seguridad de la información;1;1;0
+318;http://data.europa.eu/esco/skill/86f1b972-fcd4-478a-9bd7-2ecbbf901e21;desarrollar programas de trabajo;desarrollar programas de trabajo;1;0;1
+319;http://data.europa.eu/esco/skill/87434439-c07d-48be-af34-b0cdd03121c4;diseñar componentes de ingeniería;diseñar componentes de ingeniería;10;3;7
+320;http://data.europa.eu/esco/skill/88547698-700d-41dc-b0c1-515adf63f9bf;preparar cronogramas para proyectos de desarrollo de oleoductos;preparar cronogramas para proyectos de desarrollo de oleoductos;1;0;1
+321;http://data.europa.eu/esco/skill/885808f7-f42b-406e-95f2-28efcd45ddda;realizar actividades de gestión energética en instalaciones;realizar actividades de gestión energética en instalaciones;1;1;0
+322;http://data.europa.eu/esco/skill/89227433-950f-4d9d-b0b0-abc33356ab42;gestionar sistemas informáticos de control de operaciones de transporte;gestionar sistemas informáticos de control de operaciones de transporte;1;0;1
+323;http://data.europa.eu/esco/skill/89ff28d6-342c-435d-83aa-83e71dbbbc96;realizar auditorías financieras;realizar auditorías financieras;1;0;1
+324;http://data.europa.eu/esco/skill/8a43795b-bb38-4f29-91df-a6c92ad4643c;analizar el rendimiento financiero de una empresa;analizar el rendimiento financiero de una empresa;4;1;3
+325;http://data.europa.eu/esco/skill/8a7252d1-7007-4f16-a56e-225d692cd5fe;operar sistemas de climatización;operar sistemas de climatización;1;1;0
+326;http://data.europa.eu/esco/skill/8b9d609a-6d62-4d5c-9133-01d41979cfac;realizar todas las actividades de ingeniería de procesos;realizar todas las actividades de ingeniería de procesos;5;0;5
+327;http://data.europa.eu/esco/skill/8bc1c7da-c832-4896-a441-30d087c46aad;examinar principios de ingeniería;examinar principios de ingeniería;2;0;2
+328;http://data.europa.eu/esco/skill/8bc75dce-beba-40f9-93fc-66c9708ed74b;asesorar sobre medidas para mejorar la eficiencia;asesorar sobre medidas para mejorar la eficiencia;1;0;1
+329;http://data.europa.eu/esco/skill/8c6feedd-339f-4dba-b28a-dae84c759853;desarrollar calendario del proyecto;desarrollar calendario del proyecto;1;0;1
+330;http://data.europa.eu/esco/skill/8c8d0196-4acd-4217-89cb-abaf96845b14;analizar la necesidad de recursos técnicos;analizar la necesidad de recursos técnicos;2;0;2
+331;http://data.europa.eu/esco/skill/8d6a9e62-1e89-49df-8147-680081ce5315;utilizar equipos de ensayo no destructivo;utilizar equipos de ensayo no destructivo;1;0;1
+332;http://data.europa.eu/esco/skill/8dcbcabe-09f7-4d11-940d-125af57bbc40;supervisar indicadores clave de rendimiento;supervisar indicadores clave de rendimiento;23;0;23
+333;http://data.europa.eu/esco/skill/8df59017-f8e3-4a48-b321-79a38c597748;gestionar pruebas;gestionar pruebas;5;0;5
+334;http://data.europa.eu/esco/skill/8eecdac1-a79f-4d4b-b7b6-1d9bc80b6265;planificar operaciones mineras;planificar operaciones mineras;16;7;9
+335;http://data.europa.eu/esco/skill/8efb6150-2c43-4109-b3cd-41c3451698ea;mantener equipos mecánicos;mantener equipos mecánicos;1;1;0
+336;http://data.europa.eu/esco/skill/8fa840f7-e66a-4370-8e6d-7d554260c31c;prever futuras necesidades de redes de TIC;prever futuras necesidades de redes de TIC;1;1;0
+337;http://data.europa.eu/esco/skill/90398aca-82b7-4f56-8e0f-814d949162b4;coordinar actividades de planificación comercial;coordinar actividades de planificación comercial;1;0;1
+338;http://data.europa.eu/esco/skill/906ef09c-959c-42de-8c65-6e11c73c3570;llevar a cabo análisis informáticos de estructuras geotécnicas;llevar a cabo análisis informáticos de estructuras geotécnicas;5;0;5
+339;http://data.europa.eu/esco/skill/909c2e48-262e-4ebe-be05-5324ab086c1d;elaborar informes de cotejo de producción;elaborar informes de cotejo de producción;1;0;1
+340;http://data.europa.eu/esco/skill/90b98d58-96ca-4d75-9045-18eb97886b5b;mantener sistemas de dirección de vehículos;mantener sistemas de dirección de vehículos;3;3;0
+341;http://data.europa.eu/esco/skill/911e13ee-1eec-4243-88c8-3c08a3681a19;gestionar recursos empresariales;gestionar recursos empresariales;5;0;5
+342;http://data.europa.eu/esco/skill/91306a20-9b81-4f3d-97eb-f5368b607da7;realizar gestión de clientes;realizar gestión de clientes;1;1;0
+343;http://data.europa.eu/esco/skill/913e7e83-b8f8-4574-b1ca-1b38f3fd974a;ejecutar pruebas de software;ejecutar pruebas de software;2;2;0
+344;http://data.europa.eu/esco/skill/925cb6fb-9506-48a5-9106-400088a4a436;organizar una auditoría;organizar una auditoría;2;0;2
+345;http://data.europa.eu/esco/skill/92721092-fe7c-4689-96bd-4f02385bc0e7;gestionar contratos;gestionar contratos;7;0;7
+346;http://data.europa.eu/esco/skill/9295d1c5-8d7d-423e-a6ce-dfbc1d991f88;aplicar cartografía digital;aplicar cartografía digital;1;1;0
+347;http://data.europa.eu/esco/skill/92e4064a-a93c-4e22-a63b-8da91757b90c;detectar dificultades en la cadena de suministros;detectar dificultades en la cadena de suministros;3;2;1
+348;http://data.europa.eu/esco/skill/92ea39c9-48c9-481c-b8e8-2dd2db33fa1a;operar equipos de intercambio iónico;operar equipos de intercambio iónico;1;0;1
+349;http://data.europa.eu/esco/skill/93261e82-8ffe-4a8b-b8b0-02265edbf562;supervisar operaciones de laboratorio;supervisar operaciones de laboratorio;3;1;2
+350;http://data.europa.eu/esco/skill/93a68dcb-3dc6-4dbe-b196-f6d212228a50;promover la salud y la seguridad;promover la salud y la seguridad;1;0;1
+351;http://data.europa.eu/esco/skill/940a70fa-7c58-423b-8d03-34920b59f0f7;gestionar procesos;gestionar procesos;8;0;8
+352;http://data.europa.eu/esco/skill/941364b9-1375-4add-9889-d67bae99bc8c;redactar informes técnicos;redactar informes técnicos;7;0;7
+353;http://data.europa.eu/esco/skill/94747ff4-603d-47d4-9780-bf53be41e190;examinar equipos industriales;examinar equipos industriales;1;0;1
+354;http://data.europa.eu/esco/skill/9531fe02-1e1f-4a36-95f7-a76a77cd4b8d;consultar con clientes de negocios;consultar con clientes de negocios;1;0;1
+355;http://data.europa.eu/esco/skill/953445c0-4770-4be0-91cf-270a64c0e297;aplicar gestión estratégica;aplicar gestión estratégica;9;8;1
+356;http://data.europa.eu/esco/skill/9536a33b-5aa3-4083-ac5c-a8c93a44ac5d;planificar el trabajo de empleados en el mantenimiento de vehículos;planificar el trabajo de empleados en el mantenimiento de vehículos;1;0;1
+357;http://data.europa.eu/esco/skill/953c0b65-537a-42fe-a90b-26cd36c64361;gestionar la logística;gestionar la logística;7;6;1
+358;http://data.europa.eu/esco/skill/958b8802-ec3e-4813-97f7-6c8f48610dbd;idenficar mejoras de los procesos;idenficar mejoras de los procesos;13;0;13
+359;http://data.europa.eu/esco/skill/96550830-539b-4746-96aa-92aa4959945d;aplicar procedimientos de gestión de riesgos;aplicar procedimientos de gestión de riesgos;13;0;13
+360;http://data.europa.eu/esco/skill/96d549bb-3e62-4c45-92a7-f114df089581;analizar estrategias de gestión de la cadena de suministro;analizar estrategias de gestión de la cadena de suministro;3;2;1
+361;http://data.europa.eu/esco/skill/970af2f2-9a19-41a0-b42b-b1f36b083d28;cumplir normas de seguridad eléctrica;cumplir normas de seguridad eléctrica;1;0;1
+362;http://data.europa.eu/esco/skill/981f770c-24f1-4711-afc0-13a6fa1a33ab;diseñar infraestructura de tuberías teniendo en cuenta principios de ingeniería;diseñar infraestructura de tuberías teniendo en cuenta principios de ingeniería;2;0;2
+363;http://data.europa.eu/esco/skill/9889b795-d755-41b2-8afd-2e3c87a65a38;utilizar software de gestión de relaciones con clientes;utilizar software de gestión de relaciones con clientes;2;1;1
+364;http://data.europa.eu/esco/skill/989dc903-5838-4d84-8e04-e5b7a2ba97c5;aplicar gestión de seguridad;aplicar gestión de seguridad;7;0;7
+365;http://data.europa.eu/esco/skill/991efbde-9d52-40f7-8d4a-dc40d13913a7;dirigir un equipo de gestión del agua;dirigir un equipo de gestión del agua;2;0;2
+366;http://data.europa.eu/esco/skill/995bf279-5055-4eed-910b-ccc927074658;determinar la cantidad de explosivos necesarios;determinar la cantidad de explosivos necesarios;2;0;2
+367;http://data.europa.eu/esco/skill/99ca6ed2-b6b8-4eb0-8180-92e750e546be;colaborar con responsables de garantía de calidad;colaborar con responsables de garantía de calidad;1;0;1
+368;http://data.europa.eu/esco/skill/9ab0a456-e4f6-4070-a360-46e1009b6c0d;utilizar software CAE;utilizar software CAE;2;2;0
+369;http://data.europa.eu/esco/skill/9b3a7918-c4f0-4f3f-9eaf-72c952d17374;mantener equipos mineros;mantener equipos mineros;5;1;4
+370;http://data.europa.eu/esco/skill/9b57ce6d-97ba-487b-9b66-41cfb15db739;realizar revisiones a vehículos;realizar revisiones a vehículos;1;1;0
+371;http://data.europa.eu/esco/skill/9b9dc550-351e-4dde-ac2b-7bd411e80e23;revisar procedimientos de gestión de distribución;revisar procedimientos de gestión de distribución;1;1;0
+372;http://data.europa.eu/esco/skill/9bcff7ef-1f9e-4054-b8fa-3c640e491a11;diseñar sistemas de energía eléctrica;diseñar sistemas de energía eléctrica;3;2;1
+373;http://data.europa.eu/esco/skill/9cf2856d-0375-4ec3-a51f-7f9c82119859;mantener sistemas de energía solar;mantener sistemas de energía solar;1;1;0
+374;http://data.europa.eu/esco/skill/9d59f4e5-20a5-428e-b8b3-645043500457;crear un ambiente de trabajo de mejora continua;crear un ambiente de trabajo de mejora continua;15;0;15
+375;http://data.europa.eu/esco/skill/9e14c1d8-72f2-45ba-815d-0d12e12d19fa;crear mapas temáticos;crear mapas temáticos;1;1;0
+376;http://data.europa.eu/esco/skill/9e9a4209-c7cf-4f6e-973e-dc2ffadccc74;llevar a cabo procesos de adquisición;llevar a cabo procesos de adquisición;1;0;1
+377;http://data.europa.eu/esco/skill/9ebae336-b0dc-4711-9aef-0aeb3504ba63;controlar producción minera;controlar producción minera;4;2;2
+378;http://data.europa.eu/esco/skill/9ff9db9d-d14b-426e-83f3-e7449af6c79f;gestionar datos;gestionar datos;5;0;5
+379;http://data.europa.eu/esco/skill/a031d739-c760-441e-955b-b667502e9af2;implementar sistemas de trazabilidad;implementar sistemas de trazabilidad;2;0;2
+380;http://data.europa.eu/esco/skill/a0cafd94-40c3-4d55-9e94-bc27ef071b4b;preparar planes de desarrollo de yacimientos;preparar planes de desarrollo de yacimientos;1;1;0
+381;http://data.europa.eu/esco/skill/a0d79341-8398-4019-ad1b-27888ec35aaa;utilizar sistemas de contabilidad;utilizar sistemas de contabilidad;13;12;1
+382;http://data.europa.eu/esco/skill/a1d24f87-230e-4b4c-8107-dccf81316364;evaluar proyectos de desarrollo minero;evaluar proyectos de desarrollo minero;8;6;2
+383;http://data.europa.eu/esco/skill/a1f2e26f-b2ba-47dc-a0e8-8c53424a508d;aplicar procedimientos de certificación y pago;aplicar procedimientos de certificación y pago;1;0;1
+384;http://data.europa.eu/esco/skill/a28df07f-976c-4eb4-b29a-06161af39756;utilizar sistemas de gestión de mantenimiento informatizados;utilizar sistemas de gestión de mantenimiento informatizados;13;4;9
+385;http://data.europa.eu/esco/skill/a366bfc5-8d17-4792-a9f0-db0951528dda;asesorar sobre sistemas de gestión de riesgos ambientales;asesorar sobre sistemas de gestión de riesgos ambientales;1;1;0
+386;http://data.europa.eu/esco/skill/a47d194d-0ffd-4aaa-b695-fbbe0255000e;diseñar un sistema de información;diseñar un sistema de información;8;8;0
+387;http://data.europa.eu/esco/skill/a4a882a1-0263-4dd2-b29a-f0028cac2393;definir estrategias de integración;definir estrategias de integración;1;0;1
+388;http://data.europa.eu/esco/skill/a4bbd0d9-a6be-4472-b05d-291e60cf6b4b;establecer la justificación económica para un proyecto determinado;establecer la justificación económica para un proyecto determinado;4;0;4
+389;http://data.europa.eu/esco/skill/a4ec696c-ac73-4bd5-8a3c-09a783cf3944;utilizar software de programación minera;utilizar software de programación minera;23;5;18
+390;http://data.europa.eu/esco/skill/a571ae14-3e16-4fd3-a615-5646e0b0b696;analizar datos;analizar datos;35;2;33
+391;http://data.europa.eu/esco/skill/a6dcd5bd-d498-4469-96c9-cbc46e8efd04;operar bombas hidráulicas;operar bombas hidráulicas;1;0;1
+392;http://data.europa.eu/esco/skill/a703b581-ad64-4791-8bb3-624aea569fa5;mantener un sistema administrativo de los contratos;mantener un sistema administrativo de los contratos;1;0;1
+393;http://data.europa.eu/esco/skill/a7a14be2-78b5-4b4a-ba77-2658285e2756;aplicar ingeniería inversa;aplicar ingeniería inversa;1;0;1
+394;http://data.europa.eu/esco/skill/a8081afe-46ff-425d-9d9f-f4033b3f84f6;realizar un seguimiento de la conformidad con la metodología del proyecto;realizar un seguimiento de la conformidad con la metodología del proyecto;1;0;1
+395;http://data.europa.eu/esco/skill/a80fb090-63f4-4b05-83a5-2f090deb7757;gestionar sistemas de recopilación de datos;gestionar sistemas de recopilación de datos;1;0;1
+396;http://data.europa.eu/esco/skill/a9d2af37-f208-4ce8-8cc2-24de0b02b555;analizar la resistencia de los materiales a la tensión;analizar la resistencia de los materiales a la tensión;2;2;0
+397;http://data.europa.eu/esco/skill/aafbb139-02c6-4f35-bc62-ff73faf97d6d;interpretar planos en 3D;interpretar planos en 3D;3;0;3
+398;http://data.europa.eu/esco/skill/ab6265f2-a9bf-49e8-a9a5-67cbab4de38b;gestionar el inventario;gestionar el inventario;5;0;5
+399;http://data.europa.eu/esco/skill/adc82bc2-8b95-4826-a6b5-e7189989bdb9;asesorar sobre el mantenimiento de máquinas;asesorar sobre el mantenimiento de máquinas;1;0;1
+400;http://data.europa.eu/esco/skill/ae4f0cc6-e0b9-47f5-bdca-2fc2e6316dce;gestionar entornos de virtualización de TIC;gestionar entornos de virtualización de TIC;1;1;0
+401;http://data.europa.eu/esco/skill/ae57a9c3-f761-4b03-be2b-99a781704c73;utilizar software de previsión de ventas;utilizar software de previsión de ventas;1;0;1
+402;http://data.europa.eu/esco/skill/ae6d655d-bbce-4701-ba04-d687cfa90eda;salvaguardar la biodiversidad;salvaguardar la biodiversidad;1;1;0
+403;http://data.europa.eu/esco/skill/aec4c9bf-9c44-4f9d-99f1-70011cebe1a8;probar equipos de instrumentación;probar equipos de instrumentación;1;0;1
+404;http://data.europa.eu/esco/skill/af851217-a577-401a-b7ed-887865e92951;realizar procedimientos de diagnóstico a un vehículo;realizar procedimientos de diagnóstico a un vehículo;3;3;0
+405;http://data.europa.eu/esco/skill/afdb41dd-5dd5-4fbb-bf9e-e041422698b4;coordinar las actividades operacionales;coordinar las actividades operacionales;11;0;11
+406;http://data.europa.eu/esco/skill/b0279338-ddfa-473d-b961-fa51b1185612;reconocer signos de corrosión;reconocer signos de corrosión;1;0;1
+407;http://data.europa.eu/esco/skill/b02f6cd7-4882-4796-9e2e-3f279c60d130;inspeccionar la normativa de proyectos;inspeccionar la normativa de proyectos;1;0;1
+408;http://data.europa.eu/esco/skill/b07daddc-8625-4360-946e-ad2b0e56ebf6;interpretar planos de ingeniería;interpretar planos de ingeniería;8;3;5
+409;http://data.europa.eu/esco/skill/b08ec8ff-1a3e-4cc3-8016-9520b21666a6;ejercer el control del gasto;ejercer el control del gasto;2;0;2
+410;http://data.europa.eu/esco/skill/b13e0689-636d-42d0-86c3-df9d6f85a882;supervisar sistemas de gestión ambiental;supervisar sistemas de gestión ambiental;5;5;0
+411;http://data.europa.eu/esco/skill/b1ef509e-f191-405a-8419-51663b08922e;aplicar un sistema de gestión;aplicar un sistema de gestión;9;0;9
+412;http://data.europa.eu/esco/skill/b21974e8-b43f-4ae1-a463-32a4a1be54c5;supervisar las actividades de mantenimiento de vehículos;supervisar las actividades de mantenimiento de vehículos;1;1;0
+413;http://data.europa.eu/esco/skill/b34e2ba1-9080-48c9-9b42-ee9192a4d3f1;utilizar programas de diseño asistido por ordenador;utilizar programas de diseño asistido por ordenador;1;1;0
+414;http://data.europa.eu/esco/skill/b3a75400-103f-42c7-b742-be11d161d05b;gestionar sistemas de producción;gestionar sistemas de producción;2;2;0
+415;http://data.europa.eu/esco/skill/b49036dd-059b-40d5-8ae9-0b1a6a64f668;instalar dispositivos de aire acondicionado;instalar dispositivos de aire acondicionado;1;1;0
+416;http://data.europa.eu/esco/skill/b5a1fc87-c9f2-41f4-a1ae-28e023715592;analizar muestras;analizar muestras;2;0;2
+417;http://data.europa.eu/esco/skill/b5cb259e-83e7-48f5-950e-245d5b5fd6d0;elaborar procedimientos contables;elaborar procedimientos contables;1;0;1
+418;http://data.europa.eu/esco/skill/b6ccadfa-695d-43f6-94c6-bfc9d1adb88f;aplicar principios de tecnología de los alimentos;aplicar principios de tecnología de los alimentos;2;2;0
+419;http://data.europa.eu/esco/skill/b7c8f418-08d5-45d6-b697-ab26c6ecbfb4;garantizar la orientación al cliente;garantizar la orientación al cliente;1;0;1
+420;http://data.europa.eu/esco/skill/b7dce8db-f634-4a19-9ecd-83ed9a0ed15b;operar sistemas de bombeo;operar sistemas de bombeo;1;0;1
+421;http://data.europa.eu/esco/skill/b7e57889-a84f-440c-9e60-459aa69979e9;analizar las tendencias de la cadena de suministro;analizar las tendencias de la cadena de suministro;2;1;1
+422;http://data.europa.eu/esco/skill/b90316c1-67e9-4338-b4dd-c950831ce33e;gestionar un portafolio;gestionar un portafolio;1;0;1
+423;http://data.europa.eu/esco/skill/b91535d7-1265-455d-a565-901e2eafa883;dirigir el desarrollo tecnológico de una organización;dirigir el desarrollo tecnológico de una organización;1;0;1
+424;http://data.europa.eu/esco/skill/b916d60e-38e9-4241-914a-4e2144bda711;operar sistemas de control informatizados;operar sistemas de control informatizados;5;0;5
+425;http://data.europa.eu/esco/skill/ba11879a-723d-4209-8ffa-008eaab9771f;mantener un sistema de suspensión;mantener un sistema de suspensión;3;3;0
+426;http://data.europa.eu/esco/skill/ba45db8f-34e8-4f29-af0b-e6645e1d693f;mantener equipos electrónicos;mantener equipos electrónicos;1;1;0
+427;http://data.europa.eu/esco/skill/bad614fb-fc66-4401-b75b-3d366013a493;redactar informes de seguridad;redactar informes de seguridad;1;0;1
+428;http://data.europa.eu/esco/skill/bc54eee1-a858-4f80-afdc-0442a617ef50;realizar trabajo de campo;realizar trabajo de campo;3;0;3
+429;http://data.europa.eu/esco/skill/bd08f332-a295-4a59-a13a-05b08ca3761b;instalar monitores para el control de procesos;instalar monitores para el control de procesos;2;0;2
+430;http://data.europa.eu/esco/skill/bd556223-d9af-434b-a6bf-e70fa3ed3d12;calcular con exactitud las horas de trabajo;calcular con exactitud las horas de trabajo;1;0;1
+431;http://data.europa.eu/esco/skill/bd832a82-b079-4001-80d1-f59efed33688;preparar informes de riesgo;preparar informes de riesgo;1;0;1
+432;http://data.europa.eu/esco/skill/bda0d115-f315-453e-99dc-f8b0e5862db3;garantizar el cumplimiento de las políticas;garantizar el cumplimiento de las políticas;1;0;1
+433;http://data.europa.eu/esco/skill/be20d05c-f6b4-4580-9fcf-f00f4baab562;tomar decisiones basadas en datos;tomar decisiones basadas en datos;3;0;3
+434;http://data.europa.eu/esco/skill/be727774-46d7-43d7-aee9-1a51b5cd8c71;realizar predicciones estadísticas;realizar predicciones estadísticas;1;0;1
+435;http://data.europa.eu/esco/skill/bf7a45c4-0d72-4e6e-9da7-127b2b6656b7;aplicar prácticas correctas de fabricación;aplicar prácticas correctas de fabricación;2;1;1
+436;http://data.europa.eu/esco/skill/bf942c60-8539-4951-83ee-63f770da1cb8;programar un controlador de CNC;programar un controlador de CNC;1;0;1
+437;http://data.europa.eu/esco/skill/c09dce1b-e198-487e-b63f-934e10a4c181;supervisar la producción de la fábrica;supervisar la producción de la fábrica;1;0;1
+438;http://data.europa.eu/esco/skill/c13fb093-5ffb-491a-b8b7-fa2d42a57e2e;aplicar la seguridad y el cumplimiento en la nube;aplicar la seguridad y el cumplimiento en la nube;1;1;0
+439;http://data.europa.eu/esco/skill/c1658288-648c-4005-a3ef-f7053c61d519;gestionar permisos;gestionar permisos;1;0;1
+440;http://data.europa.eu/esco/skill/c1de3963-05eb-4e45-8496-58156a345fb1;transferir demandas energéticas;transferir demandas energéticas;1;0;1
+441;http://data.europa.eu/esco/skill/c20927b5-15d4-4cd3-8776-a56040ca702b;gestionar plantas de procesamiento de minerales;gestionar plantas de procesamiento de minerales;6;3;3
+442;http://data.europa.eu/esco/skill/c2241f73-9151-4817-96b2-b9a6aae4c9e9;llevar a cabo controles de equipos de plantas de producción;llevar a cabo controles de equipos de plantas de producción;1;0;1
+443;http://data.europa.eu/esco/skill/c2296e2e-5fef-4f24-a24f-e5b3792268be;proporcionar soporte de TIC;proporcionar soporte de TIC;1;0;1
+444;http://data.europa.eu/esco/skill/c241f5a5-e23f-47bf-ad24-d83ea0010166;asegurar la correcta gestión de documentos;asegurar la correcta gestión de documentos;5;0;5
+445;http://data.europa.eu/esco/skill/c2432314-940b-43a0-bb99-7abe069ddb37;evaluar el riesgo sísmico;evaluar el riesgo sísmico;1;0;1
+446;http://data.europa.eu/esco/skill/c2ce7fe9-203b-492a-961e-9698dce7de19;realizar un análisis de los datos de seguridad;realizar un análisis de los datos de seguridad;1;1;0
+447;http://data.europa.eu/esco/skill/c2fddf67-6b53-4cd4-8483-82e97e0f2a81;evaluar la higiene industrial;evaluar la higiene industrial;2;2;0
+448;http://data.europa.eu/esco/skill/c32ad607-0c4d-4e34-b73f-668298f7bf13;aplicar capacidades de comunicación técnica;aplicar capacidades de comunicación técnica;1;0;1
+449;http://data.europa.eu/esco/skill/c330db31-7fa9-4a8c-8ad6-baa957bcfed1;instalar un sistema operativo;instalar un sistema operativo;8;8;0
+450;http://data.europa.eu/esco/skill/c3e36d05-8ae8-447f-bb2b-6f9409f85389;proporcionar presentaciones visuales de datos;proporcionar presentaciones visuales de datos;4;0;4
+451;http://data.europa.eu/esco/skill/c42a92b2-a802-4cf6-a645-3904004bbdbe;detonar explosivos en condiciones seguras;detonar explosivos en condiciones seguras;4;0;4
+452;http://data.europa.eu/esco/skill/c4949dcf-bbcc-40f2-8584-6c6299beb7fb;ocuparse de tornos de control numérico;ocuparse de tornos de control numérico;1;0;1
+453;http://data.europa.eu/esco/skill/c544a9f3-5945-4b54-afed-de0697852817;informar de los resultados de los análisis;informar de los resultados de los análisis;3;0;3
+454;http://data.europa.eu/esco/skill/c5646d72-c082-44fd-b47e-c4b0ec59ebbd;gestionar contratos;gestionar contratos;10;0;10
+455;http://data.europa.eu/esco/skill/c5a135be-218d-48e6-a422-5225a576dcd8;gestionar las métricas del proyecto;gestionar las métricas del proyecto;2;0;2
+456;http://data.europa.eu/esco/skill/c5b90c0c-3af0-4c8c-a06c-cc3ced02242c;realizar contabilidad de costes;realizar contabilidad de costes;7;5;2
+457;http://data.europa.eu/esco/skill/c5bc42be-4970-4dce-80e2-af78bae42e84;gestionar las operaciones de mantenimiento;gestionar las operaciones de mantenimiento;11;0;11
+458;http://data.europa.eu/esco/skill/c69587b4-05d3-45bb-b79b-9b85e6603fc2;proporcionar experiencia técnica;proporcionar experiencia técnica;3;0;3
+459;http://data.europa.eu/esco/skill/c73ea1b8-e121-4f91-b8f0-dee4ee28d6ec;preparar un cronograma;preparar un cronograma;4;0;4
+460;http://data.europa.eu/esco/skill/c7d64df4-7af3-4269-add6-97833bd5448e;gestionar el ciclo de compras;gestionar el ciclo de compras;2;0;2
+461;http://data.europa.eu/esco/skill/c83b7143-132d-4559-be57-83eb4da1e7c1;controlar el cumplimiento de las condiciones de seguridad en minas;controlar el cumplimiento de las condiciones de seguridad en minas;7;2;5
+462;http://data.europa.eu/esco/skill/c881ddd2-9c0e-4743-bd24-36be650493dd;gestionar varios proyectos;gestionar varios proyectos;5;0;5
+463;http://data.europa.eu/esco/skill/c927ec6e-9082-4b22-afd3-0c4e219eaf73;garantizar el mantenimiento de los equipos;garantizar el mantenimiento de los equipos;1;0;1
+464;http://data.europa.eu/esco/skill/c95c29fe-3971-46b7-80e9-1f7e75ba99b3;utilizar programas informáticos específicos para el análisis de datos;utilizar programas informáticos específicos para el análisis de datos;15;2;13
+465;http://data.europa.eu/esco/skill/caadb26a-f5a4-4bd1-a630-d508fb616ae2;gestionar el sistema de precios de la logística;gestionar el sistema de precios de la logística;1;1;0
+466;http://data.europa.eu/esco/skill/cb21d617-4aa5-4a93-81ac-cde9aae7716a;informar sobre resultados de voladuras;informar sobre resultados de voladuras;1;0;1
+467;http://data.europa.eu/esco/skill/cc3b901c-4d66-48f8-90b9-41883be1e1ed;planificar objetivos a medio y largo plazo;planificar objetivos a medio y largo plazo;2;0;2
+468;http://data.europa.eu/esco/skill/cd4b9e72-a18d-44bd-b227-14bbdd162dc1;preparar muestras para pruebas;preparar muestras para pruebas;1;0;1
+469;http://data.europa.eu/esco/skill/cd4c3908-c626-4331-8e94-60e6ec4ea2c3;calcular el coste de los materiales de construcción;calcular el coste de los materiales de construcción;1;0;1
+470;http://data.europa.eu/esco/skill/cd5efa8c-e44d-4cbc-91c6-796018dbed68;gestionar proyectos;gestionar proyectos;40;2;38
+471;http://data.europa.eu/esco/skill/cd7146d4-499a-479b-8dc2-c605d38b4b03;controlar inventarios de fluidos;controlar inventarios de fluidos;1;0;1
+472;http://data.europa.eu/esco/skill/ce354460-500e-4eaa-8e95-8f243fcea3db;realizar pruebas de sistema;realizar pruebas de sistema;1;0;1
+473;http://data.europa.eu/esco/skill/ce8ae6ca-61d8-4174-b457-641de96cbff4;automatizar tareas en la nube;automatizar tareas en la nube;12;0;12
+474;http://data.europa.eu/esco/skill/cfbde1b6-8e47-4b83-b430-3d5f7f38d69a;evaluar costes de explotación;evaluar costes de explotación;3;1;2
+475;http://data.europa.eu/esco/skill/cffc3e97-e942-4b13-a2f3-0bf4910c06d3;emplear documentación técnica;emplear documentación técnica;8;0;8
+476;http://data.europa.eu/esco/skill/d0f2f8a7-d935-4a6d-8e54-dcc3e5e2cbeb;presentar informes;presentar informes;9;0;9
+477;http://data.europa.eu/esco/skill/d168d98c-b7bb-4b9a-b1dc-eac008af4df3;implantar planes de acción para la biodiversidad;implantar planes de acción para la biodiversidad;1;1;0
+478;http://data.europa.eu/esco/skill/d1e78795-b3ed-40f4-abb0-21b689fa4ae5;separar metales de minerales;separar metales de minerales;3;1;2
+479;http://data.europa.eu/esco/skill/d207a30b-2f80-4138-9b77-f88d549b8768;identificar nuevas oportunidades comerciales;identificar nuevas oportunidades comerciales;3;0;3
+480;http://data.europa.eu/esco/skill/d2590cd1-8c5a-4f81-b77e-6ea212076ede;evaluar la ejecución de los procedimientos de seguridad;evaluar la ejecución de los procedimientos de seguridad;1;0;1
+481;http://data.europa.eu/esco/skill/d2a9965e-6f93-4edc-90e6-125f063fb5b0;examinar zonas probables de explosión;examinar zonas probables de explosión;1;0;1
+482;http://data.europa.eu/esco/skill/d2d9051a-10e1-41c5-9cfb-bbdc58016176;aplicar las normas de seguridad en el ámbito laboral;aplicar las normas de seguridad en el ámbito laboral;3;2;1
+483;http://data.europa.eu/esco/skill/d36178d1-07fa-44c5-8b19-0ca637256261;diseñar instalaciones nuevas;diseñar instalaciones nuevas;2;0;2
+484;http://data.europa.eu/esco/skill/d37bc902-f640-48d7-9db4-544db9aa65fa;preparar proyecciones financieras;preparar proyecciones financieras;3;0;3
+485;http://data.europa.eu/esco/skill/d3a0f1fd-3a6e-452c-84a2-dc594b403a18;analizar la ergonomía del lugar de trabajo;analizar la ergonomía del lugar de trabajo;1;1;0
+486;http://data.europa.eu/esco/skill/d3a8ef9c-8572-438c-91dc-010537070be3;gestionar impacto ambiental;gestionar impacto ambiental;1;1;0
+487;http://data.europa.eu/esco/skill/d41262ae-eca1-4ede-89a8-46d2d99a7a31;tener en cuenta los criterios económicos en la toma de decisiones;tener en cuenta los criterios económicos en la toma de decisiones;1;0;1
+488;http://data.europa.eu/esco/skill/d4cc5022-7801-4885-bcff-166552788d35;proponer estrategias de mejora;proponer estrategias de mejora;5;0;5
+489;http://data.europa.eu/esco/skill/d53eab76-e8ff-4e28-af26-7e012951c763;medir el desempeño de la empresa en términos de sostenibilidad;medir el desempeño de la empresa en términos de sostenibilidad;3;1;2
+490;http://data.europa.eu/esco/skill/d560df46-dda4-4407-bab2-b87353a96814;diseñar sistemas de control;diseñar sistemas de control;6;5;1
+491;http://data.europa.eu/esco/skill/d5dbc342-8e39-4998-8237-ebbe05a381ce;gestionar proyectos de investigación y desarrollo;gestionar proyectos de investigación y desarrollo;3;1;2
+492;http://data.europa.eu/esco/skill/d7a04dc3-22a7-4ec1-bfcf-39b04c6492a1;recibir información clave sobre proyectos;recibir información clave sobre proyectos;1;0;1
+493;http://data.europa.eu/esco/skill/d86babea-bf8b-4552-81a8-daf706066ad6;gestionar el impacto medioambiental de las operaciones;gestionar el impacto medioambiental de las operaciones;2;2;0
+494;http://data.europa.eu/esco/skill/d8824c20-3e5a-402f-a288-5ee7861dcf8d;supervisar el funcionamiento de la zona de operaciones;supervisar el funcionamiento de la zona de operaciones;1;0;1
+495;http://data.europa.eu/esco/skill/d89f5cee-649a-44bd-9aa9-8e74bbdbd50d;supervisar el rendimiento de los y las contratistas;supervisar el rendimiento de los y las contratistas;4;0;4
+496;http://data.europa.eu/esco/skill/d8c19849-f4cf-458d-90cd-abe735a729bf;desarrollar sistemas de instrumentación;desarrollar sistemas de instrumentación;3;1;2
+497;http://data.europa.eu/esco/skill/d9e5349e-8791-49c2-8ba4-839fdd1606c2;definir los requisitos técnicos;definir los requisitos técnicos;1;0;1
+498;http://data.europa.eu/esco/skill/da1398ac-6955-4cf3-9225-67f16e41dbdc;recopilar información financiera;recopilar información financiera;1;1;0
+499;http://data.europa.eu/esco/skill/da56feea-941c-4ff6-b573-bb16ccbde670;comunicar la programación a los interesados;comunicar la programación a los interesados;1;0;1
+500;http://data.europa.eu/esco/skill/db4f4689-8540-4577-bdfe-acecf2f31ec2;gestionar el inventario de vehículos;gestionar el inventario de vehículos;1;1;0
+501;http://data.europa.eu/esco/skill/db9050db-ae5d-4be8-8114-c26f272c3bda;gestionar la salud y la seguridad;gestionar la salud y la seguridad;1;0;1
+502;http://data.europa.eu/esco/skill/db9463b7-5c24-46d2-8419-002e03bae1dc;cumplir los objetivos de productividad;cumplir los objetivos de productividad;7;0;7
+503;http://data.europa.eu/esco/skill/dbfb9dda-48d9-4a10-9821-3237f868071b;analizar los avances de los objetivos;analizar los avances de los objetivos;4;0;4
+504;http://data.europa.eu/esco/skill/dc580b44-5099-4327-aabe-8e59b6d1ab90;diseñar presas;diseñar presas;1;0;1
+505;http://data.europa.eu/esco/skill/dcaaa791-ee3a-4bb8-836f-68051a30039f;establecer puntos de seguimiento;establecer puntos de seguimiento;1;0;1
+506;http://data.europa.eu/esco/skill/dcc96a49-0bac-4a9c-8f8e-a32b4e47e6eb;aplicar normas de salud y seguridad;aplicar normas de salud y seguridad;3;0;3
+507;http://data.europa.eu/esco/skill/dd6f8901-b20a-48e9-94ac-b1829dc2cfec;gestionar documentación de fabricación;gestionar documentación de fabricación;1;0;1
+508;http://data.europa.eu/esco/skill/dd7c9dfd-6e2c-46fd-aefc-369402d0200c;elaborar un informe económico;elaborar un informe económico;1;0;1
+509;http://data.europa.eu/esco/skill/dda69c90-2355-4ab5-b0ef-6ada47f74cc1;probar hardware informático;probar hardware informático;1;1;0
+510;http://data.europa.eu/esco/skill/dde92e3d-595b-4d1a-bb98-c4855e72fa90;diseñar programas de perforación;diseñar programas de perforación;1;0;1
+511;http://data.europa.eu/esco/skill/de0812a4-2313-4bbd-9321-150fc8e2886e;coordinar una flota de vehículos de transporte;coordinar una flota de vehículos de transporte;1;0;1
+512;http://data.europa.eu/esco/skill/de7b8c6c-9ed4-4776-924c-4265dd1d9cde;hacer demostraciones de las características de un producto;hacer demostraciones de las características de un producto;1;0;1
+513;http://data.europa.eu/esco/skill/de804504-bd5c-465d-b54f-9da299d8ee90;mantener sistemas de control de las existencias;mantener sistemas de control de las existencias;2;0;2
+514;http://data.europa.eu/esco/skill/df0612db-366c-4ff5-b106-40b9e385195c;utilizar sistemas de apoyo a decisiones;utilizar sistemas de apoyo a decisiones;1;1;0
+515;http://data.europa.eu/esco/skill/df12fd50-55dc-4cfd-a021-818880668789;mantener los sistemas de control para un equipo automatizado;mantener los sistemas de control para un equipo automatizado;1;1;0
+516;http://data.europa.eu/esco/skill/df18ce7d-6e61-48ee-bd35-96988d808a7c;ejecutar planes de gestión de la seguridad contra incendios;ejecutar planes de gestión de la seguridad contra incendios;1;0;1
+517;http://data.europa.eu/esco/skill/dfce2aba-783e-4e17-9c17-e74aca505ec2;interpretar planos en 2D;interpretar planos en 2D;1;0;1
+518;http://data.europa.eu/esco/skill/e08d5950-f694-450e-90ae-088001dad5e9;analizar la composición química del agua;analizar la composición química del agua;1;1;0
+519;http://data.europa.eu/esco/skill/e0ded9a1-372d-46c8-80b5-ad994d606ef2;mantener equipos electromecánicos;mantener equipos electromecánicos;1;0;1
+520;http://data.europa.eu/esco/skill/e13dc8bb-c81f-4bd1-aff6-f5f81f6195e2;implementar procesos minerales;implementar procesos minerales;8;4;4
+521;http://data.europa.eu/esco/skill/e1b9df19-98c3-45d3-9f85-371eb385cf88;hacer frente a los cambios en la demanda operativa;hacer frente a los cambios en la demanda operativa;1;0;1
+522;http://data.europa.eu/esco/skill/e1f5c539-7c93-49ee-917d-a24e0d887686;control de gastos;control de gastos;1;0;1
+523;http://data.europa.eu/esco/skill/e2161b42-46f4-4b62-8136-c190edce56fc;llevar un registro de gastos;llevar un registro de gastos;1;0;1
+524;http://data.europa.eu/esco/skill/e2417823-c24f-4c77-bb02-782a7852e3fb;conectar circuitos de voladura;conectar circuitos de voladura;3;1;2
+525;http://data.europa.eu/esco/skill/e2887d71-8ff4-4188-9926-22bdaefa7713;elaborar modelos predictivos;elaborar modelos predictivos;3;0;3
+526;http://data.europa.eu/esco/skill/e2b82b00-f07f-4fc8-a7bb-c8febf65efe5;comparar cálculos de estudios;comparar cálculos de estudios;1;0;1
+527;http://data.europa.eu/esco/skill/e2e15494-65b9-4af5-8b86-53fb51e7e022;gestionar cuentas;gestionar cuentas;1;0;1
+528;http://data.europa.eu/esco/skill/e2e9bf69-80b3-4237-afd9-40960dc3c67e;preparar muestras químicas;preparar muestras químicas;2;0;2
+529;http://data.europa.eu/esco/skill/e4b6f863-fa9f-4fe7-a984-f948f8c90d24;gestionar el flujo de caja;gestionar el flujo de caja;1;0;1
+530;http://data.europa.eu/esco/skill/e4ff825c-7376-4135-93cd-3892fd67b7c1;desarrollar estrategias de recuperación ambiental;desarrollar estrategias de recuperación ambiental;1;1;0
+531;http://data.europa.eu/esco/skill/e541c69c-ea80-4b17-87cb-4001d0b9d303;evaluar el impacto ambiental;evaluar el impacto ambiental;5;5;0
+532;http://data.europa.eu/esco/skill/e665d919-f28d-4ac4-adf0-8903ac66540e;elaborar planos de diseño;elaborar planos de diseño;4;0;4
+533;http://data.europa.eu/esco/skill/e6c6da92-cc13-4c83-bce8-2e0bd2a27f15;identificar la causa del daño;identificar la causa del daño;9;0;9
+534;http://data.europa.eu/esco/skill/e71c6cee-7247-49f4-829a-141c880ae938;asesorar sobre la gestión de riesgos;asesorar sobre la gestión de riesgos;3;3;0
+535;http://data.europa.eu/esco/skill/e7211c0c-e571-4d61-bfda-3bea3953151d;gestionar la flota de una empresa;gestionar la flota de una empresa;2;0;2
+536;http://data.europa.eu/esco/skill/e8664a7b-aef5-4db7-89c6-fe50ba22ef07;medir el tiempo de trabajo en la fabricación de productos;medir el tiempo de trabajo en la fabricación de productos;1;0;1
+537;http://data.europa.eu/esco/skill/e8db787b-d1a2-4000-b74a-e3db5436fef6;comunicar el plan de producción;comunicar el plan de producción;1;0;1
+538;http://data.europa.eu/esco/skill/e95058a6-e139-42e7-a470-72038a606649;evaluar la viabilidad financiera;evaluar la viabilidad financiera;11;8;3
+539;http://data.europa.eu/esco/skill/e9867780-9584-43a9-af10-8eb730b525cc;examinar zonas tras la detonación de explosivos;examinar zonas tras la detonación de explosivos;1;0;1
+540;http://data.europa.eu/esco/skill/ead58f22-0af5-467c-ac1e-b750e4e1ac6a;elaborar planes de empresa;elaborar planes de empresa;2;2;0
+541;http://data.europa.eu/esco/skill/eb6b7a26-69ab-43f5-9ab4-d09f8904f8e0;seguir las prioridades de gestión de la integridad de la línea de tuberías;seguir las prioridades de gestión de la integridad de la línea de tuberías;1;0;1
+542;http://data.europa.eu/esco/skill/eb8babfb-ab91-4937-a032-6a79f82e9b7f;analizar el riesgo financiero;analizar el riesgo financiero;2;1;1
+543;http://data.europa.eu/esco/skill/eba6af23-2bab-4201-bcff-2332274fca87;operar equipos para la reducción del tamaño de minerales en bruto;operar equipos para la reducción del tamaño de minerales en bruto;1;0;1
+544;http://data.europa.eu/esco/skill/ec7ec825-4d6d-4cd1-9993-a96c479e049e;mantener la instalación eléctrica de un vehículo;mantener la instalación eléctrica de un vehículo;2;2;0
+545;http://data.europa.eu/esco/skill/ed1d2fed-92c4-47d6-9d6d-34d501c55572;asesorar sobre geología para la extracción de minerales;asesorar sobre geología para la extracción de minerales;2;2;0
+546;http://data.europa.eu/esco/skill/ed5bbc64-7017-4e2e-b44e-65df88013a84;analizar sistemas de información;analizar sistemas de información;5;5;0
+547;http://data.europa.eu/esco/skill/ed8de897-adbe-4f0e-b4d2-534953e64c72;integrar componentes del sistema;integrar componentes del sistema;1;1;0
+548;http://data.europa.eu/esco/skill/edf0690f-629d-4674-a9df-45fd89413e85;evaluar el impacto ambiental del aprovechamiento de aguas subterráneas;evaluar el impacto ambiental del aprovechamiento de aguas subterráneas;1;1;0
+549;http://data.europa.eu/esco/skill/edf081e4-d2dc-4a60-8c49-7b7e45b5ebe3;elaborar mapas de riesgos;elaborar mapas de riesgos;1;0;1
+550;http://data.europa.eu/esco/skill/ee8fee1a-75c1-43fb-b08d-779929f99249;aplicar métodos de control estadístico de procesos;aplicar métodos de control estadístico de procesos;3;0;3
+551;http://data.europa.eu/esco/skill/f0393af3-bcd9-41af-a36e-0cfb83b60081;gestionar sistemas estándar de planificación de recursos empresariales;gestionar sistemas estándar de planificación de recursos empresariales;15;1;14
+552;http://data.europa.eu/esco/skill/f077719c-82ff-4035-9426-47c5eb554454;gestionar objetivos a medio plazo;gestionar objetivos a medio plazo;1;0;1
+553;http://data.europa.eu/esco/skill/f10142ce-d522-49c3-9fd1-054fb63529d4;desarrollar procedimientos de prueba;desarrollar procedimientos de prueba;1;0;1
+554;http://data.europa.eu/esco/skill/f17f94f1-88cb-4815-873a-2a9639f10729;redactar la documentación del proyecto;redactar la documentación del proyecto;4;0;4
+555;http://data.europa.eu/esco/skill/f1b5800e-b763-4740-9586-3fef30568e81;analizar procesos de producción para introducir mejoras;analizar procesos de producción para introducir mejoras;1;0;1
+556;http://data.europa.eu/esco/skill/f2536b0a-068b-48ed-910f-231bfa0ec032;garantizar la calidad del proceso de producción de alimentos;garantizar la calidad del proceso de producción de alimentos;1;1;0
+557;http://data.europa.eu/esco/skill/f263da7f-0708-42c2-b1a9-39083416f632;comunicar percepciones analíticas;comunicar percepciones analíticas;2;0;2
+558;http://data.europa.eu/esco/skill/f28617ad-afdd-4041-814c-216153a38998;analizar especificaciones de software;analizar especificaciones de software;1;1;0
+559;http://data.europa.eu/esco/skill/f2c63b7a-ed6c-4890-9f8c-7685d172624c;aplicar gobernanza empresarial;aplicar gobernanza empresarial;4;1;3
+560;http://data.europa.eu/esco/skill/f3316342-f9f3-4223-8901-e92dd1c59177;operar una serie de equipos de minería subterránea;operar una serie de equipos de minería subterránea;3;2;1
+561;http://data.europa.eu/esco/skill/f351292a-db64-4b8b-8029-5687290bddc1;analizar la estabilidad del suelo;analizar la estabilidad del suelo;1;0;1
+562;http://data.europa.eu/esco/skill/f4482d36-86d0-422d-aeb2-59d1bbebb6ff;asesorar sobre equipos de minería;asesorar sobre equipos de minería;1;0;1
+563;http://data.europa.eu/esco/skill/f54cb941-6e9b-43ee-a135-9fda4ad7237b;supervisar las actividades de posventa y asegurarse del cumplimiento de las normas comerciales;supervisar las actividades de posventa y asegurarse del cumplimiento de las normas comerciales;1;0;1
+564;http://data.europa.eu/esco/skill/f5dd06b8-5d17-4932-9d03-957d0c4f5051;realizar planificación de recursos;realizar planificación de recursos;12;0;12
+565;http://data.europa.eu/esco/skill/f60c9e52-95fc-4ca1-a73c-18a491153b63;tomar decisiones empresariales estratégicas;tomar decisiones empresariales estratégicas;2;0;2
+566;http://data.europa.eu/esco/skill/f632251a-4078-4546-b19f-7ef528d08325;utilizar herramientas informáticas;utilizar herramientas informáticas;2;1;1
+567;http://data.europa.eu/esco/skill/f672b7a0-698e-45f1-a102-51adeaf89200;desarrollar planes para la eficiencia de las operaciones logísticas;desarrollar planes para la eficiencia de las operaciones logísticas;1;1;0
+568;http://data.europa.eu/esco/skill/f683ae1d-cb7c-4aa1-b9fe-205e1bd23535;utilizar Microsoft Office;utilizar Microsoft Office;31;0;31
+569;http://data.europa.eu/esco/skill/f698f8df-b473-40aa-a5c9-033cd892467a;mantenerse informado de la normativa aplicable;mantenerse informado de la normativa aplicable;6;0;6
+570;http://data.europa.eu/esco/skill/f7373df6-e5c5-4390-aa67-a48bddc5c1e6;elaborar un plan de marketing estratégico para la gestión de destinos;elaborar un plan de marketing estratégico para la gestión de destinos;1;1;0
+571;http://data.europa.eu/esco/skill/f760d2c9-e7ef-4439-8644-d4ecc4a3884e;desarrollar modelos de yacimientos mineros;desarrollar modelos de yacimientos mineros;5;5;0
+572;http://data.europa.eu/esco/skill/f79e4715-5776-485c-ab7d-631c9b8d70ad;gestionar disputas contractuales;gestionar disputas contractuales;2;0;2
+573;http://data.europa.eu/esco/skill/f7b071bf-4882-4cfc-ae0a-7e0e0ab94c61;llevar a cabo investigaciones multidisciplinarias;llevar a cabo investigaciones multidisciplinarias;3;0;3
+574;http://data.europa.eu/esco/skill/f7b5d916-52f0-4865-b6a6-e1a3b711cb5e;realizar una planificación estratégica;realizar una planificación estratégica;7;6;1
+575;http://data.europa.eu/esco/skill/f7e2eb04-3e50-4561-bce1-7e51a1fec308;definir la arquitectura del software;definir la arquitectura del software;8;8;0
+576;http://data.europa.eu/esco/skill/f83e61e0-cb73-4a6a-b266-c4be03fb30eb;controlar la conformidad de los procesos químicos;controlar la conformidad de los procesos químicos;2;1;1
+577;http://data.europa.eu/esco/skill/f8bf9a84-d60b-4edc-bfa0-b0ece9bf8954;documentar procesos;documentar procesos;1;0;1
+578;http://data.europa.eu/esco/skill/f8ea6bda-9f1d-4864-b8f4-ba7e6984e5dd;programar producción minera;programar producción minera;11;4;7
+579;http://data.europa.eu/esco/skill/f9670490-8aa4-4540-b121-d440a8294aab;desarrollar aplicaciones de procesamiento de datos;desarrollar aplicaciones de procesamiento de datos;3;0;3
+580;http://data.europa.eu/esco/skill/f96f5aa5-6ed7-40dc-a431-68b0a09d6d4b;diseñar componentes de automatización;diseñar componentes de automatización;3;1;2
+581;http://data.europa.eu/esco/skill/f9738fc9-4d67-43e8-bfda-954123e34d42;coordinar la seguridad;coordinar la seguridad;1;0;1
+582;http://data.europa.eu/esco/skill/fa3567c8-a7c1-40de-bac0-a4f5a85b9f1a;elaborar planes de emergencia;elaborar planes de emergencia;1;0;1
+583;http://data.europa.eu/esco/skill/faf208ae-d4a4-43b4-bb82-846b7348b740;gestionar fuentes de información;gestionar fuentes de información;2;0;2
+584;http://data.europa.eu/esco/skill/fb40d2c6-fe3c-4e49-9289-49e98900b315;garantizar el cumplimiento de normativas y legislación de mantenimiento;garantizar el cumplimiento de normativas y legislación de mantenimiento;2;0;2
+585;http://data.europa.eu/esco/skill/fbafa41f-cd05-4109-a649-8b44d306d779;crear modelos de datos;crear modelos de datos;20;0;20
+586;http://data.europa.eu/esco/skill/fc153ec6-1320-4f13-9158-ebde86c5303e;coordinar con los equipos de gestión logística;coordinar con los equipos de gestión logística;2;0;2
+587;http://data.europa.eu/esco/skill/fc1a75bb-70e3-4005-881f-7709bf7b0ed4;supervisar obras de construcción;supervisar obras de construcción;5;0;5
+588;http://data.europa.eu/esco/skill/fc22f985-cdc2-47da-8df7-949db1f5c06f;dirigir las operaciones de distribución;dirigir las operaciones de distribución;1;1;0
+589;http://data.europa.eu/esco/skill/fcc97ec2-e8c3-4cad-aaac-1041cd732ac6;asegurar las instalaciones;asegurar las instalaciones;1;0;1
+590;http://data.europa.eu/esco/skill/fce983b6-f54d-4ef3-8a20-e101c76a79a8;preparar la documentación necesaria para el transporte internacional;preparar la documentación necesaria para el transporte internacional;1;1;0
+591;http://data.europa.eu/esco/skill/fcffe2a5-6253-4848-92e7-749304aca647;desarrollar soluciones de movilidad innovadoras;desarrollar soluciones de movilidad innovadoras;1;1;0
+592;http://data.europa.eu/esco/skill/fd4386c5-96f0-4c6e-970c-c08729ae0cc6;realizar el diseño de productos;realizar el diseño de productos;1;0;1
+593;http://data.europa.eu/esco/skill/fd6d2981-3d4a-4ce2-9741-cfc98c5b74bd;aplicar técnicas de almacenamiento de datos;aplicar técnicas de almacenamiento de datos;1;0;1
+594;http://data.europa.eu/esco/skill/fd70741f-5916-4fae-8d8a-d4ca8b578b8f;determinar características de yacimientos de minerales;determinar características de yacimientos de minerales;2;2;0
+595;http://data.europa.eu/esco/skill/fe39d4db-4cb5-4299-bb9f-896c8fd6ab13;realizar estudios de mercado;realizar estudios de mercado;2;0;2
+596;http://data.europa.eu/esco/skill/fe96f581-4905-4282-819c-922c68bda989;interpretar esquemas eléctricos;interpretar esquemas eléctricos;2;1;1
+597;http://data.europa.eu/esco/skill/feceacee-d425-4e73-821a-02dfb85084db;controlar la producción;controlar la producción;1;0;1

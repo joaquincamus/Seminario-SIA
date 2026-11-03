@@ -1,0 +1,48 @@
+{
+  "etapa": "Obj2 / Actividad 3 / Paso 4",
+  "estado": "EMBEDDINGS_CALCULADOS_SIN_VALIDACION_SEMANTICA_ESPECIALIZADA",
+  "modelado": {
+    "modelo": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "modelo_commit_si_disponible": null,
+    "dimension_declarada": 384,
+    "device": "cpu",
+    "version_sentence_transformers": "6.1.0",
+    "version_transformers": "5.20.2",
+    "version_torch": "2.14.1",
+    "version_numpy": "2.5.4"
+  },
+  "parametros": {
+    "tamano_lote": 32,
+    "normalizacion_l2": true,
+    "tipo_dato": "float32",
+    "unidad_vectorizada": "una URI ESCO y su etiqueta",
+    "metodo_agregacion_por_registro": "AUN_NO_APLICADO"
+  },
+  "conteos": {
+    "competencias_uri": 598,
+    "dimensiones_vector": 384,
+    "registros_preparados_paso3": 274,
+    "relaciones_paso3": 1867,
+    "etiquetas_compartidas_por_multiples_uri": 2,
+    "minima_norma": 0.9999998807907104,
+    "maxima_norma": 1.0000001192092896
+  },
+  "archivo_indice": "04_indice_embeddings_esco.csv",
+  "archivo_matriz": "04_embeddings_competencias_esco.npy",
+  "entradas_sha256": {
+    "03_catalogo_competencias_esco.csv": "3bee730eb3b3767b937b1babe0426caf128efad7ac18f31c7b67f4231d9d4c3d",
+    "03_relaciones_trazables.csv": "5e935cb8df6ac32c45f9a7fef29ed4f564f88be09ee2f48332fad71e27de3a3e",
+    "03_registros_preparados.csv": "2982319187bc15dc458a81c2be977506227ce36816b00f6f422f6b548f67f7b0",
+    "03_resumen_corpus.json": "76bfecbddaa836e696344b3a4dfd5c2abbc084ba6ef152314ab2e5ba91666f4b"
+  },
+  "salidas_sha256": {
+    "04_indice_embeddings_esco.csv": "d393e68d5caae1038f202e2efc66db041a60d5a616509c6b7ff1e9097f0e701a",
+    "04_embeddings_competencias_esco.npy": "54f28365e59f10284bb6b76889642d0e07fbfaa5085d54a42037930eaf733296"
+  },
+  "alertas": [
+    "Los mapeos de origen a ESCO son provisionales; no se verificó su corrección.",
+    "Las URI distintas con etiqueta idéntica producen el mismo vector textual.",
+    "La similitud coseno no es un porcentaje de cobertura curricular.",
+    "El identificador del modelo puede cambiar de revisión; revisar commit registrado cuando exista."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "etapa": "Obj2 / Actividad 3 / Paso 6",
+  "estado": "EVALUACION_EXPLORATORIA_K_SIN_K_FINAL",
+  "metodo": {
+    "algoritmo": "KMeans euclidiano sobre vectores L2",
+    "silueta_principal": "distancia coseno",
+    "semillas": [
+      42,
+      123,
+      2026
+    ],
+    "n_init": 20,
+    "max_iter": 400,
+    "rangos_k": {
+      "academia": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ],
+      "mercado": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "conjunto": [
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "estabilidad": "ARI medio y mínimo entre todas las parejas de semillas",
+    "nota": "Se evalúa cada grupo separadamente; la combinación academia-mercado está desbalanceada."
+  },
+  "conteos": {
+    "total": 274,
+    "academia": 46,
+    "mercado": 228,
+    "vectores_distintos": 272
+  },
+  "entradas_sha256": {
+    "05_vectores_registros.npy": "865efb9e2efdee087193c17a12ac075e99111f07c407496b0d516c6825c8eedd",
+    "05_indice_registros.csv": "23b095b1e423ff91171c8104035bda9852fd8397bc1bed3b37018764569f799d",
+    "05_resumen_agregacion.json": "b670b83b9931bcd679db74e7cfada9f99387e3f23cc11a245d736490733de332"
+  },
+  "archivos": [
+    "06_metricas_por_k.csv",
+    "06_asignaciones_exploratorias.csv",
+    "06_distribucion_clusters.csv",
+    "06_candidatos_por_silueta.csv"
+  ],
+  "graficos": "Generados: 06_silueta_coseno_por_k.png, 06_estabilidad_ari_por_k.png, 06_inercia_por_k.png",
+  "alertas": [
+    "La métrica de silueta no valida la interpretación semántica de los clusters.",
+    "Los identificadores numéricos de cluster son arbitrarios y no se comparan entre valores de K.",
+    "El resultado conjunto tiene más ofertas que carreras y puede reflejar ese desbalance.",
+    "Los mapeos originales a ESCO siguen pendientes de revisión humana.",
+    "No se ha seleccionado K definitivo ni calculado porcentaje de cobertura curricular."
+  ]
+}

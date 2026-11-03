@@ -1,0 +1,34 @@
+{
+  "paso": 10,
+  "estado": "TECNICAMENTE_CONSISTENTE_CON_REVISION_PENDIENTE",
+  "controles": 67,
+  "errores": 0,
+  "pendientes": 1,
+  "registros": {
+    "academia": 46,
+    "mercado": 228,
+    "total": 274
+  },
+  "representacion": "vectores semanticos 384D normalizados; media ESCO sin pesos",
+  "configuraciones": {
+    "academia": 5,
+    "mercado": 3,
+    "conjunto_exploratorio": 4
+  },
+  "filas_proyecciones": 548,
+  "pca_varianza_2d": {
+    "academia": 0.428408146,
+    "mercado": 0.286769271,
+    "conjunto": 0.279589623
+  },
+  "fichas_revision_clusters_pendientes": 8,
+  "ofertas_sin_esco_no_incluidas": 14,
+  "limites": [
+    "No se reviso manualmente la correspondencia entre texto original y ESCO.",
+    "La pertenencia a clusters no equivale a pertinencia ni cobertura curricular.",
+    "La proyeccion PCA no conserva todas las distancias de 384 dimensiones.",
+    "Las 14 ofertas sin competencias ESCO no tienen vector en esta muestra.",
+    "Las poblaciones academia y mercado fueron agrupadas por separado; los IDs no se comparan.",
+    "Las etiquetas de clusters siguen siendo provisionales."
+  ]
+}

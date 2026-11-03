@@ -1,0 +1,549 @@
+﻿grupo_proyeccion;tipo_analisis;fila_vector_0_based;origen;id_registro;universidad;carrera;job_id;titulo_oferta;k;cluster;etiqueta_propuesta_no_validada;pca_1;pca_2
+academia;PRINCIPAL_PROVISIONAL;0;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL;;;5;2;Informática y otras ingenierías (grupo heterogéneo);0.122279890;0.096924931
+academia;PRINCIPAL_PROVISIONAL;1;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL AMBIENTAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL AMBIENTAL;;;5;4;Medioambiente y prevención de riesgos;0.182525977;-0.142314881
+academia;PRINCIPAL_PROVISIONAL;2;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL DE MINAS;;;5;0;Ingeniería de minas y planificación minera;0.575941980;-0.048349876
+academia;PRINCIPAL_PROVISIONAL;3;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.245309368;0.308220059
+academia;PRINCIPAL_PROVISIONAL;4;academia;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.146695033;0.240914717
+academia;PRINCIPAL_PROVISIONAL;5;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.294367969;0.265976548
+academia;PRINCIPAL_PROVISIONAL;6;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL EN MINAS;;;5;0;Ingeniería de minas y planificación minera;0.597923636;-0.112363324
+academia;PRINCIPAL_PROVISIONAL;7;academia;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL EN MINAS;;;5;0;Ingeniería de minas y planificación minera;0.579611659;-0.118399695
+academia;PRINCIPAL_PROVISIONAL;8;academia;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN MINAS;;;5;0;Ingeniería de minas y planificación minera;0.580521941;-0.130589023
+academia;PRINCIPAL_PROVISIONAL;9;academia;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL INDUSTRIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.129583344;-0.066374317
+academia;PRINCIPAL_PROVISIONAL;10;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL INDUSTRIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.271952897;-0.061101634
+academia;PRINCIPAL_PROVISIONAL;11;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL INDUSTRIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.134112716;-0.262751192
+academia;PRINCIPAL_PROVISIONAL;12;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.127717301;0.327672273
+academia;PRINCIPAL_PROVISIONAL;13;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL MECANICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.073073216;0.353368461
+academia;PRINCIPAL_PROVISIONAL;14;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA COMERCIAL;UNIVERSIDAD SANTO TOMAS;INGENIERIA COMERCIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.331106335;-0.359205306
+academia;PRINCIPAL_PROVISIONAL;15;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA COMERCIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA COMERCIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.290505946;-0.377192080
+academia;PRINCIPAL_PROVISIONAL;16;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA COMERCIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA COMERCIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.359475642;-0.341359735
+academia;PRINCIPAL_PROVISIONAL;17;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA DE MINAS;;;5;0;Ingeniería de minas y planificación minera;0.611124754;-0.111708619
+academia;PRINCIPAL_PROVISIONAL;18;academia;IP INACAP | INGENIERIA ELECTRICA;IP INACAP;INGENIERIA ELECTRICA;;;5;3;Electricidad, control y mecánica;0.152930990;0.340957850
+academia;PRINCIPAL_PROVISIONAL;19;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA EN ADMINISTRACION DE EMPRESAS;UNIVERSIDAD DE LA SERENA;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;5;1;Gestión, administración e ingeniería industrial;-0.280402839;-0.320602179
+academia;PRINCIPAL_PROVISIONAL;20;academia;IP INACAP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP INACAP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;5;1;Gestión, administración e ingeniería industrial;-0.295427799;-0.337302953
+academia;PRINCIPAL_PROVISIONAL;21;academia;IP DE CHILE | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP DE CHILE;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;5;1;Gestión, administración e ingeniería industrial;-0.276875317;-0.340021133
+academia;PRINCIPAL_PROVISIONAL;22;academia;IP AIEP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP AIEP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;5;1;Gestión, administración e ingeniería industrial;-0.319838673;-0.407529145
+academia;PRINCIPAL_PROVISIONAL;23;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;UNIVERSIDAD DE LA SERENA;INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;;;5;4;Medioambiente y prevención de riesgos;0.003494768;-0.179132849
+academia;PRINCIPAL_PROVISIONAL;24;academia;IP INACAP | INGENIERIA EN CIBERSEGURIDAD;IP INACAP;INGENIERIA EN CIBERSEGURIDAD;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.108389668;0.282571375
+academia;PRINCIPAL_PROVISIONAL;25;academia;IP SANTO TOMAS | INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;;;5;3;Electricidad, control y mecánica;0.097309992;0.365980357
+academia;PRINCIPAL_PROVISIONAL;26;academia;IP INACAP | INGENIERIA EN ENERGIA;IP INACAP;INGENIERIA EN ENERGIA;;;5;3;Electricidad, control y mecánica;0.092117354;0.180904463
+academia;PRINCIPAL_PROVISIONAL;27;academia;IP INACAP | INGENIERIA EN GEOMENSURA Y GEOMATICA;IP INACAP;INGENIERIA EN GEOMENSURA Y GEOMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);0.128604040;0.129355237
+academia;PRINCIPAL_PROVISIONAL;28;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN INFORMACION Y CONTROL DE GESTION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN INFORMACION Y CONTROL DE GESTION;;;5;1;Gestión, administración e ingeniería industrial;-0.328846723;-0.113522150
+academia;PRINCIPAL_PROVISIONAL;29;academia;IP SANTO TOMAS | INGENIERIA EN INFORMATICA;IP SANTO TOMAS;INGENIERIA EN INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.230429202;0.289419770
+academia;PRINCIPAL_PROVISIONAL;30;academia;IP INACAP | INGENIERIA EN INFORMATICA;IP INACAP;INGENIERIA EN INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.245631471;0.257783771
+academia;PRINCIPAL_PROVISIONAL;31;academia;IP AIEP | INGENIERIA EN INFORMATICA;IP AIEP;INGENIERIA EN INFORMATICA;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.238561571;0.310520202
+academia;PRINCIPAL_PROVISIONAL;32;academia;IP INACAP | INGENIERIA EN LOGISTICA;IP INACAP;INGENIERIA EN LOGISTICA;;;5;1;Gestión, administración e ingeniería industrial;-0.083576888;-0.190536380
+academia;PRINCIPAL_PROVISIONAL;33;academia;IP DE CHILE | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP DE CHILE;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;;5;3;Electricidad, control y mecánica;0.090712212;0.247798130
+academia;PRINCIPAL_PROVISIONAL;34;academia;IP AIEP | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP AIEP;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;;5;3;Electricidad, control y mecánica;0.050443232;0.278321654
+academia;PRINCIPAL_PROVISIONAL;35;academia;IP INACAP | INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;IP INACAP;INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;;;5;3;Electricidad, control y mecánica;-0.037425008;0.210233375
+academia;PRINCIPAL_PROVISIONAL;36;academia;IP INACAP | INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;IP INACAP;INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;;;5;4;Medioambiente y prevención de riesgos;0.158057421;-0.251467496
+academia;PRINCIPAL_PROVISIONAL;37;academia;IP DE CHILE | INGENIERIA EN MINAS;IP DE CHILE;INGENIERIA EN MINAS;;;5;0;Ingeniería de minas y planificación minera;0.604675829;-0.121149451
+academia;PRINCIPAL_PROVISIONAL;38;academia;IP AIEP | INGENIERIA EN MINAS;IP AIEP;INGENIERIA EN MINAS;;;5;0;Ingeniería de minas y planificación minera;0.550655723;-0.080246143
+academia;PRINCIPAL_PROVISIONAL;39;academia;IP SANTO TOMAS | INGENIERIA EN QUIMICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN QUIMICA INDUSTRIAL;;;5;4;Medioambiente y prevención de riesgos;-0.005309490;-0.095585138
+academia;PRINCIPAL_PROVISIONAL;40;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN TECNOLOGIAS DE INFORMACION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN TECNOLOGIAS DE INFORMACION;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.279465258;0.225807562
+academia;PRINCIPAL_PROVISIONAL;41;academia;IP INACAP | INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;IP INACAP;INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;;;5;2;Informática y otras ingenierías (grupo heterogéneo);-0.091754369;0.317184538
+academia;PRINCIPAL_PROVISIONAL;42;academia;IP AIEP | INGENIERIA INDUSTRIAL;IP AIEP;INGENIERIA INDUSTRIAL;;;5;1;Gestión, administración e ingeniería industrial;-0.195521966;-0.224525034
+academia;PRINCIPAL_PROVISIONAL;43;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA MECANICA;;;5;3;Electricidad, control y mecánica;0.103376880;0.207502991
+academia;PRINCIPAL_PROVISIONAL;44;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;;;5;4;Medioambiente y prevención de riesgos;0.074212097;-0.236927196
+academia;PRINCIPAL_PROVISIONAL;45;academia;IP AIEP | INGENIERIA EN PREVENCION DE RIESGOS;IP AIEP;INGENIERIA EN PREVENCION DE RIESGOS;;;5;4;Medioambiente y prevención de riesgos;0.064836077;-0.207162276
+mercado;PRINCIPAL_PROVISIONAL;46;mercado;afe7fc2465345541;;;afe7fc2465345541;Puestos vacantes: Supervisora(or) Tronadura (20684);3;2;Gestión y coordinación de proyectos;0.206174865;-0.128498584
+mercado;PRINCIPAL_PROVISIONAL;47;mercado;2fec54987f7dfcc4;;;2fec54987f7dfcc4;Ingeniero de Integridad;3;1;Operaciones, mantenimiento y calidad;-0.002549378;-0.019675715
+mercado;PRINCIPAL_PROVISIONAL;48;mercado;ed4c03cdd32d6820;;;ed4c03cdd32d6820;Ingeniero de proyecto;3;1;Operaciones, mantenimiento y calidad;-0.091965578;0.086488150
+mercado;PRINCIPAL_PROVISIONAL;49;mercado;35ebf411ee1348b7;;;35ebf411ee1348b7;Ingeniero Geotécnico Junior (0-4 años de experiencia);3;0;Datos y analítica;-0.192915544;-0.391553193
+mercado;PRINCIPAL_PROVISIONAL;50;mercado;7ffa0f30fe68a741;;;7ffa0f30fe68a741;Puestos vacantes: Ingeniera(o) Planificacion Perforacion y Tronadura (20686);3;2;Gestión y coordinación de proyectos;0.167060181;-0.316413313
+mercado;PRINCIPAL_PROVISIONAL;51;mercado;b5c228b6f3367f0b;;;b5c228b6f3367f0b;CL - INGENIERO DE PROCESO I;3;1;Operaciones, mantenimiento y calidad;-0.039812814;-0.146249488
+mercado;PRINCIPAL_PROVISIONAL;52;mercado;d1eb46bda5cfe696;;;d1eb46bda5cfe696;DW/ Programador Planificador/ Ingeniero Mecánico   /Minera Los Bronces;3;2;Gestión y coordinación de proyectos;0.215762809;0.073925100
+mercado;PRINCIPAL_PROVISIONAL;53;mercado;02d6cadb692d6291;;;02d6cadb692d6291;Ingeniero Junior Civil Minas;3;2;Gestión y coordinación de proyectos;0.236306965;-0.150000244
+mercado;PRINCIPAL_PROVISIONAL;54;mercado;3902f8f522c4f2c2;;;3902f8f522c4f2c2;Graduate Development Associate - Operations;3;2;Gestión y coordinación de proyectos;0.287963390;0.022678511
+mercado;PRINCIPAL_PROVISIONAL;55;mercado;0bff5abcbea372b8;;;0bff5abcbea372b8;Ingeniero/a Automatización Junior;3;2;Gestión y coordinación de proyectos;0.199105769;-0.248746738
+mercado;PRINCIPAL_PROVISIONAL;56;mercado;44bfbba63e03fb24;;;44bfbba63e03fb24;Especialista Programador Minero | RySMS-06;3;2;Gestión y coordinación de proyectos;0.265765160;-0.019738086
+mercado;PRINCIPAL_PROVISIONAL;57;mercado;bd1fe80d46f6a3f8;;;bd1fe80d46f6a3f8;Estudiante en práctica de Prevención de Riesgos;3;1;Operaciones, mantenimiento y calidad;-0.128418460;0.016901728
+mercado;PRINCIPAL_PROVISIONAL;58;mercado;a3d293f3ed7bb97a;;;a3d293f3ed7bb97a;Planificador/a (Antofagasta);3;1;Operaciones, mantenimiento y calidad;0.118010350;0.074537039
+mercado;PRINCIPAL_PROVISIONAL;59;mercado;109307e023676b2a;;;109307e023676b2a;Ingeniero/a Entrenamiento;3;1;Operaciones, mantenimiento y calidad;0.026529953;0.007929372
+mercado;PRINCIPAL_PROVISIONAL;60;mercado;f67dddeed1031299;;;f67dddeed1031299;Ingeniero de Procesos Junior – Digitalización y Mejora de Procesos;3;1;Operaciones, mantenimiento y calidad;0.041563418;0.062538534
+mercado;PRINCIPAL_PROVISIONAL;61;mercado;ebc8fa738fb3fc5b;;;ebc8fa738fb3fc5b;Supervisor Eléctrico;3;2;Gestión y coordinación de proyectos;0.307827204;-0.100147262
+mercado;PRINCIPAL_PROVISIONAL;62;mercado;2e79028be2c8db87;;;2e79028be2c8db87;Ingeniero Blaster;3;2;Gestión y coordinación de proyectos;0.171802998;-0.345640421
+mercado;PRINCIPAL_PROVISIONAL;63;mercado;ebee70d8a8d5a6db;;;ebee70d8a8d5a6db;Ingeniero de Proyecto Junior – Especialidad Instrumentación;3;2;Gestión y coordinación de proyectos;0.119739480;-0.283115834
+mercado;PRINCIPAL_PROVISIONAL;64;mercado;116cbf0eb760f6f7;;;116cbf0eb760f6f7;Practica profesional Ingenieros en Minas o  Tecnicos en Geologia;3;0;Datos y analítica;-0.216566235;-0.388216883
+mercado;PRINCIPAL_PROVISIONAL;65;mercado;001c618c6d0e8597;;;001c618c6d0e8597;Jefe/a De Planificación Mina Corto Plazo;3;2;Gestión y coordinación de proyectos;0.206072807;-0.281456530
+mercado;PRINCIPAL_PROVISIONAL;66;mercado;f3b1f6bc7d55b82a;;;f3b1f6bc7d55b82a;TRAINEE DE PROCESOS;3;1;Operaciones, mantenimiento y calidad;0.040014360;0.055996541
+mercado;PRINCIPAL_PROVISIONAL;67;mercado;7212208383eb9252;;;7212208383eb9252;Field Technical Support Engineer;3;2;Gestión y coordinación de proyectos;0.237886637;-0.279771745
+mercado;PRINCIPAL_PROVISIONAL;68;mercado;6cdbb656033bf3b1;;;6cdbb656033bf3b1;Ingeniero/a Civil en Minas Junior (2 a 5 años de experiencia);3;2;Gestión y coordinación de proyectos;0.208605245;-0.208246231
+mercado;PRINCIPAL_PROVISIONAL;69;mercado;1a9c776eb0cbd270;;;1a9c776eb0cbd270;Puestos vacantes: Ingeniera(o) Análisis y Mejoramiento (20715);3;1;Operaciones, mantenimiento y calidad;0.117377296;0.193397924
+mercado;PRINCIPAL_PROVISIONAL;70;mercado;8c879c1b8ce6346d;;;8c879c1b8ce6346d;Supervisor(a) Producción Mina I Red de Talento;3;2;Gestión y coordinación de proyectos;0.187053770;-0.040862128
+mercado;PRINCIPAL_PROVISIONAL;71;mercado;79e9c6a2fb3d0ddb;;;79e9c6a2fb3d0ddb;Ingeniero de Control Operacional;3;0;Datos y analítica;-0.515552104;0.039653335
+mercado;PRINCIPAL_PROVISIONAL;72;mercado;75eeda75b37ae387;;;75eeda75b37ae387;Ingeniero Junior CORE;3;2;Gestión y coordinación de proyectos;0.157456428;0.003014988
+mercado;PRINCIPAL_PROVISIONAL;73;mercado;8a43c14d5af125d0;;;8a43c14d5af125d0;Ingeniero / Ingeniera de Procesos - Ingeniero (a) Civil o Ejecución en Metalurgia;3;0;Datos y analítica;-0.378891528;-0.208736256
+mercado;PRINCIPAL_PROVISIONAL;74;mercado;f1229c8eeb85c0db;;;f1229c8eeb85c0db;Control de Gestión y Operaciones de Campo;3;1;Operaciones, mantenimiento y calidad;-0.224093854;0.218185976
+mercado;PRINCIPAL_PROVISIONAL;75;mercado;9de9fdddb062c8e7;;;9de9fdddb062c8e7;Ingeniero Prevencionista de Riesgos HSE Junior - Proyecto Industrial;3;1;Operaciones, mantenimiento y calidad;-0.099070072;0.051128328
+mercado;PRINCIPAL_PROVISIONAL;76;mercado;0f95d34465aeb521;;;0f95d34465aeb521;Manufacturing Engineer;3;1;Operaciones, mantenimiento y calidad;0.030095901;0.024399444
+mercado;PRINCIPAL_PROVISIONAL;77;mercado;8fdfc1c8e63f4f0a;;;8fdfc1c8e63f4f0a;Ingeniero(a) Predictivo;3;1;Operaciones, mantenimiento y calidad;-0.023374191;-0.123379119
+mercado;PRINCIPAL_PROVISIONAL;78;mercado;4ebf2ba9acdee737;;;4ebf2ba9acdee737;Ingeniero/a de planificación;3;1;Operaciones, mantenimiento y calidad;0.072374046;0.117340289
+mercado;PRINCIPAL_PROVISIONAL;79;mercado;984b792afa2e6508;;;984b792afa2e6508;Proyectista Civil-Geotécnico Junior;3;2;Gestión y coordinación de proyectos;0.162494734;-0.198987484
+mercado;PRINCIPAL_PROVISIONAL;80;mercado;a035a22355cc2b45;;;a035a22355cc2b45;Ingeniero/a de Aplicación - Minería - Copiapó;3;1;Operaciones, mantenimiento y calidad;-0.135034010;-0.081523582
+mercado;PRINCIPAL_PROVISIONAL;81;mercado;5bb6d6f932eb028e;;;5bb6d6f932eb028e;Puestos vacantes: Ingeniera(o) Full Control (20690);3;2;Gestión y coordinación de proyectos;0.104107410;-0.368320167
+mercado;PRINCIPAL_PROVISIONAL;82;mercado;999d74443a82cf34;;;999d74443a82cf34;Project Engineer, Junior;3;2;Gestión y coordinación de proyectos;0.299421728;-0.117538318
+mercado;PRINCIPAL_PROVISIONAL;83;mercado;a42bec88acd042d0;;;a42bec88acd042d0;Ingeniero de proyecto - Minería;3;2;Gestión y coordinación de proyectos;0.131112307;0.073155552
+mercado;PRINCIPAL_PROVISIONAL;84;mercado;2de14917aa68b4c0;;;2de14917aa68b4c0;Especialista Proyecto PyC | RySFA-02;3;2;Gestión y coordinación de proyectos;0.314865649;0.110384464
+mercado;PRINCIPAL_PROVISIONAL;85;mercado;787112f3120eb1bd;;;787112f3120eb1bd;Ingeniero Químico;3;1;Operaciones, mantenimiento y calidad;0.114343777;-0.212261260
+mercado;PRINCIPAL_PROVISIONAL;86;mercado;41c889af83de77a9;;;41c889af83de77a9;Ingeniero de Permisos Junior (Ingeniero Civil en minas);3;1;Operaciones, mantenimiento y calidad;0.145900935;0.138948828
+mercado;PRINCIPAL_PROVISIONAL;87;mercado;f9d5a42fa9fa883a;;;f9d5a42fa9fa883a;Ingeniero de Integridad;3;2;Gestión y coordinación de proyectos;0.199488014;-0.335389704
+mercado;PRINCIPAL_PROVISIONAL;88;mercado;cfd998e5195c3b48;;;cfd998e5195c3b48;Programador de Mantenimiento - Equipos Mina;3;1;Operaciones, mantenimiento y calidad;0.179398865;-0.089626059
+mercado;PRINCIPAL_PROVISIONAL;89;mercado;7e52e03585bf647f;;;7e52e03585bf647f;Prácticas y Memorias Sandvik 2027;3;0;Datos y analítica;-0.191871673;-0.114932574
+mercado;PRINCIPAL_PROVISIONAL;90;mercado;0fc0519eb558ea2f;;;0fc0519eb558ea2f;Puestos vacantes: Lider Precomisionamiento y Comisionamiento (20725);3;1;Operaciones, mantenimiento y calidad;-0.121325456;0.038991172
+mercado;PRINCIPAL_PROVISIONAL;91;mercado;33546e8ad0440411;;;33546e8ad0440411;Asistente Técnico;3;2;Gestión y coordinación de proyectos;0.116844647;-0.325944275
+mercado;PRINCIPAL_PROVISIONAL;92;mercado;94b447aa460b1d43;;;94b447aa460b1d43;Ingeniero/a de Mantención y Operaciones Minería;3;1;Operaciones, mantenimiento y calidad;0.087794513;0.290894866
+mercado;PRINCIPAL_PROVISIONAL;93;mercado;96c63f29fe9b9092;;;96c63f29fe9b9092;Ingeniero de Minas Junior;3;0;Datos y analítica;-0.245020002;-0.263646692
+mercado;PRINCIPAL_PROVISIONAL;94;mercado;9f40f7994c3785e3;;;9f40f7994c3785e3;IC Sales Specialist (LDP);3;1;Operaciones, mantenimiento y calidad;-0.018920882;0.022780573
+mercado;PRINCIPAL_PROVISIONAL;95;mercado;2b8a4fd68d6b0267;;;2b8a4fd68d6b0267;Ingeniero Planificación Y Control B  - 267167-13;3;2;Gestión y coordinación de proyectos;0.320502013;0.154078543
+mercado;PRINCIPAL_PROVISIONAL;96;mercado;828006062d10e0c1;;;828006062d10e0c1;Ingeniero de Proyectos;3;2;Gestión y coordinación de proyectos;0.199611962;-0.160096616
+mercado;PRINCIPAL_PROVISIONAL;97;mercado;7a312da1e5965a8f;;;7a312da1e5965a8f;Ingeniero/a Senior Multidisciplina - Codelco GPRO V Región;3;2;Gestión y coordinación de proyectos;0.246681184;0.007453110
+mercado;PRINCIPAL_PROVISIONAL;98;mercado;9cc0800a6a6d82fd;;;9cc0800a6a6d82fd;Proyectista electrico e instrumentación;3;2;Gestión y coordinación de proyectos;0.098089218;-0.410070956
+mercado;PRINCIPAL_PROVISIONAL;99;mercado;afbf9ad33d40ddad;;;afbf9ad33d40ddad;Ingeniero/a Entrenamiento;3;1;Operaciones, mantenimiento y calidad;-0.094410010;0.066838667
+mercado;PRINCIPAL_PROVISIONAL;100;mercado;ef9967fedf303d8b;;;ef9967fedf303d8b;Representante Técnico II Región;3;2;Gestión y coordinación de proyectos;0.277831554;-0.439061284
+mercado;PRINCIPAL_PROVISIONAL;101;mercado;37c74c2f6cb3da60;;;37c74c2f6cb3da60;Deputy IRIR (Aguas y Relaves);3;1;Operaciones, mantenimiento y calidad;0.065919943;0.058318876
+mercado;PRINCIPAL_PROVISIONAL;102;mercado;f0d2f48f6e98c973;;;f0d2f48f6e98c973;Ingeniero/a tronadura;3;1;Operaciones, mantenimiento y calidad;0.049715426;-0.069327757
+mercado;PRINCIPAL_PROVISIONAL;103;mercado;3965db06407770e8;;;3965db06407770e8;Ingeniero Full Control. Perforación y Tronadura;3;0;Datos y analítica;-0.210921586;-0.307198256
+mercado;PRINCIPAL_PROVISIONAL;104;mercado;7a48b6e73bf1bfe3;;;7a48b6e73bf1bfe3;Ingeniero/a de Estudios - Equipos Mineros;3;1;Operaciones, mantenimiento y calidad;0.064167380;0.102949649
+mercado;PRINCIPAL_PROVISIONAL;105;mercado;e4e0849cb8f7b4b2;;;e4e0849cb8f7b4b2;Modelador Hidrogeológico Junior / Minería;3;0;Datos y analítica;-0.278943270;-0.054926477
+mercado;PRINCIPAL_PROVISIONAL;106;mercado;63f17f3260d1079a;;;63f17f3260d1079a;Field Technical Support Engineer;3;2;Gestión y coordinación de proyectos;0.207211867;-0.286104858
+mercado;PRINCIPAL_PROVISIONAL;107;mercado;280ffed8918eb3c8;;;280ffed8918eb3c8;Ingeniero (a) Postventas;3;1;Operaciones, mantenimiento y calidad;0.253294468;-0.098877802
+mercado;PRINCIPAL_PROVISIONAL;108;mercado;d66f9334bfda54c0;;;d66f9334bfda54c0;Alumno/a en Práctica- Planificación;3;1;Operaciones, mantenimiento y calidad;0.141833574;0.150722831
+mercado;PRINCIPAL_PROVISIONAL;109;mercado;2d04f9a63d6e7b6a;;;2d04f9a63d6e7b6a;Ingeniero de Disciplina P&C- Las Condes;3;2;Gestión y coordinación de proyectos;0.328844786;0.063496456
+mercado;PRINCIPAL_PROVISIONAL;110;mercado;eb77bbc57db4f479;;;eb77bbc57db4f479;Supervisor Centro Control Remoto | CAS;3;1;Operaciones, mantenimiento y calidad;0.076079845;0.013441870
+mercado;PRINCIPAL_PROVISIONAL;111;mercado;82f17cfc76defa4d;;;82f17cfc76defa4d;Jefe de Programación y Control de Proyectos;3;2;Gestión y coordinación de proyectos;0.204015672;0.121782891
+mercado;PRINCIPAL_PROVISIONAL;112;mercado;6ee261dba4c753df;;;6ee261dba4c753df;Jefe de Programación y Control;3;2;Gestión y coordinación de proyectos;0.227183536;0.153333202
+mercado;PRINCIPAL_PROVISIONAL;113;mercado;60fb28db06b87cac;;;60fb28db06b87cac;Subgerente Control De Gestión;3;1;Operaciones, mantenimiento y calidad;-0.171057582;0.234231547
+mercado;PRINCIPAL_PROVISIONAL;114;mercado;50f2df8564b9dd13;;;50f2df8564b9dd13;GERENTE ADMINISTRACIÓN Y FINANZAS – MINERÍA – ANTOFAGASTA;3;1;Operaciones, mantenimiento y calidad;-0.185959592;0.347644478
+mercado;PRINCIPAL_PROVISIONAL;115;mercado;0104560041bf5a34;;;0104560041bf5a34;Project Manager;3;2;Gestión y coordinación de proyectos;-0.011240701;-0.313594669
+mercado;PRINCIPAL_PROVISIONAL;116;mercado;7b8512297f555b9e;;;7b8512297f555b9e;Ingeniero(a) de Análisis y Mejoramiento - Minería y/o SSO;3;0;Datos y analítica;-0.413374782;0.028200708
+mercado;PRINCIPAL_PROVISIONAL;117;mercado;35655529e81d2866;;;35655529e81d2866;Planificador/a de Mantenimiento;3;1;Operaciones, mantenimiento y calidad;-0.080445066;0.062124334
+mercado;PRINCIPAL_PROVISIONAL;118;mercado;4745ac974a031b2e;;;4745ac974a031b2e;Consultor/a Planificacion y Mantenimiento - Calama;3;1;Operaciones, mantenimiento y calidad;0.073709317;0.101206653
+mercado;PRINCIPAL_PROVISIONAL;119;mercado;d49b9f735597a772;;;d49b9f735597a772;Jefe de Oficina Técnica;3;2;Gestión y coordinación de proyectos;0.295868307;0.120147392
+mercado;PRINCIPAL_PROVISIONAL;120;mercado;e7ff5e49ea92b8b3;;;e7ff5e49ea92b8b3;PLANIFICADOR(A) LARGO PLAZO - ANTOFAGASTA;3;1;Operaciones, mantenimiento y calidad;0.096268974;0.231154084
+mercado;PRINCIPAL_PROVISIONAL;121;mercado;e69676e2eba386bd;;;e69676e2eba386bd;Jefe de Relaves;3;1;Operaciones, mantenimiento y calidad;0.130353302;0.134710923
+mercado;PRINCIPAL_PROVISIONAL;122;mercado;c5770687694809d0;;;c5770687694809d0;Ingeniero/a de Control y Productividad - RySFR-06;3;1;Operaciones, mantenimiento y calidad;-0.125993356;0.183345109
+mercado;PRINCIPAL_PROVISIONAL;123;mercado;8aa8e6ef945df7a3;;;8aa8e6ef945df7a3;2503108-Ingeniero/a de Análisis y Mejoramiento de Gestión;3;0;Datos y analítica;-0.305542111;0.069380626
+mercado;PRINCIPAL_PROVISIONAL;124;mercado;09065bec997fae38;;;09065bec997fae38;Ingeniero de riesgos de proyecto;3;1;Operaciones, mantenimiento y calidad;-0.087617569;0.048081063
+mercado;PRINCIPAL_PROVISIONAL;125;mercado;9ccc3476623d33a0;;;9ccc3476623d33a0;Ingeniero Control de Gestión Operacional;3;0;Datos y analítica;-0.411741436;-0.080801189
+mercado;PRINCIPAL_PROVISIONAL;126;mercado;5ee0214341fba2e3;;;5ee0214341fba2e3;Jefatura de Oficina Técnica - Zona Norte -Proyecto Minero;3;2;Gestión y coordinación de proyectos;0.237447843;0.222062677
+mercado;PRINCIPAL_PROVISIONAL;127;mercado;792f6e18e13eed51;;;792f6e18e13eed51;Jefe de Operaciones - Chillán;3;1;Operaciones, mantenimiento y calidad;0.065447837;0.153241992
+mercado;PRINCIPAL_PROVISIONAL;128;mercado;2815b49d53d20b59;;;2815b49d53d20b59;Jefe/a de Disciplina de Proceso (Ingeniero(a) Principal de Proceso);3;2;Gestión y coordinación de proyectos;0.198055133;-0.322371662
+mercado;PRINCIPAL_PROVISIONAL;129;mercado;83d9a688de77a151;;;83d9a688de77a151;Ingeniero(a) Senior de Procesos y Calidad Industria Minera;3;1;Operaciones, mantenimiento y calidad;-0.098967575;0.040257789
+mercado;PRINCIPAL_PROVISIONAL;130;mercado;cd0949c7fb619e84;;;cd0949c7fb619e84;Ingeniero de Control de Gestión;3;0;Datos y analítica;-0.262220979;0.186334774
+mercado;PRINCIPAL_PROVISIONAL;131;mercado;84a6b9c598b6bf98;;;84a6b9c598b6bf98;Mining Tech Prof IV - Eng;3;2;Gestión y coordinación de proyectos;0.171469629;-0.092411779
+mercado;PRINCIPAL_PROVISIONAL;132;mercado;075cc906ba06a44b;;;075cc906ba06a44b;Lider de Planificación y Programación;3;2;Gestión y coordinación de proyectos;0.084822357;0.028410571
+mercado;PRINCIPAL_PROVISIONAL;133;mercado;ead17390b2473473;;;ead17390b2473473;Senior Procesamiento Conminucion;3;1;Operaciones, mantenimiento y calidad;0.138676330;-0.201625347
+mercado;PRINCIPAL_PROVISIONAL;134;mercado;e8f62b4dcd7d51d7;;;e8f62b4dcd7d51d7;PLANIFICADOR/A;3;1;Operaciones, mantenimiento y calidad;-0.014435355;0.178985119
+mercado;PRINCIPAL_PROVISIONAL;135;mercado;5fe7dad20c757caf;;;5fe7dad20c757caf;Ingeniero/a Senior de Planificación Mina Largo Plazo - Lomas Bayas;3;2;Gestión y coordinación de proyectos;0.182048336;-0.113252215
+mercado;PRINCIPAL_PROVISIONAL;136;mercado;83e12997c74c4194;;;83e12997c74c4194;Lider de Servicio de Ingenieria y Confiabilidad · Gran Minería - Santiago;3;1;Operaciones, mantenimiento y calidad;0.109306693;0.108521014
+mercado;PRINCIPAL_PROVISIONAL;137;mercado;d21311f0ff7b6427;;;d21311f0ff7b6427;Jefe Mantención Refractarios;3;1;Operaciones, mantenimiento y calidad;-0.092633627;0.240153551
+mercado;PRINCIPAL_PROVISIONAL;138;mercado;7aa78799293d9846;;;7aa78799293d9846;Consultor Planificación Y Control  - 267167-11;3;2;Gestión y coordinación de proyectos;0.219972640;0.170863345
+mercado;PRINCIPAL_PROVISIONAL;139;mercado;7472554de0094123;;;7472554de0094123;Ingeniero(a) Estrategias De Mantenimiento - Antofagasta;3;1;Operaciones, mantenimiento y calidad;0.151435405;0.042506866
+mercado;PRINCIPAL_PROVISIONAL;140;mercado;014860576cf21fcd;;;014860576cf21fcd;PLANIFICADOR(A) TURNO 4X3;3;1;Operaciones, mantenimiento y calidad;0.096880242;0.245566875
+mercado;PRINCIPAL_PROVISIONAL;141;mercado;fc0cf5d2958de6d2;;;fc0cf5d2958de6d2;Senior Planificación Mediano Plazo;3;2;Gestión y coordinación de proyectos;0.112929150;-0.024458978
+mercado;PRINCIPAL_PROVISIONAL;142;mercado;4f3cedd4a8a3e7f9;;;4f3cedd4a8a3e7f9;Ingeniero de Confiabilidad y Materiales - Rancagua 5x2;3;2;Gestión y coordinación de proyectos;0.110460371;0.012269961
+mercado;PRINCIPAL_PROVISIONAL;143;mercado;9a731bfdf05bf1ed;;;9a731bfdf05bf1ed;Analista de Planificación y Programación;3;2;Gestión y coordinación de proyectos;0.114910059;-0.010531539
+mercado;PRINCIPAL_PROVISIONAL;144;mercado;c867ba2adb6b6a92;;;c867ba2adb6b6a92;INGENIERO DE MEJORA CONTINUA;3;1;Operaciones, mantenimiento y calidad;0.027025731;0.098612688
+mercado;PRINCIPAL_PROVISIONAL;145;mercado;37110a110452f695;;;37110a110452f695;Puestos vacantes: Ingeniera(o) Gestión de Inversiones (20735);3;2;Gestión y coordinación de proyectos;0.075053617;0.217279360
+mercado;PRINCIPAL_PROVISIONAL;146;mercado;3550da5aa6cea3e4;;;3550da5aa6cea3e4;Ingeniero Planificación Y Control A  - 267167-12;3;2;Gestión y coordinación de proyectos;0.326478481;0.074594438
+mercado;PRINCIPAL_PROVISIONAL;147;mercado;f8787613958e876a;;;f8787613958e876a;Ingeniero de Planificación y Control de Proyecto Senior;3;0;Datos y analítica;-0.443981171;0.016324155
+mercado;PRINCIPAL_PROVISIONAL;148;mercado;2df442c31db4acd6;;;2df442c31db4acd6;Principal Business Planning | BHP Chile;3;1;Operaciones, mantenimiento y calidad;-0.147333741;0.297206163
+mercado;PRINCIPAL_PROVISIONAL;149;mercado;a91a50d5748299b7;;;a91a50d5748299b7;Administrador Técnico de Obras (ATO) Control y Productividad - Coquimbo;3;1;Operaciones, mantenimiento y calidad;0.025457572;0.212849289
+mercado;PRINCIPAL_PROVISIONAL;150;mercado;853552dfed7f70d7;;;853552dfed7f70d7;Jefe/a Operaciones Planta;3;1;Operaciones, mantenimiento y calidad;0.102705143;0.131203279
+mercado;PRINCIPAL_PROVISIONAL;151;mercado;6365f6be11ccf7f1;;;6365f6be11ccf7f1;Jefe de Operaciones Faena Subterránea III Región;3;1;Operaciones, mantenimiento y calidad;0.077135690;0.125665069
+mercado;PRINCIPAL_PROVISIONAL;152;mercado;3b50900ff6f2ed17;;;3b50900ff6f2ed17;Consultor(a) Senior Plan de Ejecución de Proyectos Industria Minera;3;2;Gestión y coordinación de proyectos;0.211374328;0.118082397
+mercado;PRINCIPAL_PROVISIONAL;153;mercado;4c398ee60fe66f5b;;;4c398ee60fe66f5b;Analista Control de Gestión (Agua - RM);3;1;Operaciones, mantenimiento y calidad;-0.194479689;0.382492274
+mercado;PRINCIPAL_PROVISIONAL;154;mercado;265b33b626adb5c5;;;265b33b626adb5c5;Especialista P&C Senior 267172-12 (Licitaciones);3;2;Gestión y coordinación de proyectos;0.103920542;0.148666725
+mercado;PRINCIPAL_PROVISIONAL;155;mercado;330c9f5cfbd6b7ba;;;330c9f5cfbd6b7ba;Senior Project Planner;3;2;Gestión y coordinación de proyectos;0.111604691;0.058492348
+mercado;PRINCIPAL_PROVISIONAL;156;mercado;b572f31046ec5d73;;;b572f31046ec5d73;Consultor Senior, Preparación Operativa y Puesta en Marcha;3;1;Operaciones, mantenimiento y calidad;0.032886643;0.175458074
+mercado;PRINCIPAL_PROVISIONAL;157;mercado;2fb7cf40472a8826;;;2fb7cf40472a8826;Consultor(a) Senior Estimación de CAPEX Industria Minera;3;1;Operaciones, mantenimiento y calidad;0.000660262;0.383996129
+mercado;PRINCIPAL_PROVISIONAL;158;mercado;aa89bef008c5df89;;;aa89bef008c5df89;Líder de Planificación/Programación;3;0;Datos y analítica;-0.187621936;-0.198424950
+mercado;PRINCIPAL_PROVISIONAL;159;mercado;908c4119a452c3cb;;;908c4119a452c3cb;Ingeniero de Proyectos;3;2;Gestión y coordinación de proyectos;0.168400407;0.205549493
+mercado;PRINCIPAL_PROVISIONAL;160;mercado;676a12947ad978ba;;;676a12947ad978ba;Jefe de Operaciones;3;1;Operaciones, mantenimiento y calidad;0.130620375;0.037556827
+mercado;PRINCIPAL_PROVISIONAL;161;mercado;180e045f191ae119;;;180e045f191ae119;Analista Control de Gestión;3;1;Operaciones, mantenimiento y calidad;-0.039135005;0.415422976
+mercado;PRINCIPAL_PROVISIONAL;162;mercado;07ef5485b9fc6dec;;;07ef5485b9fc6dec;CHL_JC226_ANALISTA CONTROL DE GESTION;3;1;Operaciones, mantenimiento y calidad;-0.003303246;0.257436305
+mercado;PRINCIPAL_PROVISIONAL;163;mercado;3f630e60f19e7314;;;3f630e60f19e7314;COD-1022-Ingeniero Planificación y Control “A”;3;2;Gestión y coordinación de proyectos;0.254618049;0.104675539
+mercado;PRINCIPAL_PROVISIONAL;164;mercado;4c50dbea17c5e9e9;;;4c50dbea17c5e9e9;Ingeniero(a) Senior de Proyectos Industria Minera;3;2;Gestión y coordinación de proyectos;0.195641220;0.237913251
+mercado;PRINCIPAL_PROVISIONAL;165;mercado;03b02f128310d31f;;;03b02f128310d31f;Ingeniero/a Gestión de Contratos;3;1;Operaciones, mantenimiento y calidad;-0.011630774;0.231834158
+mercado;PRINCIPAL_PROVISIONAL;166;mercado;cc7dae39df420eda;;;cc7dae39df420eda;Puestos vacantes: Analista de Control Abastecimiento, Personas y SSO (20697);3;1;Operaciones, mantenimiento y calidad;0.018294672;0.135900617
+mercado;PRINCIPAL_PROVISIONAL;167;mercado;958cc81a27e22430;;;958cc81a27e22430;Ingeniero(a) CIO Concentradora;3;1;Operaciones, mantenimiento y calidad;-0.098527320;0.030376561
+mercado;PRINCIPAL_PROVISIONAL;168;mercado;d9b3ee80da57ac39;;;d9b3ee80da57ac39;Planning & Technical Leader;3;1;Operaciones, mantenimiento y calidad;0.130018741;0.213082224
+mercado;PRINCIPAL_PROVISIONAL;169;mercado;dbb0585693d68bdc;;;dbb0585693d68bdc;Ingeniero/a Control de Gestión Operacional;3;1;Operaciones, mantenimiento y calidad;0.027274253;0.007046314
+mercado;PRINCIPAL_PROVISIONAL;170;mercado;6eae9f3eb5412ba3;;;6eae9f3eb5412ba3;Analista Control de Inventario y Gestión;3;1;Operaciones, mantenimiento y calidad;-0.140859932;0.209596783
+mercado;PRINCIPAL_PROVISIONAL;171;mercado;2c5002fe15728723;;;2c5002fe15728723;Especialista en Reportabilidad, Control y Mejora  - Antofagasta;3;0;Datos y analítica;-0.448383570;-0.015234849
+mercado;PRINCIPAL_PROVISIONAL;172;mercado;ac62411852c5296d;;;ac62411852c5296d;Superintendente/a de Confiabilidad;3;1;Operaciones, mantenimiento y calidad;0.064489841;0.231456876
+mercado;PRINCIPAL_PROVISIONAL;173;mercado;b4d485821ce4cab1;;;b4d485821ce4cab1;Jefe/a de Operaciones VC;3;1;Operaciones, mantenimiento y calidad;0.031486604;-0.016698053
+mercado;PRINCIPAL_PROVISIONAL;174;mercado;04e407b9f15e649c;;;04e407b9f15e649c;Ingeniero/a Entrenamiento III Región;3;1;Operaciones, mantenimiento y calidad;-0.061556049;0.177968115
+mercado;PRINCIPAL_PROVISIONAL;175;mercado;8849d328f808bcb2;;;8849d328f808bcb2;Especialista Continuidad Operacional;3;0;Datos y analítica;-0.217404008;-0.154323518
+mercado;PRINCIPAL_PROVISIONAL;176;mercado;0918e932f82de1ce;;;0918e932f82de1ce;Ingeniero de mecatrónica;3;1;Operaciones, mantenimiento y calidad;0.013471549;-0.164124012
+mercado;PRINCIPAL_PROVISIONAL;177;mercado;4c6384f7194018c6;;;4c6384f7194018c6;Ingeniero/a Senior Emergencia y Siniestralidad;3;1;Operaciones, mantenimiento y calidad;0.017996518;0.063487589
+mercado;PRINCIPAL_PROVISIONAL;178;mercado;815406b4d10f8b0d;;;815406b4d10f8b0d;Ingeniero P&C Productividad y Estándares L74;3;1;Operaciones, mantenimiento y calidad;0.197557926;0.268691599
+mercado;PRINCIPAL_PROVISIONAL;179;mercado;45b302c38dbead1e;;;45b302c38dbead1e;Ingeniero de Procesos;3;1;Operaciones, mantenimiento y calidad;-0.017938560;0.129720554
+mercado;PRINCIPAL_PROVISIONAL;180;mercado;486f8e47a9d9dacc;;;486f8e47a9d9dacc;Ingeniero/a SSO de Reportabilidad y Control de Gestión RySFR-08;3;1;Operaciones, mantenimiento y calidad;-0.190320551;0.160682574
+mercado;PRINCIPAL_PROVISIONAL;181;mercado;df5a3e6a3d6b3881;;;df5a3e6a3d6b3881;Ingeniero Optimización e Inteligencia Logística;3;0;Datos y analítica;-0.341872215;-0.006509712
+mercado;PRINCIPAL_PROVISIONAL;182;mercado;4d4ef6269cd2c999;;;4d4ef6269cd2c999;Analista de Procesos;3;1;Operaciones, mantenimiento y calidad;-0.024706574;0.084013261
+mercado;PRINCIPAL_PROVISIONAL;183;mercado;ca0571449c839323;;;ca0571449c839323;Ingeniero Optimización e Inteligencia Logística;3;0;Datos y analítica;-0.458856314;-0.133790508
+mercado;PRINCIPAL_PROVISIONAL;184;mercado;9576bcc5c737d469;;;9576bcc5c737d469;Senior Process Engineer;3;2;Gestión y coordinación de proyectos;0.276946872;-0.237580374
+mercado;PRINCIPAL_PROVISIONAL;185;mercado;6ef5a06a568d0619;;;6ef5a06a568d0619;Jefe/a Performance y Confiabilidad;3;1;Operaciones, mantenimiento y calidad;0.028244443;0.114158593
+mercado;PRINCIPAL_PROVISIONAL;186;mercado;c190d525c33f3b4f;;;c190d525c33f3b4f;Ingeniero en control de Gestión- Control Operacional-Gerencia de Operaciones;3;1;Operaciones, mantenimiento y calidad;-0.053008392;0.243007421
+mercado;PRINCIPAL_PROVISIONAL;187;mercado;3482dc09fd984443;;;3482dc09fd984443;Ingeniero de Innovación Minera;3;1;Operaciones, mantenimiento y calidad;0.054639544;-0.015281213
+mercado;PRINCIPAL_PROVISIONAL;188;mercado;d0c07aa714764724;;;d0c07aa714764724;Ingeniero(a) S&OP;3;0;Datos y analítica;-0.396177024;-0.007776435
+mercado;PRINCIPAL_PROVISIONAL;189;mercado;36889f7876b8f7b1;;;36889f7876b8f7b1;Tailings Operations Specialist;3;1;Operaciones, mantenimiento y calidad;0.164084092;0.184770554
+mercado;PRINCIPAL_PROVISIONAL;190;mercado;7e77d9887899029a;;;7e77d9887899029a;Ingeniero/a Senior de Proyectos Metalúrgicos;3;2;Gestión y coordinación de proyectos;0.240854502;-0.097589754
+mercado;PRINCIPAL_PROVISIONAL;191;mercado;37d1643cf7363023;;;37d1643cf7363023;Ingeniero de Servicios – PARO ERBB;3;1;Operaciones, mantenimiento y calidad;0.260638088;0.129954383
+mercado;PRINCIPAL_PROVISIONAL;192;mercado;dca32e5e63695f5e;;;dca32e5e63695f5e;Senior Geometalurgia;3;0;Datos y analítica;-0.106526367;-0.495293409
+mercado;PRINCIPAL_PROVISIONAL;193;mercado;6303ff8d0957810c;;;6303ff8d0957810c;Ingeniero/a de Proyectos – Proceso Estéril – Faena El Soldado;3;1;Operaciones, mantenimiento y calidad;0.118758962;-0.167820096
+mercado;PRINCIPAL_PROVISIONAL;194;mercado;fc0314b7de6373f4;;;fc0314b7de6373f4;Especialista Productividad y Planificación, Gerencia Central Ops;3;1;Operaciones, mantenimiento y calidad;-0.126754731;0.123889156
+mercado;PRINCIPAL_PROVISIONAL;195;mercado;15e5f61b5c04bd17;;;15e5f61b5c04bd17;Ingeniero Eficiencia y Procesos;3;1;Operaciones, mantenimiento y calidad;-0.030958444;0.124686554
+mercado;PRINCIPAL_PROVISIONAL;196;mercado;4c68b4103acd5876;;;4c68b4103acd5876;Ingeniero/a de Productividad - Codelco DET;3;1;Operaciones, mantenimiento y calidad;0.027340900;0.259299815
+mercado;PRINCIPAL_PROVISIONAL;197;mercado;c930f221669b5c11;;;c930f221669b5c11;Técnico(a) de Procesos Chile;3;1;Operaciones, mantenimiento y calidad;-0.012532433;0.056714304
+mercado;PRINCIPAL_PROVISIONAL;198;mercado;ce8418e28c6bf8c9;;;ce8418e28c6bf8c9;Apoyo de Análisis y Gestión Operacional 7174-2;3;1;Operaciones, mantenimiento y calidad;-0.107004046;0.110421225
+mercado;PRINCIPAL_PROVISIONAL;199;mercado;ef8f89cabf468e07;;;ef8f89cabf468e07;Production Supervisor;3;1;Operaciones, mantenimiento y calidad;-0.137032673;0.016469376
+mercado;PRINCIPAL_PROVISIONAL;200;mercado;6897604f8ecfc2ff;;;6897604f8ecfc2ff;Supervisor de Obras Civiles (Planta Tratamiento Aguas);3;1;Operaciones, mantenimiento y calidad;0.210903049;0.179412752
+mercado;PRINCIPAL_PROVISIONAL;201;mercado;1e8ef7f40d490c38;;;1e8ef7f40d490c38;Gerente/a de Ingeniería y Operaciones- Puerto Montt;3;2;Gestión y coordinación de proyectos;0.304939419;-0.010299951
+mercado;PRINCIPAL_PROVISIONAL;202;mercado;70729cbb7cb2ac86;;;70729cbb7cb2ac86;Puestos vacantes: Ingeniera(o) Senior Área Seca (20558);3;1;Operaciones, mantenimiento y calidad;-0.006065010;0.015274514
+mercado;PRINCIPAL_PROVISIONAL;203;mercado;ced2434e0963ff31;;;ced2434e0963ff31;Lider de Procesos;3;1;Operaciones, mantenimiento y calidad;-0.080298588;0.032354981
+mercado;PRINCIPAL_PROVISIONAL;204;mercado;8744493b7a0404fe;;;8744493b7a0404fe;Superintendenta/e de Aguas y Relaves;3;1;Operaciones, mantenimiento y calidad;0.077716976;0.053546902
+mercado;PRINCIPAL_PROVISIONAL;205;mercado;a42a37da355cea91;;;a42a37da355cea91;Especialista de Ingeniería o Consultor(a) Senior – Mantenimiento - COD 267196 – 03;3;1;Operaciones, mantenimiento y calidad;0.156375378;0.160183698
+mercado;PRINCIPAL_PROVISIONAL;206;mercado;ec7c0c9b506dadce;;;ec7c0c9b506dadce;Business Analyst;3;1;Operaciones, mantenimiento y calidad;-0.140590981;0.034692250
+mercado;PRINCIPAL_PROVISIONAL;207;mercado;37152caba61e7f8a;;;37152caba61e7f8a;Ingeniero/a de Datos – Modernización de Plataformas;3;0;Datos y analítica;-0.454562157;-0.179140657
+mercado;PRINCIPAL_PROVISIONAL;208;mercado;e31f38c2f5c5c060;;;e31f38c2f5c5c060;Ingeniero MIS Cobranzas;3;0;Datos y analítica;-0.373226911;0.107123859
+mercado;PRINCIPAL_PROVISIONAL;209;mercado;0dcf31f79b3599f9;;;0dcf31f79b3599f9;Analytics Engineer;3;0;Datos y analítica;-0.565629303;-0.112848297
+mercado;PRINCIPAL_PROVISIONAL;210;mercado;f23a3e59b7242e5b;;;f23a3e59b7242e5b;Ingeniero control estadístico, difusiones y aprendizajes GSSO-2371127;3;0;Datos y analítica;-0.321263522;0.046575654
+mercado;PRINCIPAL_PROVISIONAL;211;mercado;5e2be675a061d850;;;5e2be675a061d850;Analista Inteligencia de Negocios;3;0;Datos y analítica;-0.500295281;-0.092718668
+mercado;PRINCIPAL_PROVISIONAL;212;mercado;6bd85fc0286284ef;;;6bd85fc0286284ef;Jefe de Inventario (Key User SAP MM) Antofagasta;3;1;Operaciones, mantenimiento y calidad;-0.096117862;0.109889157
+mercado;PRINCIPAL_PROVISIONAL;213;mercado;bc4f14a5fb738912;;;bc4f14a5fb738912;Senior Mining Engineer;3;2;Gestión y coordinación de proyectos;0.152178913;-0.067513414
+mercado;PRINCIPAL_PROVISIONAL;214;mercado;e9f94adf822cb5e2;;;e9f94adf822cb5e2;Ingeniero en Control de Gestión;3;0;Datos y analítica;-0.283806503;0.290053725
+mercado;PRINCIPAL_PROVISIONAL;215;mercado;67c788955072ab2b;;;67c788955072ab2b;Analista de Inteligencia Empresarial;3;0;Datos y analítica;-0.454488426;-0.106254891
+mercado;PRINCIPAL_PROVISIONAL;216;mercado;386d5cc25e22accc;;;386d5cc25e22accc;Analista Inteligencia de Negocios;3;0;Datos y analítica;-0.542992055;-0.133324280
+mercado;PRINCIPAL_PROVISIONAL;217;mercado;25d6b2f5525d9e2f;;;25d6b2f5525d9e2f;Profesional Power BI Ingeniería - Santiago;3;0;Datos y analítica;-0.534730732;-0.081559531
+mercado;PRINCIPAL_PROVISIONAL;218;mercado;d486de7e321504c9;;;d486de7e321504c9;Ingeniero  Analista de Datos;3;0;Datos y analítica;-0.530273855;-0.123245619
+mercado;PRINCIPAL_PROVISIONAL;219;mercado;d0e4ad93231fcf83;;;d0e4ad93231fcf83;Analista Sr Gestión Comercial;3;0;Datos y analítica;-0.451281399;0.027421182
+mercado;PRINCIPAL_PROVISIONAL;220;mercado;8137f157b3fd49e2;;;8137f157b3fd49e2;Científico/a de Datos Senior – Minería / Gestión Hídrica;3;0;Datos y analítica;-0.366549432;-0.051574204
+mercado;PRINCIPAL_PROVISIONAL;221;mercado;b2c4795587f16ea3;;;b2c4795587f16ea3;Ingeniero(a) de Control de Gestión (Plazo Fijo);3;0;Datos y analítica;-0.382144302;0.121678814
+mercado;PRINCIPAL_PROVISIONAL;222;mercado;34c73dd190de4758;;;34c73dd190de4758;Ingeniero/a en Datos y Prevención de Pérdidas;3;0;Datos y analítica;-0.420302302;-0.113213532
+mercado;PRINCIPAL_PROVISIONAL;223;mercado;618c8232dc4b2467;;;618c8232dc4b2467;COD – 7164 – 11 ASESOR ESPECIALISTA EN CAPEX;3;1;Operaciones, mantenimiento y calidad;-0.054948989;0.182898477
+mercado;PRINCIPAL_PROVISIONAL;224;mercado;d545c42de8edd985;;;d545c42de8edd985;BI Engineer / Data Engineer;3;0;Datos y analítica;-0.388028800;-0.069268830
+mercado;PRINCIPAL_PROVISIONAL;225;mercado;54aafde8e4f713bf;;;54aafde8e4f713bf;Analista Control Gestión;3;1;Operaciones, mantenimiento y calidad;-0.140056580;0.243396536
+mercado;PRINCIPAL_PROVISIONAL;226;mercado;22688ffd05ff1866;;;22688ffd05ff1866;Ingeniero control estadístico, difusiones y aprendizajes GSSO;3;1;Operaciones, mantenimiento y calidad;-0.172068506;0.120422892
+mercado;PRINCIPAL_PROVISIONAL;227;mercado;95ebdcc3c5ba7d16;;;95ebdcc3c5ba7d16;People Analytics;3;0;Datos y analítica;-0.547571599;-0.133057922
+mercado;PRINCIPAL_PROVISIONAL;228;mercado;7fea1ceb58c6a3b0;;;7fea1ceb58c6a3b0;Especialista en Integración de Sistemas (minería);3;1;Operaciones, mantenimiento y calidad;0.000250214;0.075001746
+mercado;PRINCIPAL_PROVISIONAL;229;mercado;ff1d65ba3c540dc3;;;ff1d65ba3c540dc3;Ingeniero(a) de Planificación y Excelencia;3;1;Operaciones, mantenimiento y calidad;-0.082424492;0.170260966
+mercado;PRINCIPAL_PROVISIONAL;230;mercado;fe73f0e78d14e0e1;;;fe73f0e78d14e0e1;Planning & Models Senior 7174-26;3;0;Datos y analítica;-0.301129043;-0.105642803
+mercado;PRINCIPAL_PROVISIONAL;231;mercado;506841504553f0f4;;;506841504553f0f4;Analista de Datos Gestión de Personas Empresa Rubro Construcción;3;0;Datos y analítica;-0.440662444;-0.019852238
+mercado;PRINCIPAL_PROVISIONAL;232;mercado;557538938f448940;;;557538938f448940;Profesional Power BI Ingeniería - Concon;3;0;Datos y analítica;-0.534730732;-0.081559531
+mercado;PRINCIPAL_PROVISIONAL;233;mercado;71333ae2676b55c5;;;71333ae2676b55c5;Subgerente de Gestión y Analítica de Negocios;3;1;Operaciones, mantenimiento y calidad;-0.131060511;0.039360907
+mercado;PRINCIPAL_PROVISIONAL;234;mercado;2c7766aeee843d12;;;2c7766aeee843d12;Data Analytics & Business Intelligence Manager;3;0;Datos y analítica;-0.544698477;-0.201460510
+mercado;PRINCIPAL_PROVISIONAL;235;mercado;25cd69b763f2df21;;;25cd69b763f2df21;Analista BI / Data Analyst;3;0;Datos y analítica;-0.545096040;-0.234301686
+mercado;PRINCIPAL_PROVISIONAL;236;mercado;7cfe318d8f75e069;;;7cfe318d8f75e069;Spare Parts Reporting Specialist Americas;3;0;Datos y analítica;-0.450242549;-0.001549474
+mercado;PRINCIPAL_PROVISIONAL;237;mercado;81d51bef019d6d0d;;;81d51bef019d6d0d;Ingeniero/a Entrenamiento;3;1;Operaciones, mantenimiento y calidad;0.072562195;0.204698741
+mercado;PRINCIPAL_PROVISIONAL;238;mercado;6c9582832a27e7fa;;;6c9582832a27e7fa;Ingeniero de Operaciones Planta Productiva;3;1;Operaciones, mantenimiento y calidad;-0.072486728;0.141023248
+mercado;PRINCIPAL_PROVISIONAL;239;mercado;83cc552b67ac6365;;;83cc552b67ac6365;Consultant - Operations Advanced Analytics;3;0;Datos y analítica;-0.390933067;-0.104456499
+mercado;PRINCIPAL_PROVISIONAL;240;mercado;ccf7325f303cf04b;;;ccf7325f303cf04b;Analista de Visibilidad de Inventario;3;0;Datos y analítica;-0.546253741;-0.106255516
+mercado;PRINCIPAL_PROVISIONAL;241;mercado;126ff37f165cf6eb;;;126ff37f165cf6eb;Especialista de Big Data;3;0;Datos y analítica;-0.473869413;-0.177716553
+mercado;PRINCIPAL_PROVISIONAL;242;mercado;f3259e4e2f0fdc88;;;f3259e4e2f0fdc88;Ingeniero de Proyectos – Programación de Proyectos;3;2;Gestión y coordinación de proyectos;0.269995689;-0.156896055
+mercado;PRINCIPAL_PROVISIONAL;243;mercado;ac9a6e2b05db4260;;;ac9a6e2b05db4260;INGENIERO DE PLANIFICACION Y EXCELENCIA;3;0;Datos y analítica;-0.387479454;-0.046977833
+mercado;PRINCIPAL_PROVISIONAL;244;mercado;71c22c6762b2f23d;;;71c22c6762b2f23d;Ingeniero Senior de Disciplina P&C - Las Condes;3;2;Gestión y coordinación de proyectos;0.342384994;0.077290088
+mercado;PRINCIPAL_PROVISIONAL;245;mercado;f8adc5b5bb4bc101;;;f8adc5b5bb4bc101;Proyectista Civil-Geotécnico Senior;3;2;Gestión y coordinación de proyectos;0.191207305;-0.175128192
+mercado;PRINCIPAL_PROVISIONAL;246;mercado;e19c17bc99802118;;;e19c17bc99802118;Ingeniero/a PEM Instrumentación y Control | GMN-3;3;1;Operaciones, mantenimiento y calidad;0.112413660;-0.120198771
+mercado;PRINCIPAL_PROVISIONAL;247;mercado;65e4bff17df2d411;;;65e4bff17df2d411;Other Divisions Coordinator;3;2;Gestión y coordinación de proyectos;0.239940390;0.154508635
+mercado;PRINCIPAL_PROVISIONAL;248;mercado;de102968b5e31191;;;de102968b5e31191;Ingeniero(a) de Proyectos y Diseño Mecánico  COD 267196 – 08;3;2;Gestión y coordinación de proyectos;0.300582886;-0.085590683
+mercado;PRINCIPAL_PROVISIONAL;249;mercado;2b9b1d01c589900b;;;2b9b1d01c589900b;INGENIERO ELÉCTRICO;3;2;Gestión y coordinación de proyectos;0.339904934;-0.371516019
+mercado;PRINCIPAL_PROVISIONAL;250;mercado;d29474bf4e8d2b24;;;d29474bf4e8d2b24;Ingeniero/a Civil – Especialista en Estructuras;3;1;Operaciones, mantenimiento y calidad;-0.047086354;-0.071130052
+mercado;PRINCIPAL_PROVISIONAL;251;mercado;9bdb3ea5d3cf2d3e;;;9bdb3ea5d3cf2d3e;Jefe de Ingeniería - Los Andes 5x2;3;2;Gestión y coordinación de proyectos;0.321558028;-0.150480196
+mercado;PRINCIPAL_PROVISIONAL;252;mercado;dbf33e40d906fc76;;;dbf33e40d906fc76;Ingeniero Proyectista;3;2;Gestión y coordinación de proyectos;0.170586571;-0.130037025
+mercado;PRINCIPAL_PROVISIONAL;253;mercado;a171947d8f3a4fbc;;;a171947d8f3a4fbc;Ingeniero Sr Comisionamiento;3;2;Gestión y coordinación de proyectos;0.143914402;-0.264627248
+mercado;PRINCIPAL_PROVISIONAL;254;mercado;a7e3d25d5276af3b;;;a7e3d25d5276af3b;Ingeniero/a de Proyectos – Geotecnia y Relaves – Faena El Soldado;3;1;Operaciones, mantenimiento y calidad;0.189729273;-0.056003444
+mercado;PRINCIPAL_PROVISIONAL;255;mercado;3f54321c946af971;;;3f54321c946af971;Ingeniero(a) Especialista Logística y Servicios - Minería;3;2;Gestión y coordinación de proyectos;0.237398267;0.015934350
+mercado;PRINCIPAL_PROVISIONAL;256;mercado;c19342aeaf4cb215;;;c19342aeaf4cb215;Líder PEM - Caren 5x2;3;1;Operaciones, mantenimiento y calidad;-0.091201968;0.034057431
+mercado;PRINCIPAL_PROVISIONAL;257;mercado;5e0c6729fa3f8473;;;5e0c6729fa3f8473;INGENIERO DE PROYECTOS;3;2;Gestión y coordinación de proyectos;0.277123392;0.017252786
+mercado;PRINCIPAL_PROVISIONAL;258;mercado;02b32249767a7708;;;02b32249767a7708;Especialista Eléctrico | RySFA-02;3;2;Gestión y coordinación de proyectos;0.307332426;-0.128596842
+mercado;PRINCIPAL_PROVISIONAL;259;mercado;528dd22c3c1b2920;;;528dd22c3c1b2920;Ingeniero/a Senior o Principal – Relaves;3;1;Operaciones, mantenimiento y calidad;0.118221074;-0.121731997
+mercado;PRINCIPAL_PROVISIONAL;260;mercado;a7bc51c0cf4f9555;;;a7bc51c0cf4f9555;Ingeniero/a de Proyectos – Constructibilidad;3;2;Gestión y coordinación de proyectos;0.190823033;-0.049013194
+mercado;PRINCIPAL_PROVISIONAL;261;mercado;812ed4dd44fcf8a5;;;812ed4dd44fcf8a5;Ingeniero de proyectos senior - Concepción;3;2;Gestión y coordinación de proyectos;0.295111060;0.138871446
+mercado;PRINCIPAL_PROVISIONAL;262;mercado;f320f36c864b6517;;;f320f36c864b6517;Ingeniero Tecnología EMTS;3;2;Gestión y coordinación de proyectos;0.006062436;-0.196334466
+mercado;PRINCIPAL_PROVISIONAL;263;mercado;2f1256a7065c1c66;;;2f1256a7065c1c66;Ingeniero Senior Mecánico de Terreno;3;2;Gestión y coordinación de proyectos;0.355040222;-0.152012214
+mercado;PRINCIPAL_PROVISIONAL;264;mercado;e8092b821c006e49;;;e8092b821c006e49;Civil Structural Engineer / Ingeniero/a Civil Estructural;3;2;Gestión y coordinación de proyectos;0.381129652;-0.100820690
+mercado;PRINCIPAL_PROVISIONAL;265;mercado;e1152945fa308067;;;e1152945fa308067;Ingeniero/a Civil Mecánico Senior;3;2;Gestión y coordinación de proyectos;0.325921625;-0.293684304
+mercado;PRINCIPAL_PROVISIONAL;266;mercado;2a8aa4ec588633d5;;;2a8aa4ec588633d5;Ingeniero de proyectos senior - Concepción;3;2;Gestión y coordinación de proyectos;0.295111060;0.138871446
+mercado;PRINCIPAL_PROVISIONAL;267;mercado;13b55e20e09027a8;;;13b55e20e09027a8;Ingeniero/a de Proyectos - Antofagasta;3;2;Gestión y coordinación de proyectos;0.353070021;-0.298724979
+mercado;PRINCIPAL_PROVISIONAL;268;mercado;7fe3b9af3f983fa2;;;7fe3b9af3f983fa2;ITO obras civiles y montaje industrial - Rancagua;3;2;Gestión y coordinación de proyectos;0.194689676;0.024042841
+mercado;PRINCIPAL_PROVISIONAL;269;mercado;a11a67b4aa68ee94;;;a11a67b4aa68ee94;INGENIERO PROYECTO MONTAJE INDUSTRIAL;3;2;Gestión y coordinación de proyectos;0.278979927;-0.224846244
+mercado;PRINCIPAL_PROVISIONAL;270;mercado;1535438fce1a615c;;;1535438fce1a615c;Ingeniero Especialista - Anglo American Sur S.A. - Los Bronces;3;2;Gestión y coordinación de proyectos;0.291365921;-0.027558990
+mercado;PRINCIPAL_PROVISIONAL;271;mercado;50c62bbf5a5da3ed;;;50c62bbf5a5da3ed;Ingeniero/a de Estudios;3;1;Operaciones, mantenimiento y calidad;0.033834323;0.297930360
+mercado;PRINCIPAL_PROVISIONAL;272;mercado;4d38f255d5c4e728;;;4d38f255d5c4e728;Ingeniero Programación y Control Proyecto | RySMS-06;3;2;Gestión y coordinación de proyectos;0.208756894;-0.000558366
+mercado;PRINCIPAL_PROVISIONAL;273;mercado;46813ab5aeda8244;;;46813ab5aeda8244;Project Engineer Energy & Industry - Antofagasta;3;2;Gestión y coordinación de proyectos;0.225276217;-0.052766301
+conjunto;EXPLORATORIO_NO_PRINCIPAL;0;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL;;;4;3;Proyectos de ingeniería (exploratorio);0.315150827;0.089744903
+conjunto;EXPLORATORIO_NO_PRINCIPAL;1;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL AMBIENTAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL AMBIENTAL;;;4;3;Proyectos de ingeniería (exploratorio);0.211293697;-0.007178072
+conjunto;EXPLORATORIO_NO_PRINCIPAL;2;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL DE MINAS;;;4;2;Minería y planificación minera (exploratorio);0.374644816;0.344034404
+conjunto;EXPLORATORIO_NO_PRINCIPAL;3;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;4;0;Datos y analítica (comparación exploratoria);-0.201002017;0.276507169
+conjunto;EXPLORATORIO_NO_PRINCIPAL;4;academia;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;4;3;Proyectos de ingeniería (exploratorio);-0.047999892;0.171915695
+conjunto;EXPLORATORIO_NO_PRINCIPAL;5;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL EN COMPUTACION E INFORMATICA;;;4;0;Datos y analítica (comparación exploratoria);-0.261994749;0.235765979
+conjunto;EXPLORATORIO_NO_PRINCIPAL;6;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL EN MINAS;;;4;2;Minería y planificación minera (exploratorio);0.376402020;0.308444172
+conjunto;EXPLORATORIO_NO_PRINCIPAL;7;academia;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL EN MINAS;;;4;2;Minería y planificación minera (exploratorio);0.377286434;0.271068037
+conjunto;EXPLORATORIO_NO_PRINCIPAL;8;academia;UNIVERSIDAD CENTRAL DE CHILE | INGENIERIA CIVIL EN MINAS;UNIVERSIDAD CENTRAL DE CHILE;INGENIERIA CIVIL EN MINAS;;;4;2;Minería y planificación minera (exploratorio);0.369160295;0.283542931
+conjunto;EXPLORATORIO_NO_PRINCIPAL;9;academia;UNIVERSIDAD DEL ALBA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DEL ALBA;INGENIERIA CIVIL INDUSTRIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.011267314;-0.101246022
+conjunto;EXPLORATORIO_NO_PRINCIPAL;10;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL INDUSTRIAL;;;4;0;Datos y analítica (comparación exploratoria);-0.206467509;-0.022115514
+conjunto;EXPLORATORIO_NO_PRINCIPAL;11;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA CIVIL INDUSTRIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA CIVIL INDUSTRIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.018272357;-0.236122295
+conjunto;EXPLORATORIO_NO_PRINCIPAL;12;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;UNIVERSIDAD SANTO TOMAS;INGENIERIA CIVIL INFORMATICA Y SISTEMAS INTELIGENTES;;;4;0;Datos y analítica (comparación exploratoria);-0.144587308;0.344009101
+conjunto;EXPLORATORIO_NO_PRINCIPAL;13;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA CIVIL MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA CIVIL MECANICA;;;4;3;Proyectos de ingeniería (exploratorio);0.146962374;0.222287312
+conjunto;EXPLORATORIO_NO_PRINCIPAL;14;academia;UNIVERSIDAD SANTO TOMAS | INGENIERIA COMERCIAL;UNIVERSIDAD SANTO TOMAS;INGENIERIA COMERCIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.300941318;-0.255152792
+conjunto;EXPLORATORIO_NO_PRINCIPAL;15;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA COMERCIAL;UNIVERSIDAD DE LA SERENA;INGENIERIA COMERCIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.195875913;-0.325291455
+conjunto;EXPLORATORIO_NO_PRINCIPAL;16;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA COMERCIAL;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA COMERCIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.253988862;-0.305033356
+conjunto;EXPLORATORIO_NO_PRINCIPAL;17;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA DE MINAS;UNIVERSIDAD DE LA SERENA;INGENIERIA DE MINAS;;;4;2;Minería y planificación minera (exploratorio);0.352544427;0.316244274
+conjunto;EXPLORATORIO_NO_PRINCIPAL;18;academia;IP INACAP | INGENIERIA ELECTRICA;IP INACAP;INGENIERIA ELECTRICA;;;4;3;Proyectos de ingeniería (exploratorio);0.271114618;0.226575017
+conjunto;EXPLORATORIO_NO_PRINCIPAL;19;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA EN ADMINISTRACION DE EMPRESAS;UNIVERSIDAD DE LA SERENA;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.121104546;-0.306074679
+conjunto;EXPLORATORIO_NO_PRINCIPAL;20;academia;IP INACAP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP INACAP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.076587342;-0.393846840
+conjunto;EXPLORATORIO_NO_PRINCIPAL;21;academia;IP DE CHILE | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP DE CHILE;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.146586508;-0.270125091
+conjunto;EXPLORATORIO_NO_PRINCIPAL;22;academia;IP AIEP | INGENIERIA EN ADMINISTRACION DE EMPRESAS;IP AIEP;INGENIERIA EN ADMINISTRACION DE EMPRESAS;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.133617833;-0.428443581
+conjunto;EXPLORATORIO_NO_PRINCIPAL;23;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;UNIVERSIDAD DE LA SERENA;INGENIERIA EN BIOTECNOLOGIA MENCION EN ALIMENTOS O PROCESOS SUSTENTABLES;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.057886291;0.010812012
+conjunto;EXPLORATORIO_NO_PRINCIPAL;24;academia;IP INACAP | INGENIERIA EN CIBERSEGURIDAD;IP INACAP;INGENIERIA EN CIBERSEGURIDAD;;;4;0;Datos y analítica (comparación exploratoria);-0.112894885;0.246629849
+conjunto;EXPLORATORIO_NO_PRINCIPAL;25;academia;IP SANTO TOMAS | INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN ELECTRICIDAD Y ELECTRONICA INDUSTRIAL;;;4;3;Proyectos de ingeniería (exploratorio);0.267182082;0.207005590
+conjunto;EXPLORATORIO_NO_PRINCIPAL;26;academia;IP INACAP | INGENIERIA EN ENERGIA;IP INACAP;INGENIERIA EN ENERGIA;;;4;3;Proyectos de ingeniería (exploratorio);0.134576663;0.115611307
+conjunto;EXPLORATORIO_NO_PRINCIPAL;27;academia;IP INACAP | INGENIERIA EN GEOMENSURA Y GEOMATICA;IP INACAP;INGENIERIA EN GEOMENSURA Y GEOMATICA;;;4;3;Proyectos de ingeniería (exploratorio);0.071296677;0.276650906
+conjunto;EXPLORATORIO_NO_PRINCIPAL;28;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN INFORMACION Y CONTROL DE GESTION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN INFORMACION Y CONTROL DE GESTION;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.301798970;-0.105321169
+conjunto;EXPLORATORIO_NO_PRINCIPAL;29;academia;IP SANTO TOMAS | INGENIERIA EN INFORMATICA;IP SANTO TOMAS;INGENIERIA EN INFORMATICA;;;4;0;Datos y analítica (comparación exploratoria);-0.087781258;0.200224519
+conjunto;EXPLORATORIO_NO_PRINCIPAL;30;academia;IP INACAP | INGENIERIA EN INFORMATICA;IP INACAP;INGENIERIA EN INFORMATICA;;;4;0;Datos y analítica (comparación exploratoria);-0.102629542;0.172420099
+conjunto;EXPLORATORIO_NO_PRINCIPAL;31;academia;IP AIEP | INGENIERIA EN INFORMATICA;IP AIEP;INGENIERIA EN INFORMATICA;;;4;0;Datos y analítica (comparación exploratoria);-0.152022704;0.257493109
+conjunto;EXPLORATORIO_NO_PRINCIPAL;32;academia;IP INACAP | INGENIERIA EN LOGISTICA;IP INACAP;INGENIERIA EN LOGISTICA;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.000004062;-0.155815855
+conjunto;EXPLORATORIO_NO_PRINCIPAL;33;academia;IP DE CHILE | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP DE CHILE;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.160931960;0.136515498
+conjunto;EXPLORATORIO_NO_PRINCIPAL;34;academia;IP AIEP | INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;IP AIEP;INGENIERIA EN MECANICA AUTOMOTRIZ Y AUTOTRONICA;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.182582691;0.101030208
+conjunto;EXPLORATORIO_NO_PRINCIPAL;35;academia;IP INACAP | INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;IP INACAP;INGENIERIA EN MECANICA Y ELECTROMOVILIDAD AUTOMOTRIZ;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.066618286;0.042371556
+conjunto;EXPLORATORIO_NO_PRINCIPAL;36;academia;IP INACAP | INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;IP INACAP;INGENIERIA EN MEDIOAMBIENTE Y SUSTENTABILIDAD;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.031958841;-0.028642625
+conjunto;EXPLORATORIO_NO_PRINCIPAL;37;academia;IP DE CHILE | INGENIERIA EN MINAS;IP DE CHILE;INGENIERIA EN MINAS;;;4;2;Minería y planificación minera (exploratorio);0.382682294;0.284731001
+conjunto;EXPLORATORIO_NO_PRINCIPAL;38;academia;IP AIEP | INGENIERIA EN MINAS;IP AIEP;INGENIERIA EN MINAS;;;4;2;Minería y planificación minera (exploratorio);0.406806946;0.232975796
+conjunto;EXPLORATORIO_NO_PRINCIPAL;39;academia;IP SANTO TOMAS | INGENIERIA EN QUIMICA INDUSTRIAL;IP SANTO TOMAS;INGENIERIA EN QUIMICA INDUSTRIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.047915526;-0.036362231
+conjunto;EXPLORATORIO_NO_PRINCIPAL;40;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN TECNOLOGIAS DE INFORMACION;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN TECNOLOGIAS DE INFORMACION;;;4;0;Datos y analítica (comparación exploratoria);-0.249735475;0.219224095
+conjunto;EXPLORATORIO_NO_PRINCIPAL;41;academia;IP INACAP | INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;IP INACAP;INGENIERIA EN TELECOMUNICACIONES Y SERVICIOS DIGITALES;;;4;3;Proyectos de ingeniería (exploratorio);0.055347592;0.187389165
+conjunto;EXPLORATORIO_NO_PRINCIPAL;42;academia;IP AIEP | INGENIERIA INDUSTRIAL;IP AIEP;INGENIERIA INDUSTRIAL;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.015266893;-0.265490383
+conjunto;EXPLORATORIO_NO_PRINCIPAL;43;academia;UNIVERSIDAD DE LA SERENA | INGENIERIA MECANICA;UNIVERSIDAD DE LA SERENA;INGENIERIA MECANICA;;;4;3;Proyectos de ingeniería (exploratorio);0.325054914;0.147888690
+conjunto;EXPLORATORIO_NO_PRINCIPAL;44;academia;UNIVERSIDAD CATOLICA DEL NORTE | INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;UNIVERSIDAD CATOLICA DEL NORTE;INGENIERIA EN PREVENCION DE RIESGOS Y MEDIOAMBIENTE;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.020670651;-0.103244677
+conjunto;EXPLORATORIO_NO_PRINCIPAL;45;academia;IP AIEP | INGENIERIA EN PREVENCION DE RIESGOS;IP AIEP;INGENIERIA EN PREVENCION DE RIESGOS;;;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.024839995;-0.086435899
+conjunto;EXPLORATORIO_NO_PRINCIPAL;46;mercado;afe7fc2465345541;;;afe7fc2465345541;Puestos vacantes: Supervisora(or) Tronadura (20684);4;2;Minería y planificación minera (exploratorio);0.243371084;0.057713795
+conjunto;EXPLORATORIO_NO_PRINCIPAL;47;mercado;2fec54987f7dfcc4;;;2fec54987f7dfcc4;Ingeniero de Integridad;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.012013446;-0.008386010
+conjunto;EXPLORATORIO_NO_PRINCIPAL;48;mercado;ed4c03cdd32d6820;;;ed4c03cdd32d6820;Ingeniero de proyecto;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.134457245;-0.079779208
+conjunto;EXPLORATORIO_NO_PRINCIPAL;49;mercado;35ebf411ee1348b7;;;35ebf411ee1348b7;Ingeniero Geotécnico Junior (0-4 años de experiencia);4;0;Datos y analítica (comparación exploratoria);-0.136707202;0.410261542
+conjunto;EXPLORATORIO_NO_PRINCIPAL;50;mercado;7ffa0f30fe68a741;;;7ffa0f30fe68a741;Puestos vacantes: Ingeniera(o) Planificacion Perforacion y Tronadura (20686);4;3;Proyectos de ingeniería (exploratorio);0.204449281;0.297014862
+conjunto;EXPLORATORIO_NO_PRINCIPAL;51;mercado;b5c228b6f3367f0b;;;b5c228b6f3367f0b;CL - INGENIERO DE PROCESO I;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.018721368;0.100626118
+conjunto;EXPLORATORIO_NO_PRINCIPAL;52;mercado;d1eb46bda5cfe696;;;d1eb46bda5cfe696;DW/ Programador Planificador/ Ingeniero Mecánico   /Minera Los Bronces;4;3;Proyectos de ingeniería (exploratorio);0.173847780;-0.115211621
+conjunto;EXPLORATORIO_NO_PRINCIPAL;53;mercado;02d6cadb692d6291;;;02d6cadb692d6291;Ingeniero Junior Civil Minas;4;2;Minería y planificación minera (exploratorio);0.267028928;0.128040567
+conjunto;EXPLORATORIO_NO_PRINCIPAL;54;mercado;3902f8f522c4f2c2;;;3902f8f522c4f2c2;Graduate Development Associate - Operations;4;3;Proyectos de ingeniería (exploratorio);0.257958710;-0.086245082
+conjunto;EXPLORATORIO_NO_PRINCIPAL;55;mercado;0bff5abcbea372b8;;;0bff5abcbea372b8;Ingeniero/a Automatización Junior;4;3;Proyectos de ingeniería (exploratorio);0.190628558;0.175599337
+conjunto;EXPLORATORIO_NO_PRINCIPAL;56;mercado;44bfbba63e03fb24;;;44bfbba63e03fb24;Especialista Programador Minero | RySMS-06;4;3;Proyectos de ingeniería (exploratorio);0.272320837;-0.000889565
+conjunto;EXPLORATORIO_NO_PRINCIPAL;57;mercado;bd1fe80d46f6a3f8;;;bd1fe80d46f6a3f8;Estudiante en práctica de Prevención de Riesgos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.115826830;-0.021727232
+conjunto;EXPLORATORIO_NO_PRINCIPAL;58;mercado;a3d293f3ed7bb97a;;;a3d293f3ed7bb97a;Planificador/a (Antofagasta);4;1;Operaciones, calidad y mantenimiento (exploratorio);0.080902249;-0.104682125
+conjunto;EXPLORATORIO_NO_PRINCIPAL;59;mercado;109307e023676b2a;;;109307e023676b2a;Ingeniero/a Entrenamiento;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.017920740;-0.049567733
+conjunto;EXPLORATORIO_NO_PRINCIPAL;60;mercado;f67dddeed1031299;;;f67dddeed1031299;Ingeniero de Procesos Junior – Digitalización y Mejora de Procesos;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.013017886;-0.083729655
+conjunto;EXPLORATORIO_NO_PRINCIPAL;61;mercado;ebc8fa738fb3fc5b;;;ebc8fa738fb3fc5b;Supervisor Eléctrico;4;3;Proyectos de ingeniería (exploratorio);0.323212117;0.039170176
+conjunto;EXPLORATORIO_NO_PRINCIPAL;62;mercado;2e79028be2c8db87;;;2e79028be2c8db87;Ingeniero Blaster;4;2;Minería y planificación minera (exploratorio);0.251103312;0.263023555
+conjunto;EXPLORATORIO_NO_PRINCIPAL;63;mercado;ebee70d8a8d5a6db;;;ebee70d8a8d5a6db;Ingeniero de Proyecto Junior – Especialidad Instrumentación;4;3;Proyectos de ingeniería (exploratorio);0.138295174;0.216257334
+conjunto;EXPLORATORIO_NO_PRINCIPAL;64;mercado;116cbf0eb760f6f7;;;116cbf0eb760f6f7;Practica profesional Ingenieros en Minas o  Tecnicos en Geologia;4;0;Datos y analítica (comparación exploratoria);-0.132235602;0.348500192
+conjunto;EXPLORATORIO_NO_PRINCIPAL;65;mercado;001c618c6d0e8597;;;001c618c6d0e8597;Jefe/a De Planificación Mina Corto Plazo;4;2;Minería y planificación minera (exploratorio);0.284866929;0.266694427
+conjunto;EXPLORATORIO_NO_PRINCIPAL;66;mercado;f3b1f6bc7d55b82a;;;f3b1f6bc7d55b82a;TRAINEE DE PROCESOS;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.021918641;-0.097758554
+conjunto;EXPLORATORIO_NO_PRINCIPAL;67;mercado;7212208383eb9252;;;7212208383eb9252;Field Technical Support Engineer;4;3;Proyectos de ingeniería (exploratorio);0.262005895;0.190161288
+conjunto;EXPLORATORIO_NO_PRINCIPAL;68;mercado;6cdbb656033bf3b1;;;6cdbb656033bf3b1;Ingeniero/a Civil en Minas Junior (2 a 5 años de experiencia);4;2;Minería y planificación minera (exploratorio);0.273456186;0.178669944
+conjunto;EXPLORATORIO_NO_PRINCIPAL;69;mercado;1a9c776eb0cbd270;;;1a9c776eb0cbd270;Puestos vacantes: Ingeniera(o) Análisis y Mejoramiento (20715);4;1;Operaciones, calidad y mantenimiento (exploratorio);0.051469296;-0.209074199
+conjunto;EXPLORATORIO_NO_PRINCIPAL;70;mercado;8c879c1b8ce6346d;;;8c879c1b8ce6346d;Supervisor(a) Producción Mina I Red de Talento;4;2;Minería y planificación minera (exploratorio);0.213579580;-0.001253058
+conjunto;EXPLORATORIO_NO_PRINCIPAL;71;mercado;79e9c6a2fb3d0ddb;;;79e9c6a2fb3d0ddb;Ingeniero de Control Operacional;4;0;Datos y analítica (comparación exploratoria);-0.518850684;0.049894407
+conjunto;EXPLORATORIO_NO_PRINCIPAL;72;mercado;75eeda75b37ae387;;;75eeda75b37ae387;Ingeniero Junior CORE;4;3;Proyectos de ingeniería (exploratorio);0.134547204;-0.032811817
+conjunto;EXPLORATORIO_NO_PRINCIPAL;73;mercado;8a43c14d5af125d0;;;8a43c14d5af125d0;Ingeniero / Ingeniera de Procesos - Ingeniero (a) Civil o Ejecución en Metalurgia;4;0;Datos y analítica (comparación exploratoria);-0.348332912;0.246659920
+conjunto;EXPLORATORIO_NO_PRINCIPAL;74;mercado;f1229c8eeb85c0db;;;f1229c8eeb85c0db;Control de Gestión y Operaciones de Campo;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.266982526;-0.195479169
+conjunto;EXPLORATORIO_NO_PRINCIPAL;75;mercado;9de9fdddb062c8e7;;;9de9fdddb062c8e7;Ingeniero Prevencionista de Riesgos HSE Junior - Proyecto Industrial;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.129335165;-0.036808718
+conjunto;EXPLORATORIO_NO_PRINCIPAL;76;mercado;0f95d34465aeb521;;;0f95d34465aeb521;Manufacturing Engineer;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.017813563;-0.065724730
+conjunto;EXPLORATORIO_NO_PRINCIPAL;77;mercado;8fdfc1c8e63f4f0a;;;8fdfc1c8e63f4f0a;Ingeniero(a) Predictivo;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.004728998;0.086086772
+conjunto;EXPLORATORIO_NO_PRINCIPAL;78;mercado;4ebf2ba9acdee737;;;4ebf2ba9acdee737;Ingeniero/a de planificación;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.019121857;-0.120289348
+conjunto;EXPLORATORIO_NO_PRINCIPAL;79;mercado;984b792afa2e6508;;;984b792afa2e6508;Proyectista Civil-Geotécnico Junior;4;3;Proyectos de ingeniería (exploratorio);0.167239100;0.142315462
+conjunto;EXPLORATORIO_NO_PRINCIPAL;80;mercado;a035a22355cc2b45;;;a035a22355cc2b45;Ingeniero/a de Aplicación - Minería - Copiapó;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.112703070;0.062556766
+conjunto;EXPLORATORIO_NO_PRINCIPAL;81;mercado;5bb6d6f932eb028e;;;5bb6d6f932eb028e;Puestos vacantes: Ingeniera(o) Full Control (20690);4;2;Minería y planificación minera (exploratorio);0.199045569;0.356393158
+conjunto;EXPLORATORIO_NO_PRINCIPAL;82;mercado;999d74443a82cf34;;;999d74443a82cf34;Project Engineer, Junior;4;3;Proyectos de ingeniería (exploratorio);0.284924954;0.042963263
+conjunto;EXPLORATORIO_NO_PRINCIPAL;83;mercado;a42bec88acd042d0;;;a42bec88acd042d0;Ingeniero de proyecto - Minería;4;3;Proyectos de ingeniería (exploratorio);0.099719509;-0.082963541
+conjunto;EXPLORATORIO_NO_PRINCIPAL;84;mercado;2de14917aa68b4c0;;;2de14917aa68b4c0;Especialista Proyecto PyC | RySFA-02;4;3;Proyectos de ingeniería (exploratorio);0.266825169;-0.133072674
+conjunto;EXPLORATORIO_NO_PRINCIPAL;85;mercado;787112f3120eb1bd;;;787112f3120eb1bd;Ingeniero Químico;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.151935875;0.131324694
+conjunto;EXPLORATORIO_NO_PRINCIPAL;86;mercado;41c889af83de77a9;;;41c889af83de77a9;Ingeniero de Permisos Junior (Ingeniero Civil en minas);4;1;Operaciones, calidad y mantenimiento (exploratorio);0.118612297;-0.176817954
+conjunto;EXPLORATORIO_NO_PRINCIPAL;87;mercado;f9d5a42fa9fa883a;;;f9d5a42fa9fa883a;Ingeniero de Integridad;4;2;Minería y planificación minera (exploratorio);0.300254226;0.254346937
+conjunto;EXPLORATORIO_NO_PRINCIPAL;88;mercado;cfd998e5195c3b48;;;cfd998e5195c3b48;Programador de Mantenimiento - Equipos Mina;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.202787593;0.044377446
+conjunto;EXPLORATORIO_NO_PRINCIPAL;89;mercado;7e52e03585bf647f;;;7e52e03585bf647f;Prácticas y Memorias Sandvik 2027;4;0;Datos y analítica (comparación exploratoria);-0.205153450;0.169622868
+conjunto;EXPLORATORIO_NO_PRINCIPAL;90;mercado;0fc0519eb558ea2f;;;0fc0519eb558ea2f;Puestos vacantes: Lider Precomisionamiento y Comisionamiento (20725);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.132837430;-0.042974927
+conjunto;EXPLORATORIO_NO_PRINCIPAL;91;mercado;33546e8ad0440411;;;33546e8ad0440411;Asistente Técnico;4;3;Proyectos de ingeniería (exploratorio);0.150645405;0.281997085
+conjunto;EXPLORATORIO_NO_PRINCIPAL;92;mercado;94b447aa460b1d43;;;94b447aa460b1d43;Ingeniero/a de Mantención y Operaciones Minería;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.035397701;-0.303655416
+conjunto;EXPLORATORIO_NO_PRINCIPAL;93;mercado;96c63f29fe9b9092;;;96c63f29fe9b9092;Ingeniero de Minas Junior;4;0;Datos y analítica (comparación exploratoria);-0.196018189;0.310767353
+conjunto;EXPLORATORIO_NO_PRINCIPAL;94;mercado;9f40f7994c3785e3;;;9f40f7994c3785e3;IC Sales Specialist (LDP);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.042562403;-0.053774502
+conjunto;EXPLORATORIO_NO_PRINCIPAL;95;mercado;2b8a4fd68d6b0267;;;2b8a4fd68d6b0267;Ingeniero Planificación Y Control B  - 267167-13;4;3;Proyectos de ingeniería (exploratorio);0.271512002;-0.184007391
+conjunto;EXPLORATORIO_NO_PRINCIPAL;96;mercado;828006062d10e0c1;;;828006062d10e0c1;Ingeniero de Proyectos;4;3;Proyectos de ingeniería (exploratorio);0.199267417;0.083126016
+conjunto;EXPLORATORIO_NO_PRINCIPAL;97;mercado;7a312da1e5965a8f;;;7a312da1e5965a8f;Ingeniero/a Senior Multidisciplina - Codelco GPRO V Región;4;3;Proyectos de ingeniería (exploratorio);0.212249815;-0.065819457
+conjunto;EXPLORATORIO_NO_PRINCIPAL;98;mercado;9cc0800a6a6d82fd;;;9cc0800a6a6d82fd;Proyectista electrico e instrumentación;4;3;Proyectos de ingeniería (exploratorio);0.127791241;0.347513527
+conjunto;EXPLORATORIO_NO_PRINCIPAL;99;mercado;afbf9ad33d40ddad;;;afbf9ad33d40ddad;Ingeniero/a Entrenamiento;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.102225110;-0.048311718
+conjunto;EXPLORATORIO_NO_PRINCIPAL;100;mercado;ef9967fedf303d8b;;;ef9967fedf303d8b;Representante Técnico II Región;4;2;Minería y planificación minera (exploratorio);0.374408752;0.359610200
+conjunto;EXPLORATORIO_NO_PRINCIPAL;101;mercado;37c74c2f6cb3da60;;;37c74c2f6cb3da60;Deputy IRIR (Aguas y Relaves);4;1;Operaciones, calidad y mantenimiento (exploratorio);0.032544889;-0.093599409
+conjunto;EXPLORATORIO_NO_PRINCIPAL;102;mercado;f0d2f48f6e98c973;;;f0d2f48f6e98c973;Ingeniero/a tronadura;4;2;Minería y planificación minera (exploratorio);0.086184397;0.045252461
+conjunto;EXPLORATORIO_NO_PRINCIPAL;103;mercado;3965db06407770e8;;;3965db06407770e8;Ingeniero Full Control. Perforación y Tronadura;4;0;Datos y analítica (comparación exploratoria);-0.157760561;0.318065196
+conjunto;EXPLORATORIO_NO_PRINCIPAL;104;mercado;7a48b6e73bf1bfe3;;;7a48b6e73bf1bfe3;Ingeniero/a de Estudios - Equipos Mineros;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.017842727;-0.120359756
+conjunto;EXPLORATORIO_NO_PRINCIPAL;105;mercado;e4e0849cb8f7b4b2;;;e4e0849cb8f7b4b2;Modelador Hidrogeológico Junior / Minería;4;0;Datos y analítica (comparación exploratoria);-0.275706261;0.102419041
+conjunto;EXPLORATORIO_NO_PRINCIPAL;106;mercado;63f17f3260d1079a;;;63f17f3260d1079a;Field Technical Support Engineer;4;3;Proyectos de ingeniería (exploratorio);0.238514289;0.201848194
+conjunto;EXPLORATORIO_NO_PRINCIPAL;107;mercado;280ffed8918eb3c8;;;280ffed8918eb3c8;Ingeniero (a) Postventas;4;2;Minería y planificación minera (exploratorio);0.308185548;0.025550013
+conjunto;EXPLORATORIO_NO_PRINCIPAL;108;mercado;d66f9334bfda54c0;;;d66f9334bfda54c0;Alumno/a en Práctica- Planificación;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.091062933;-0.156312078
+conjunto;EXPLORATORIO_NO_PRINCIPAL;109;mercado;2d04f9a63d6e7b6a;;;2d04f9a63d6e7b6a;Ingeniero de Disciplina P&C- Las Condes;4;3;Proyectos de ingeniería (exploratorio);0.283943743;-0.104345463
+conjunto;EXPLORATORIO_NO_PRINCIPAL;110;mercado;eb77bbc57db4f479;;;eb77bbc57db4f479;Supervisor Centro Control Remoto | CAS;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.068310477;-0.055199161
+conjunto;EXPLORATORIO_NO_PRINCIPAL;111;mercado;82f17cfc76defa4d;;;82f17cfc76defa4d;Jefe de Programación y Control de Proyectos;4;3;Proyectos de ingeniería (exploratorio);0.165698439;-0.136590227
+conjunto;EXPLORATORIO_NO_PRINCIPAL;112;mercado;6ee261dba4c753df;;;6ee261dba4c753df;Jefe de Programación y Control;4;3;Proyectos de ingeniería (exploratorio);0.176509246;-0.176297635
+conjunto;EXPLORATORIO_NO_PRINCIPAL;113;mercado;60fb28db06b87cac;;;60fb28db06b87cac;Subgerente Control De Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.210400626;-0.216479316
+conjunto;EXPLORATORIO_NO_PRINCIPAL;114;mercado;50f2df8564b9dd13;;;50f2df8564b9dd13;GERENTE ADMINISTRACIÓN Y FINANZAS – MINERÍA – ANTOFAGASTA;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.234089658;-0.336881459
+conjunto;EXPLORATORIO_NO_PRINCIPAL;115;mercado;0104560041bf5a34;;;0104560041bf5a34;Project Manager;4;2;Minería y planificación minera (exploratorio);0.096260712;0.310236216
+conjunto;EXPLORATORIO_NO_PRINCIPAL;116;mercado;7b8512297f555b9e;;;7b8512297f555b9e;Ingeniero(a) de Análisis y Mejoramiento - Minería y/o SSO;4;0;Datos y analítica (comparación exploratoria);-0.413370728;0.051196937
+conjunto;EXPLORATORIO_NO_PRINCIPAL;117;mercado;35655529e81d2866;;;35655529e81d2866;Planificador/a de Mantenimiento;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.116495803;-0.037735078
+conjunto;EXPLORATORIO_NO_PRINCIPAL;118;mercado;4745ac974a031b2e;;;4745ac974a031b2e;Consultor/a Planificacion y Mantenimiento - Calama;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.027384134;-0.114985421
+conjunto;EXPLORATORIO_NO_PRINCIPAL;119;mercado;d49b9f735597a772;;;d49b9f735597a772;Jefe de Oficina Técnica;4;3;Proyectos de ingeniería (exploratorio);0.246106759;-0.177099824
+conjunto;EXPLORATORIO_NO_PRINCIPAL;120;mercado;e7ff5e49ea92b8b3;;;e7ff5e49ea92b8b3;PLANIFICADOR(A) LARGO PLAZO - ANTOFAGASTA;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.051581159;-0.255260348
+conjunto;EXPLORATORIO_NO_PRINCIPAL;121;mercado;e69676e2eba386bd;;;e69676e2eba386bd;Jefe de Relaves;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.095221668;-0.166240007
+conjunto;EXPLORATORIO_NO_PRINCIPAL;122;mercado;c5770687694809d0;;;c5770687694809d0;Ingeniero/a de Control y Productividad - RySFR-06;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.152831852;-0.167517856
+conjunto;EXPLORATORIO_NO_PRINCIPAL;123;mercado;8aa8e6ef945df7a3;;;8aa8e6ef945df7a3;2503108-Ingeniero/a de Análisis y Mejoramiento de Gestión;4;0;Datos y analítica (comparación exploratoria);-0.309707463;-0.036501329
+conjunto;EXPLORATORIO_NO_PRINCIPAL;124;mercado;09065bec997fae38;;;09065bec997fae38;Ingeniero de riesgos de proyecto;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.084692255;-0.043232094
+conjunto;EXPLORATORIO_NO_PRINCIPAL;125;mercado;9ccc3476623d33a0;;;9ccc3476623d33a0;Ingeniero Control de Gestión Operacional;4;0;Datos y analítica (comparación exploratoria);-0.400965244;0.144147977
+conjunto;EXPLORATORIO_NO_PRINCIPAL;126;mercado;5ee0214341fba2e3;;;5ee0214341fba2e3;Jefatura de Oficina Técnica - Zona Norte -Proyecto Minero;4;3;Proyectos de ingeniería (exploratorio);0.175701335;-0.261868805
+conjunto;EXPLORATORIO_NO_PRINCIPAL;127;mercado;792f6e18e13eed51;;;792f6e18e13eed51;Jefe de Operaciones - Chillán;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.037657123;-0.186984748
+conjunto;EXPLORATORIO_NO_PRINCIPAL;128;mercado;2815b49d53d20b59;;;2815b49d53d20b59;Jefe/a de Disciplina de Proceso (Ingeniero(a) Principal de Proceso);4;2;Minería y planificación minera (exploratorio);0.269653052;0.236414686
+conjunto;EXPLORATORIO_NO_PRINCIPAL;129;mercado;83d9a688de77a151;;;83d9a688de77a151;Ingeniero(a) Senior de Procesos y Calidad Industria Minera;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.125065476;-0.044468872
+conjunto;EXPLORATORIO_NO_PRINCIPAL;130;mercado;cd0949c7fb619e84;;;cd0949c7fb619e84;Ingeniero de Control de Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.286216110;-0.154236495
+conjunto;EXPLORATORIO_NO_PRINCIPAL;131;mercado;84a6b9c598b6bf98;;;84a6b9c598b6bf98;Mining Tech Prof IV - Eng;4;2;Minería y planificación minera (exploratorio);0.215740517;0.076903373
+conjunto;EXPLORATORIO_NO_PRINCIPAL;132;mercado;075cc906ba06a44b;;;075cc906ba06a44b;Lider de Planificación y Programación;4;3;Proyectos de ingeniería (exploratorio);0.056412399;-0.043322608
+conjunto;EXPLORATORIO_NO_PRINCIPAL;133;mercado;ead17390b2473473;;;ead17390b2473473;Senior Procesamiento Conminucion;4;2;Minería y planificación minera (exploratorio);0.190936849;0.165834874
+conjunto;EXPLORATORIO_NO_PRINCIPAL;134;mercado;e8f62b4dcd7d51d7;;;e8f62b4dcd7d51d7;PLANIFICADOR/A;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.054439761;-0.177767560
+conjunto;EXPLORATORIO_NO_PRINCIPAL;135;mercado;5fe7dad20c757caf;;;5fe7dad20c757caf;Ingeniero/a Senior de Planificación Mina Largo Plazo - Lomas Bayas;4;2;Minería y planificación minera (exploratorio);0.213803023;0.110963218
+conjunto;EXPLORATORIO_NO_PRINCIPAL;136;mercado;83e12997c74c4194;;;83e12997c74c4194;Lider de Servicio de Ingenieria y Confiabilidad · Gran Minería - Santiago;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.085909076;-0.131178290
+conjunto;EXPLORATORIO_NO_PRINCIPAL;137;mercado;d21311f0ff7b6427;;;d21311f0ff7b6427;Jefe Mantención Refractarios;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.134274632;-0.244257540
+conjunto;EXPLORATORIO_NO_PRINCIPAL;138;mercado;7aa78799293d9846;;;7aa78799293d9846;Consultor Planificación Y Control  - 267167-11;4;3;Proyectos de ingeniería (exploratorio);0.166702807;-0.192082658
+conjunto;EXPLORATORIO_NO_PRINCIPAL;139;mercado;7472554de0094123;;;7472554de0094123;Ingeniero(a) Estrategias De Mantenimiento - Antofagasta;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.142280027;-0.098172873
+conjunto;EXPLORATORIO_NO_PRINCIPAL;140;mercado;014860576cf21fcd;;;014860576cf21fcd;PLANIFICADOR(A) TURNO 4X3;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.056719396;-0.267644823
+conjunto;EXPLORATORIO_NO_PRINCIPAL;141;mercado;fc0cf5d2958de6d2;;;fc0cf5d2958de6d2;Senior Planificación Mediano Plazo;4;2;Minería y planificación minera (exploratorio);0.126607150;0.024295691
+conjunto;EXPLORATORIO_NO_PRINCIPAL;142;mercado;4f3cedd4a8a3e7f9;;;4f3cedd4a8a3e7f9;Ingeniero de Confiabilidad y Materiales - Rancagua 5x2;4;3;Proyectos de ingeniería (exploratorio);0.103724182;-0.021487543
+conjunto;EXPLORATORIO_NO_PRINCIPAL;143;mercado;9a731bfdf05bf1ed;;;9a731bfdf05bf1ed;Analista de Planificación y Programación;4;3;Proyectos de ingeniería (exploratorio);0.091573462;0.018808352
+conjunto;EXPLORATORIO_NO_PRINCIPAL;144;mercado;c867ba2adb6b6a92;;;c867ba2adb6b6a92;INGENIERO DE MEJORA CONTINUA;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.015220731;-0.134796649
+conjunto;EXPLORATORIO_NO_PRINCIPAL;145;mercado;37110a110452f695;;;37110a110452f695;Puestos vacantes: Ingeniera(o) Gestión de Inversiones (20735);4;3;Proyectos de ingeniería (exploratorio);0.026315302;-0.217706487
+conjunto;EXPLORATORIO_NO_PRINCIPAL;146;mercado;3550da5aa6cea3e4;;;3550da5aa6cea3e4;Ingeniero Planificación Y Control A  - 267167-12;4;3;Proyectos de ingeniería (exploratorio);0.294114888;-0.118096247
+conjunto;EXPLORATORIO_NO_PRINCIPAL;147;mercado;f8787613958e876a;;;f8787613958e876a;Ingeniero de Planificación y Control de Proyecto Senior;4;0;Datos y analítica (comparación exploratoria);-0.438646466;0.054214790
+conjunto;EXPLORATORIO_NO_PRINCIPAL;148;mercado;2df442c31db4acd6;;;2df442c31db4acd6;Principal Business Planning | BHP Chile;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.195864454;-0.275496900
+conjunto;EXPLORATORIO_NO_PRINCIPAL;149;mercado;a91a50d5748299b7;;;a91a50d5748299b7;Administrador Técnico de Obras (ATO) Control y Productividad - Coquimbo;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.015732180;-0.245866150
+conjunto;EXPLORATORIO_NO_PRINCIPAL;150;mercado;853552dfed7f70d7;;;853552dfed7f70d7;Jefe/a Operaciones Planta;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.063810952;-0.162945360
+conjunto;EXPLORATORIO_NO_PRINCIPAL;151;mercado;6365f6be11ccf7f1;;;6365f6be11ccf7f1;Jefe de Operaciones Faena Subterránea III Región;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.051356927;-0.174860671
+conjunto;EXPLORATORIO_NO_PRINCIPAL;152;mercado;3b50900ff6f2ed17;;;3b50900ff6f2ed17;Consultor(a) Senior Plan de Ejecución de Proyectos Industria Minera;4;3;Proyectos de ingeniería (exploratorio);0.153355762;-0.143928453
+conjunto;EXPLORATORIO_NO_PRINCIPAL;153;mercado;4c398ee60fe66f5b;;;4c398ee60fe66f5b;Analista Control de Gestión (Agua - RM);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.263013124;-0.351330638
+conjunto;EXPLORATORIO_NO_PRINCIPAL;154;mercado;265b33b626adb5c5;;;265b33b626adb5c5;Especialista P&C Senior 267172-12 (Licitaciones);4;3;Proyectos de ingeniería (exploratorio);0.067166448;-0.184181958
+conjunto;EXPLORATORIO_NO_PRINCIPAL;155;mercado;330c9f5cfbd6b7ba;;;330c9f5cfbd6b7ba;Senior Project Planner;4;3;Proyectos de ingeniería (exploratorio);0.076259881;-0.072019503
+conjunto;EXPLORATORIO_NO_PRINCIPAL;156;mercado;b572f31046ec5d73;;;b572f31046ec5d73;Consultor Senior, Preparación Operativa y Puesta en Marcha;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.009930208;-0.205523342
+conjunto;EXPLORATORIO_NO_PRINCIPAL;157;mercado;2fb7cf40472a8826;;;2fb7cf40472a8826;Consultor(a) Senior Estimación de CAPEX Industria Minera;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.070555702;-0.374415189
+conjunto;EXPLORATORIO_NO_PRINCIPAL;158;mercado;aa89bef008c5df89;;;aa89bef008c5df89;Líder de Planificación/Programación;4;0;Datos y analítica (comparación exploratoria);-0.146505818;0.253912657
+conjunto;EXPLORATORIO_NO_PRINCIPAL;159;mercado;908c4119a452c3cb;;;908c4119a452c3cb;Ingeniero de Proyectos;4;3;Proyectos de ingeniería (exploratorio);0.106500164;-0.213543802
+conjunto;EXPLORATORIO_NO_PRINCIPAL;160;mercado;676a12947ad978ba;;;676a12947ad978ba;Jefe de Operaciones;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.140848562;-0.084897712
+conjunto;EXPLORATORIO_NO_PRINCIPAL;161;mercado;180e045f191ae119;;;180e045f191ae119;Analista Control de Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.110443190;-0.409059942
+conjunto;EXPLORATORIO_NO_PRINCIPAL;162;mercado;07ef5485b9fc6dec;;;07ef5485b9fc6dec;CHL_JC226_ANALISTA CONTROL DE GESTION;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.078751706;-0.257230461
+conjunto;EXPLORATORIO_NO_PRINCIPAL;163;mercado;3f630e60f19e7314;;;3f630e60f19e7314;COD-1022-Ingeniero Planificación y Control “A”;4;3;Proyectos de ingeniería (exploratorio);0.213469461;-0.135903820
+conjunto;EXPLORATORIO_NO_PRINCIPAL;164;mercado;4c50dbea17c5e9e9;;;4c50dbea17c5e9e9;Ingeniero(a) Senior de Proyectos Industria Minera;4;3;Proyectos de ingeniería (exploratorio);0.124266520;-0.248634189
+conjunto;EXPLORATORIO_NO_PRINCIPAL;165;mercado;03b02f128310d31f;;;03b02f128310d31f;Ingeniero/a Gestión de Contratos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.055041388;-0.247129291
+conjunto;EXPLORATORIO_NO_PRINCIPAL;166;mercado;cc7dae39df420eda;;;cc7dae39df420eda;Puestos vacantes: Analista de Control Abastecimiento, Personas y SSO (20697);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.021257346;-0.134362966
+conjunto;EXPLORATORIO_NO_PRINCIPAL;167;mercado;958cc81a27e22430;;;958cc81a27e22430;Ingeniero(a) CIO Concentradora;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.118449211;-0.034756117
+conjunto;EXPLORATORIO_NO_PRINCIPAL;168;mercado;d9b3ee80da57ac39;;;d9b3ee80da57ac39;Planning & Technical Leader;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.099389024;-0.222981796
+conjunto;EXPLORATORIO_NO_PRINCIPAL;169;mercado;dbb0585693d68bdc;;;dbb0585693d68bdc;Ingeniero/a Control de Gestión Operacional;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.006069343;-0.042711690
+conjunto;EXPLORATORIO_NO_PRINCIPAL;170;mercado;6eae9f3eb5412ba3;;;6eae9f3eb5412ba3;Analista Control de Inventario y Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.179997653;-0.198951572
+conjunto;EXPLORATORIO_NO_PRINCIPAL;171;mercado;2c5002fe15728723;;;2c5002fe15728723;Especialista en Reportabilidad, Control y Mejora  - Antofagasta;4;0;Datos y analítica (comparación exploratoria);-0.456129581;0.101623997
+conjunto;EXPLORATORIO_NO_PRINCIPAL;172;mercado;ac62411852c5296d;;;ac62411852c5296d;Superintendente/a de Confiabilidad;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.032067522;-0.271979362
+conjunto;EXPLORATORIO_NO_PRINCIPAL;173;mercado;b4d485821ce4cab1;;;b4d485821ce4cab1;Jefe/a de Operaciones VC;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.023135193;-0.029365463
+conjunto;EXPLORATORIO_NO_PRINCIPAL;174;mercado;04e407b9f15e649c;;;04e407b9f15e649c;Ingeniero/a Entrenamiento III Región;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.106945880;-0.161120594
+conjunto;EXPLORATORIO_NO_PRINCIPAL;175;mercado;8849d328f808bcb2;;;8849d328f808bcb2;Especialista Continuidad Operacional;4;0;Datos y analítica (comparación exploratoria);-0.198741272;0.173531592
+conjunto;EXPLORATORIO_NO_PRINCIPAL;176;mercado;0918e932f82de1ce;;;0918e932f82de1ce;Ingeniero de mecatrónica;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.024011094;0.148365781
+conjunto;EXPLORATORIO_NO_PRINCIPAL;177;mercado;4c6384f7194018c6;;;4c6384f7194018c6;Ingeniero/a Senior Emergencia y Siniestralidad;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.029218866;-0.086293526
+conjunto;EXPLORATORIO_NO_PRINCIPAL;178;mercado;815406b4d10f8b0d;;;815406b4d10f8b0d;Ingeniero P&C Productividad y Estándares L74;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.144923866;-0.300815612
+conjunto;EXPLORATORIO_NO_PRINCIPAL;179;mercado;45b302c38dbead1e;;;45b302c38dbead1e;Ingeniero de Procesos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.042672880;-0.172003061
+conjunto;EXPLORATORIO_NO_PRINCIPAL;180;mercado;486f8e47a9d9dacc;;;486f8e47a9d9dacc;Ingeniero/a SSO de Reportabilidad y Control de Gestión RySFR-08;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.208094344;-0.151854947
+conjunto;EXPLORATORIO_NO_PRINCIPAL;181;mercado;df5a3e6a3d6b3881;;;df5a3e6a3d6b3881;Ingeniero Optimización e Inteligencia Logística;4;0;Datos y analítica (comparación exploratoria);-0.337677658;0.056515910
+conjunto;EXPLORATORIO_NO_PRINCIPAL;182;mercado;4d4ef6269cd2c999;;;4d4ef6269cd2c999;Analista de Procesos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.070085295;-0.098032430
+conjunto;EXPLORATORIO_NO_PRINCIPAL;183;mercado;ca0571449c839323;;;ca0571449c839323;Ingeniero Optimización e Inteligencia Logística;4;0;Datos y analítica (comparación exploratoria);-0.433169752;0.200301930
+conjunto;EXPLORATORIO_NO_PRINCIPAL;184;mercado;9576bcc5c737d469;;;9576bcc5c737d469;Senior Process Engineer;4;3;Proyectos de ingeniería (exploratorio);0.283985525;0.142924175
+conjunto;EXPLORATORIO_NO_PRINCIPAL;185;mercado;6ef5a06a568d0619;;;6ef5a06a568d0619;Jefe/a Performance y Confiabilidad;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.011493027;-0.140059099
+conjunto;EXPLORATORIO_NO_PRINCIPAL;186;mercado;c190d525c33f3b4f;;;c190d525c33f3b4f;Ingeniero en control de Gestión- Control Operacional-Gerencia de Operaciones;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.124906480;-0.263616771
+conjunto;EXPLORATORIO_NO_PRINCIPAL;187;mercado;3482dc09fd984443;;;3482dc09fd984443;Ingeniero de Innovación Minera;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.023120193;-0.012440070
+conjunto;EXPLORATORIO_NO_PRINCIPAL;188;mercado;d0c07aa714764724;;;d0c07aa714764724;Ingeniero(a) S&OP;4;0;Datos y analítica (comparación exploratoria);-0.387334943;0.065630421
+conjunto;EXPLORATORIO_NO_PRINCIPAL;189;mercado;36889f7876b8f7b1;;;36889f7876b8f7b1;Tailings Operations Specialist;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.129272178;-0.232265189
+conjunto;EXPLORATORIO_NO_PRINCIPAL;190;mercado;7e77d9887899029a;;;7e77d9887899029a;Ingeniero/a Senior de Proyectos Metalúrgicos;4;3;Proyectos de ingeniería (exploratorio);0.227247655;0.033210151
+conjunto;EXPLORATORIO_NO_PRINCIPAL;191;mercado;37d1643cf7363023;;;37d1643cf7363023;Ingeniero de Servicios – PARO ERBB;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.228040546;-0.194235310
+conjunto;EXPLORATORIO_NO_PRINCIPAL;192;mercado;dca32e5e63695f5e;;;dca32e5e63695f5e;Senior Geometalurgia;4;2;Minería y planificación minera (exploratorio);-0.003656423;0.454285979
+conjunto;EXPLORATORIO_NO_PRINCIPAL;193;mercado;6303ff8d0957810c;;;6303ff8d0957810c;Ingeniero/a de Proyectos – Proceso Estéril – Faena El Soldado;4;2;Minería y planificación minera (exploratorio);0.173713043;0.125095889
+conjunto;EXPLORATORIO_NO_PRINCIPAL;194;mercado;fc0314b7de6373f4;;;fc0314b7de6373f4;Especialista Productividad y Planificación, Gerencia Central Ops;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.151781097;-0.116306745
+conjunto;EXPLORATORIO_NO_PRINCIPAL;195;mercado;15e5f61b5c04bd17;;;15e5f61b5c04bd17;Ingeniero Eficiencia y Procesos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.066529945;-0.149834141
+conjunto;EXPLORATORIO_NO_PRINCIPAL;196;mercado;4c68b4103acd5876;;;4c68b4103acd5876;Ingeniero/a de Productividad - Codelco DET;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.021184914;-0.268842906
+conjunto;EXPLORATORIO_NO_PRINCIPAL;197;mercado;c930f221669b5c11;;;c930f221669b5c11;Técnico(a) de Procesos Chile;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.040550761;-0.087961972
+conjunto;EXPLORATORIO_NO_PRINCIPAL;198;mercado;ce8418e28c6bf8c9;;;ce8418e28c6bf8c9;Apoyo de Análisis y Gestión Operacional 7174-2;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.123691447;-0.105310887
+conjunto;EXPLORATORIO_NO_PRINCIPAL;199;mercado;ef8f89cabf468e07;;;ef8f89cabf468e07;Production Supervisor;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.147825092;-0.032270100
+conjunto;EXPLORATORIO_NO_PRINCIPAL;200;mercado;6897604f8ecfc2ff;;;6897604f8ecfc2ff;Supervisor de Obras Civiles (Planta Tratamiento Aguas);4;1;Operaciones, calidad y mantenimiento (exploratorio);0.173360869;-0.247882083
+conjunto;EXPLORATORIO_NO_PRINCIPAL;201;mercado;1e8ef7f40d490c38;;;1e8ef7f40d490c38;Gerente/a de Ingeniería y Operaciones- Puerto Montt;4;3;Proyectos de ingeniería (exploratorio);0.275777608;-0.043968815
+conjunto;EXPLORATORIO_NO_PRINCIPAL;202;mercado;70729cbb7cb2ac86;;;70729cbb7cb2ac86;Puestos vacantes: Ingeniera(o) Senior Área Seca (20558);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.016944548;-0.026654998
+conjunto;EXPLORATORIO_NO_PRINCIPAL;203;mercado;ced2434e0963ff31;;;ced2434e0963ff31;Lider de Procesos;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.096926548;-0.064294539
+conjunto;EXPLORATORIO_NO_PRINCIPAL;204;mercado;8744493b7a0404fe;;;8744493b7a0404fe;Superintendenta/e de Aguas y Relaves;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.080880769;-0.089082964
+conjunto;EXPLORATORIO_NO_PRINCIPAL;205;mercado;a42a37da355cea91;;;a42a37da355cea91;Especialista de Ingeniería o Consultor(a) Senior – Mantenimiento - COD 267196 – 03;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.115627192;-0.163601547
+conjunto;EXPLORATORIO_NO_PRINCIPAL;206;mercado;ec7c0c9b506dadce;;;ec7c0c9b506dadce;Business Analyst;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.139051735;-0.041053701
+conjunto;EXPLORATORIO_NO_PRINCIPAL;207;mercado;37152caba61e7f8a;;;37152caba61e7f8a;Ingeniero/a de Datos – Modernización de Plataformas;4;0;Datos y analítica (comparación exploratoria);-0.436846942;0.278905421
+conjunto;EXPLORATORIO_NO_PRINCIPAL;208;mercado;e31f38c2f5c5c060;;;e31f38c2f5c5c060;Ingeniero MIS Cobranzas;4;0;Datos y analítica (comparación exploratoria);-0.395180851;-0.025360422
+conjunto;EXPLORATORIO_NO_PRINCIPAL;209;mercado;0dcf31f79b3599f9;;;0dcf31f79b3599f9;Analytics Engineer;4;0;Datos y analítica (comparación exploratoria);-0.534383476;0.220766202
+conjunto;EXPLORATORIO_NO_PRINCIPAL;210;mercado;f23a3e59b7242e5b;;;f23a3e59b7242e5b;Ingeniero control estadístico, difusiones y aprendizajes GSSO-2371127;4;0;Datos y analítica (comparación exploratoria);-0.306959003;-0.005176660
+conjunto;EXPLORATORIO_NO_PRINCIPAL;211;mercado;5e2be675a061d850;;;5e2be675a061d850;Analista Inteligencia de Negocios;4;0;Datos y analítica (comparación exploratoria);-0.482548624;0.193718776
+conjunto;EXPLORATORIO_NO_PRINCIPAL;212;mercado;6bd85fc0286284ef;;;6bd85fc0286284ef;Jefe de Inventario (Key User SAP MM) Antofagasta;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.129589334;-0.106598064
+conjunto;EXPLORATORIO_NO_PRINCIPAL;213;mercado;bc4f14a5fb738912;;;bc4f14a5fb738912;Senior Mining Engineer;4;2;Minería y planificación minera (exploratorio);0.187267333;0.064155482
+conjunto;EXPLORATORIO_NO_PRINCIPAL;214;mercado;e9f94adf822cb5e2;;;e9f94adf822cb5e2;Ingeniero en Control de Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.322635800;-0.246627256
+conjunto;EXPLORATORIO_NO_PRINCIPAL;215;mercado;67c788955072ab2b;;;67c788955072ab2b;Analista de Inteligencia Empresarial;4;0;Datos y analítica (comparación exploratoria);-0.447306544;0.204592615
+conjunto;EXPLORATORIO_NO_PRINCIPAL;216;mercado;386d5cc25e22accc;;;386d5cc25e22accc;Analista Inteligencia de Negocios;4;0;Datos y analítica (comparación exploratoria);-0.520910382;0.245242015
+conjunto;EXPLORATORIO_NO_PRINCIPAL;217;mercado;25d6b2f5525d9e2f;;;25d6b2f5525d9e2f;Profesional Power BI Ingeniería - Santiago;4;0;Datos y analítica (comparación exploratoria);-0.514385521;0.183153644
+conjunto;EXPLORATORIO_NO_PRINCIPAL;218;mercado;d486de7e321504c9;;;d486de7e321504c9;Ingeniero  Analista de Datos;4;0;Datos y analítica (comparación exploratoria);-0.511347234;0.234133482
+conjunto;EXPLORATORIO_NO_PRINCIPAL;219;mercado;d0e4ad93231fcf83;;;d0e4ad93231fcf83;Analista Sr Gestión Comercial;4;0;Datos y analítica (comparación exploratoria);-0.452885926;0.054548156
+conjunto;EXPLORATORIO_NO_PRINCIPAL;220;mercado;8137f157b3fd49e2;;;8137f157b3fd49e2;Científico/a de Datos Senior – Minería / Gestión Hídrica;4;0;Datos y analítica (comparación exploratoria);-0.347545922;0.098801620
+conjunto;EXPLORATORIO_NO_PRINCIPAL;221;mercado;b2c4795587f16ea3;;;b2c4795587f16ea3;Ingeniero(a) de Control de Gestión (Plazo Fijo);4;0;Datos y analítica (comparación exploratoria);-0.401316792;-0.055351302
+conjunto;EXPLORATORIO_NO_PRINCIPAL;222;mercado;34c73dd190de4758;;;34c73dd190de4758;Ingeniero/a en Datos y Prevención de Pérdidas;4;0;Datos y analítica (comparación exploratoria);-0.401031971;0.181735441
+conjunto;EXPLORATORIO_NO_PRINCIPAL;223;mercado;618c8232dc4b2467;;;618c8232dc4b2467;COD – 7164 – 11 ASESOR ESPECIALISTA EN CAPEX;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.093437590;-0.194006801
+conjunto;EXPLORATORIO_NO_PRINCIPAL;224;mercado;d545c42de8edd985;;;d545c42de8edd985;BI Engineer / Data Engineer;4;0;Datos y analítica (comparación exploratoria);-0.393964469;0.173538402
+conjunto;EXPLORATORIO_NO_PRINCIPAL;225;mercado;54aafde8e4f713bf;;;54aafde8e4f713bf;Analista Control Gestión;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.191297889;-0.230823234
+conjunto;EXPLORATORIO_NO_PRINCIPAL;226;mercado;22688ffd05ff1866;;;22688ffd05ff1866;Ingeniero control estadístico, difusiones y aprendizajes GSSO;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.163235649;-0.112691693
+conjunto;EXPLORATORIO_NO_PRINCIPAL;227;mercado;95ebdcc3c5ba7d16;;;95ebdcc3c5ba7d16;People Analytics;4;0;Datos y analítica (comparación exploratoria);-0.521414995;0.241903424
+conjunto;EXPLORATORIO_NO_PRINCIPAL;228;mercado;7fea1ceb58c6a3b0;;;7fea1ceb58c6a3b0;Especialista en Integración de Sistemas (minería);4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.029327946;-0.093037352
+conjunto;EXPLORATORIO_NO_PRINCIPAL;229;mercado;ff1d65ba3c540dc3;;;ff1d65ba3c540dc3;Ingeniero(a) de Planificación y Excelencia;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.103774056;-0.172079608
+conjunto;EXPLORATORIO_NO_PRINCIPAL;230;mercado;fe73f0e78d14e0e1;;;fe73f0e78d14e0e1;Planning & Models Senior 7174-26;4;0;Datos y analítica (comparación exploratoria);-0.273344159;0.151339933
+conjunto;EXPLORATORIO_NO_PRINCIPAL;231;mercado;506841504553f0f4;;;506841504553f0f4;Analista de Datos Gestión de Personas Empresa Rubro Construcción;4;0;Datos y analítica (comparación exploratoria);-0.440818310;0.108534239
+conjunto;EXPLORATORIO_NO_PRINCIPAL;232;mercado;557538938f448940;;;557538938f448940;Profesional Power BI Ingeniería - Concon;4;0;Datos y analítica (comparación exploratoria);-0.514385521;0.183153644
+conjunto;EXPLORATORIO_NO_PRINCIPAL;233;mercado;71333ae2676b55c5;;;71333ae2676b55c5;Subgerente de Gestión y Analítica de Negocios;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.165092647;-0.040842857
+conjunto;EXPLORATORIO_NO_PRINCIPAL;234;mercado;2c7766aeee843d12;;;2c7766aeee843d12;Data Analytics & Business Intelligence Manager;4;0;Datos y analítica (comparación exploratoria);-0.503403544;0.304918826
+conjunto;EXPLORATORIO_NO_PRINCIPAL;235;mercado;25cd69b763f2df21;;;25cd69b763f2df21;Analista BI / Data Analyst;4;0;Datos y analítica (comparación exploratoria);-0.499782234;0.336221218
+conjunto;EXPLORATORIO_NO_PRINCIPAL;236;mercado;7cfe318d8f75e069;;;7cfe318d8f75e069;Spare Parts Reporting Specialist Americas;4;0;Datos y analítica (comparación exploratoria);-0.429640681;0.059000321
+conjunto;EXPLORATORIO_NO_PRINCIPAL;237;mercado;81d51bef019d6d0d;;;81d51bef019d6d0d;Ingeniero/a Entrenamiento;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.021462817;-0.211388618
+conjunto;EXPLORATORIO_NO_PRINCIPAL;238;mercado;6c9582832a27e7fa;;;6c9582832a27e7fa;Ingeniero de Operaciones Planta Productiva;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.097593926;-0.153440997
+conjunto;EXPLORATORIO_NO_PRINCIPAL;239;mercado;83cc552b67ac6365;;;83cc552b67ac6365;Consultant - Operations Advanced Analytics;4;0;Datos y analítica (comparación exploratoria);-0.371376455;0.163274974
+conjunto;EXPLORATORIO_NO_PRINCIPAL;240;mercado;ccf7325f303cf04b;;;ccf7325f303cf04b;Analista de Visibilidad de Inventario;4;0;Datos y analítica (comparación exploratoria);-0.526614368;0.219209626
+conjunto;EXPLORATORIO_NO_PRINCIPAL;241;mercado;126ff37f165cf6eb;;;126ff37f165cf6eb;Especialista de Big Data;4;0;Datos y analítica (comparación exploratoria);-0.455444127;0.280093491
+conjunto;EXPLORATORIO_NO_PRINCIPAL;242;mercado;f3259e4e2f0fdc88;;;f3259e4e2f0fdc88;Ingeniero de Proyectos – Programación de Proyectos;4;3;Proyectos de ingeniería (exploratorio);0.280752867;0.130089015
+conjunto;EXPLORATORIO_NO_PRINCIPAL;243;mercado;ac9a6e2b05db4260;;;ac9a6e2b05db4260;INGENIERO DE PLANIFICACION Y EXCELENCIA;4;0;Datos y analítica (comparación exploratoria);-0.392260402;0.109879591
+conjunto;EXPLORATORIO_NO_PRINCIPAL;244;mercado;71c22c6762b2f23d;;;71c22c6762b2f23d;Ingeniero Senior de Disciplina P&C - Las Condes;4;3;Proyectos de ingeniería (exploratorio);0.300696135;-0.138342947
+conjunto;EXPLORATORIO_NO_PRINCIPAL;245;mercado;f8adc5b5bb4bc101;;;f8adc5b5bb4bc101;Proyectista Civil-Geotécnico Senior;4;3;Proyectos de ingeniería (exploratorio);0.198770165;0.125118285
+conjunto;EXPLORATORIO_NO_PRINCIPAL;246;mercado;e19c17bc99802118;;;e19c17bc99802118;Ingeniero/a PEM Instrumentación y Control | GMN-3;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.102032594;0.066660024
+conjunto;EXPLORATORIO_NO_PRINCIPAL;247;mercado;65e4bff17df2d411;;;65e4bff17df2d411;Other Divisions Coordinator;4;3;Proyectos de ingeniería (exploratorio);0.188638315;-0.178640738
+conjunto;EXPLORATORIO_NO_PRINCIPAL;248;mercado;de102968b5e31191;;;de102968b5e31191;Ingeniero(a) de Proyectos y Diseño Mecánico  COD 267196 – 08;4;3;Proyectos de ingeniería (exploratorio);0.296509326;0.018752329
+conjunto;EXPLORATORIO_NO_PRINCIPAL;249;mercado;2b9b1d01c589900b;;;2b9b1d01c589900b;INGENIERO ELÉCTRICO;4;3;Proyectos de ingeniería (exploratorio);0.377821416;0.260841370
+conjunto;EXPLORATORIO_NO_PRINCIPAL;250;mercado;d29474bf4e8d2b24;;;d29474bf4e8d2b24;Ingeniero/a Civil – Especialista en Estructuras;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.038589776;0.061233733
+conjunto;EXPLORATORIO_NO_PRINCIPAL;251;mercado;9bdb3ea5d3cf2d3e;;;9bdb3ea5d3cf2d3e;Jefe de Ingeniería - Los Andes 5x2;4;3;Proyectos de ingeniería (exploratorio);0.305378020;0.060959548
+conjunto;EXPLORATORIO_NO_PRINCIPAL;252;mercado;dbf33e40d906fc76;;;dbf33e40d906fc76;Ingeniero Proyectista;4;3;Proyectos de ingeniería (exploratorio);0.175425991;0.066120587
+conjunto;EXPLORATORIO_NO_PRINCIPAL;253;mercado;a171947d8f3a4fbc;;;a171947d8f3a4fbc;Ingeniero Sr Comisionamiento;4;3;Proyectos de ingeniería (exploratorio);0.152487010;0.212518901
+conjunto;EXPLORATORIO_NO_PRINCIPAL;254;mercado;a7e3d25d5276af3b;;;a7e3d25d5276af3b;Ingeniero/a de Proyectos – Geotecnia y Relaves – Faena El Soldado;4;3;Proyectos de ingeniería (exploratorio);0.187157914;-0.010417211
+conjunto;EXPLORATORIO_NO_PRINCIPAL;255;mercado;3f54321c946af971;;;3f54321c946af971;Ingeniero(a) Especialista Logística y Servicios - Minería;4;3;Proyectos de ingeniería (exploratorio);0.195017964;-0.066270128
+conjunto;EXPLORATORIO_NO_PRINCIPAL;256;mercado;c19342aeaf4cb215;;;c19342aeaf4cb215;Líder PEM - Caren 5x2;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.104006507;-0.067121319
+conjunto;EXPLORATORIO_NO_PRINCIPAL;257;mercado;5e0c6729fa3f8473;;;5e0c6729fa3f8473;INGENIERO DE PROYECTOS;4;3;Proyectos de ingeniería (exploratorio);0.241658971;-0.033413235
+conjunto;EXPLORATORIO_NO_PRINCIPAL;258;mercado;02b32249767a7708;;;02b32249767a7708;Especialista Eléctrico | RySFA-02;4;3;Proyectos de ingeniería (exploratorio);0.330274135;0.070110857
+conjunto;EXPLORATORIO_NO_PRINCIPAL;259;mercado;528dd22c3c1b2920;;;528dd22c3c1b2920;Ingeniero/a Senior o Principal – Relaves;4;1;Operaciones, calidad y mantenimiento (exploratorio);0.138857976;0.067730524
+conjunto;EXPLORATORIO_NO_PRINCIPAL;260;mercado;a7bc51c0cf4f9555;;;a7bc51c0cf4f9555;Ingeniero/a de Proyectos – Constructibilidad;4;3;Proyectos de ingeniería (exploratorio);0.194036558;0.016821211
+conjunto;EXPLORATORIO_NO_PRINCIPAL;261;mercado;812ed4dd44fcf8a5;;;812ed4dd44fcf8a5;Ingeniero de proyectos senior - Concepción;4;3;Proyectos de ingeniería (exploratorio);0.240136951;-0.183340922
+conjunto;EXPLORATORIO_NO_PRINCIPAL;262;mercado;f320f36c864b6517;;;f320f36c864b6517;Ingeniero Tecnología EMTS;4;3;Proyectos de ingeniería (exploratorio);0.006104430;0.172994062
+conjunto;EXPLORATORIO_NO_PRINCIPAL;263;mercado;2f1256a7065c1c66;;;2f1256a7065c1c66;Ingeniero Senior Mecánico de Terreno;4;3;Proyectos de ingeniería (exploratorio);0.337082416;0.064338692
+conjunto;EXPLORATORIO_NO_PRINCIPAL;264;mercado;e8092b821c006e49;;;e8092b821c006e49;Civil Structural Engineer / Ingeniero/a Civil Estructural;4;3;Proyectos de ingeniería (exploratorio);0.374631524;0.024502719
+conjunto;EXPLORATORIO_NO_PRINCIPAL;265;mercado;e1152945fa308067;;;e1152945fa308067;Ingeniero/a Civil Mecánico Senior;4;3;Proyectos de ingeniería (exploratorio);0.335307717;0.196735829
+conjunto;EXPLORATORIO_NO_PRINCIPAL;266;mercado;2a8aa4ec588633d5;;;2a8aa4ec588633d5;Ingeniero de proyectos senior - Concepción;4;3;Proyectos de ingeniería (exploratorio);0.240136951;-0.183340922
+conjunto;EXPLORATORIO_NO_PRINCIPAL;267;mercado;13b55e20e09027a8;;;13b55e20e09027a8;Ingeniero/a de Proyectos - Antofagasta;4;3;Proyectos de ingeniería (exploratorio);0.373216122;0.195881054
+conjunto;EXPLORATORIO_NO_PRINCIPAL;268;mercado;7fe3b9af3f983fa2;;;7fe3b9af3f983fa2;ITO obras civiles y montaje industrial - Rancagua;4;3;Proyectos de ingeniería (exploratorio);0.169514358;-0.081536584
+conjunto;EXPLORATORIO_NO_PRINCIPAL;269;mercado;a11a67b4aa68ee94;;;a11a67b4aa68ee94;INGENIERO PROYECTO MONTAJE INDUSTRIAL;4;3;Proyectos de ingeniería (exploratorio);0.278471917;0.139967903
+conjunto;EXPLORATORIO_NO_PRINCIPAL;270;mercado;1535438fce1a615c;;;1535438fce1a615c;Ingeniero Especialista - Anglo American Sur S.A. - Los Bronces;4;3;Proyectos de ingeniería (exploratorio);0.284629047;-0.048740666
+conjunto;EXPLORATORIO_NO_PRINCIPAL;271;mercado;50c62bbf5a5da3ed;;;50c62bbf5a5da3ed;Ingeniero/a de Estudios;4;1;Operaciones, calidad y mantenimiento (exploratorio);-0.021310784;-0.311722010
+conjunto;EXPLORATORIO_NO_PRINCIPAL;272;mercado;4d38f255d5c4e728;;;4d38f255d5c4e728;Ingeniero Programación y Control Proyecto | RySMS-06;4;2;Minería y planificación minera (exploratorio);0.209321514;-0.007964330
+conjunto;EXPLORATORIO_NO_PRINCIPAL;273;mercado;46813ab5aeda8244;;;46813ab5aeda8244;Project Engineer Energy & Industry - Antofagasta;4;3;Proyectos de ingeniería (exploratorio);0.205369741;-0.002526487

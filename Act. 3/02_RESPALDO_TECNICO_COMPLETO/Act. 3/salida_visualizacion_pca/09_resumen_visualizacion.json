@@ -1,0 +1,55 @@
+{
+  "paso": 9,
+  "estado": "PROYECCIONES_DESCRIPTIVAS_SIN_VALIDACION_SEMANTICA",
+  "poblaciones": [
+    {
+      "grupo": "academia",
+      "n": 46,
+      "k": 5,
+      "pca_varianza_1": 0.2495715618133545,
+      "pca_varianza_2": 0.17883659899234772,
+      "pca_varianza_acumulada": 0.428408145904541,
+      "pca_reajustado_en_poblacion": "academia",
+      "advertencia": "No comparar coordenadas de PCA ajustados en diferentes poblaciones"
+    },
+    {
+      "grupo": "mercado",
+      "n": 228,
+      "k": 3,
+      "pca_varianza_1": 0.1881367415189743,
+      "pca_varianza_2": 0.09863253682851791,
+      "pca_varianza_acumulada": 0.2867692708969116,
+      "pca_reajustado_en_poblacion": "mercado",
+      "advertencia": "No comparar coordenadas de PCA ajustados en diferentes poblaciones"
+    },
+    {
+      "grupo": "conjunto",
+      "n": 274,
+      "k": 4,
+      "pca_varianza_1": 0.1713482141494751,
+      "pca_varianza_2": 0.10824141651391983,
+      "pca_varianza_acumulada": 0.27958962321281433,
+      "pca_reajustado_en_poblacion": "conjunto",
+      "advertencia": "No comparar coordenadas de PCA ajustados en diferentes poblaciones"
+    }
+  ],
+  "metodo": "PCA(n_components=2, svd_solver=full), ajustado separadamente en cada poblacion",
+  "entrada_matriz": "05_vectores_registros.npy (embeddings agregados L2, 384D)",
+  "reutiliza_clustering": "Paso 08; no reentrena KMeans",
+  "conteo_filas_coordenadas": 548,
+  "entradas_sha256": {
+    "05_vectores_registros.npy": "865efb9e2efdee087193c17a12ac075e99111f07c407496b0d516c6825c8eedd",
+    "05_indice_registros.csv": "23b095b1e423ff91171c8104035bda9852fd8397bc1bed3b37018764569f799d",
+    "08_asignaciones_principales.csv": "e03fb52b3646e764cfb1546b4c527f26db7c37e9ba5ca3d7eddd2188d0258b57",
+    "08_asignaciones_conjunto_exploratorio.csv": "3e7e0e20e792aaac91c4195f91f7b7ff377dbf63352e3cfb413aec586c5c9a48",
+    "08_clusters_principales.csv": "a6e2b41ad087cebf359fb24e31364ee520d4623ed3a3ed32442034b3f009556c",
+    "08_clusters_conjunto_exploratorio.csv": "36edab33af0fefdfe33ea654caddd5c159fd7689e5412dbd5dad62e75e538739"
+  },
+  "alertas": [
+    "PCA 2D puede distorsionar distancias y vecindades en 384 dimensiones.",
+    "Cada poblacion usa su propio PCA; no comparar coordenadas entre paneles.",
+    "La particion conjunta es solo exploratoria, con 228 ofertas vs 46 carreras.",
+    "Los nombres de clusters son provisionales y ESCO no esta validado humanamente.",
+    "No se ha estimado cobertura, brecha curricular ni similitud programa-oferta."
+  ]
+}

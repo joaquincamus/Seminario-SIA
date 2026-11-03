@@ -1,0 +1,47 @@
+{
+  "archivos_entrada": {
+    "academia": "/mnt/data/proyecto_original/DESARROLLO/Obj2/Act. 1/Perfiles_Normalizados_ESCO_12.csv",
+    "mercado": "/mnt/data/proyecto_original/DESARROLLO/Obj2/Act. 1/Ofertas_Normalizadas_ESCO_diccionario.csv"
+  },
+  "registros": {
+    "academia": 46,
+    "mercado": 242
+  },
+  "registros_sin_errores_estructurales": {
+    "academia": 46,
+    "mercado": 242
+  },
+  "instituciones_academicas_distintas": 9,
+  "competencias_uris_unicas": {
+    "academia": 255,
+    "mercado": 446,
+    "compartidas": 103,
+    "total": 598
+  },
+  "catalogos_sha256_distintos": 1,
+  "estados_esco": {
+    "academia": {
+      "Catalogo_verificado_revision_pendiente": 44,
+      "Revisar (1 descartes)": 2
+    },
+    "mercado": {
+      "Catalogo_verificado_revision_pendiente": 218,
+      "Revisar (Sin competencias justificadas)": 14,
+      "Revisar (1 descartes)": 6,
+      "Revisar (4 descartes)": 1,
+      "Revisar (3 descartes)": 2,
+      "Revisar (2 descartes)": 1
+    }
+  },
+  "incidencias_por_severidad": {
+    "ERROR": 0,
+    "ADVERTENCIA": 392
+  },
+  "incidencias_por_codigo": {
+    "ALCANZA_LIMITE_EXTRACTOR": 90,
+    "REVISION_ESCO_PENDIENTE": 288,
+    "SIN_COMPETENCIAS_ESCO": 14
+  },
+  "apto_estructuralmente_para_siguiente_paso": true,
+  "advertencia_metodologica": "Aptitud estructural NO demuestra validez semántica del mapeo ESCO, representatividad de la muestra ni cobertura curricular."
+}

@@ -1,0 +1,46 @@
+{
+  "etapa": "Obj2 / Actividad 3 / Paso 5",
+  "estado": "AGREGACION_TECNICA_FINALIZADA_SIN_VALIDACION_SEMANTICA",
+  "metodo": {
+    "unidad": "registro académico u oferta laboral",
+    "agregacion": "media_aritmetica_sin_pesos_de_vectores_ESCo_L2",
+    "normalizacion_resultado": "L2",
+    "peso_por_competencia": "igual_por_URI_en_cada_registro",
+    "modelo_base": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "dimensiones": 384,
+    "interpretable_como_porcentaje_de_cobertura": false
+  },
+  "conteos": {
+    "registros_total": 274,
+    "academia": 46,
+    "mercado": 228,
+    "relaciones_registro_competencia": 1867,
+    "URI_ESCo_distintas": 598,
+    "ofertas_sin_ESCO_excluidas": 14
+  },
+  "diagnostico": {
+    "min_norma_media_sin_normalizar": 0.600073763174279,
+    "max_norma_media_sin_normalizar": 1.0000000619484959,
+    "min_norma_vectores_guardados": 0.9999999403953552,
+    "max_norma_vectores_guardados": 1.0
+  },
+  "entradas_sha256": {
+    "03_catalogo_competencias_esco.csv": "3bee730eb3b3767b937b1babe0426caf128efad7ac18f31c7b67f4231d9d4c3d",
+    "03_relaciones_trazables.csv": "5e935cb8df6ac32c45f9a7fef29ed4f564f88be09ee2f48332fad71e27de3a3e",
+    "03_registros_preparados.csv": "2982319187bc15dc458a81c2be977506227ce36816b00f6f422f6b548f67f7b0",
+    "03_resumen_corpus.json": "76bfecbddaa836e696344b3a4dfd5c2abbc084ba6ef152314ab2e5ba91666f4b",
+    "04_embeddings_competencias_esco.npy": "54f28365e59f10284bb6b76889642d0e07fbfaa5085d54a42037930eaf733296",
+    "04_indice_embeddings_esco.csv": "d393e68d5caae1038f202e2efc66db041a60d5a616509c6b7ff1e9097f0e701a",
+    "04_resumen_embeddings.json": "74f3784a505b5827a3c84bb4f2e638fe6e997e2df2e03cae388c075813b7a870"
+  },
+  "alertas": [
+    "Las relaciones origen-ESCO siguen pendientes de validación humana.",
+    "Las 14 ofertas sin ESCO no reciben vector; permanecen fuera de esta matriz.",
+    "La media de etiquetas ESCO es una línea base, no una medida validada de pertinencia.",
+    "No se ha calculado similitud academia-mercado, cobertura curricular ni clustering."
+  ],
+  "salidas_sha256": {
+    "05_vectores_registros.npy": "865efb9e2efdee087193c17a12ac075e99111f07c407496b0d516c6825c8eedd",
+    "05_indice_registros.csv": "23b095b1e423ff91171c8104035bda9852fd8397bc1bed3b37018764569f799d"
+  }
+}

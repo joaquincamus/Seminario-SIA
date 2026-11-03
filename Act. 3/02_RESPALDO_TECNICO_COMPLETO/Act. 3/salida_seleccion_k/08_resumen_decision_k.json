@@ -1,0 +1,41 @@
+{
+  "etapa": "Obj2 / Act. 3 / Paso 08",
+  "estado": "K_DE_TRABAJO_PROVISIONALES_PENDIENTES_VALIDACION_HUMANA",
+  "decisiones": {
+    "academia": {
+      "k": 5,
+      "tipo": "PRINCIPAL_PROVISIONAL"
+    },
+    "mercado": {
+      "k": 3,
+      "tipo": "PRINCIPAL_PROVISIONAL"
+    },
+    "conjunto": {
+      "k": 4,
+      "tipo": "EXPLORATORIO_NO_PRINCIPAL"
+    }
+  },
+  "n_registros_principales": 274,
+  "n_registros_conjunto_exploratorio": 274,
+  "n_clusters_principales": 8,
+  "n_clusters_conjunto_exploratorio": 4,
+  "n_competencias_distintivas_exportadas": 60,
+  "plantilla_revision": "CREADA",
+  "semilla_de_particiones_reutilizadas": 42,
+  "entradas_sha256": {
+    "05_indice_registros.csv": "23b095b1e423ff91171c8104035bda9852fd8397bc1bed3b37018764569f799d",
+    "06_asignaciones_exploratorias.csv": "4f76aa5ef20a69c2b57d5eda0c727eb0ffdcef574fc910d70c3fa75592c00c9b",
+    "06_metricas_por_k.csv": "2f1bccc539e300d7ec69376bcf36be950abd9ab503dee36bccb152d3ad2ff05f",
+    "07_asignaciones_candidatos.csv": "d40cce0d71fc89bad1c7c625b3a6625a442c30fb812c28225bb1ce66ca678401",
+    "07_perfiles_clusters.csv": "7394f295a740b0dd7592c15e1720e71d014e095ebf5d14cb93edb3f45d11c436",
+    "07_competencias_por_cluster.csv": "a7e500c30b827cf70865a22cb2cccc5955c9668e0c8a25605da6c4146748a835",
+    "07_panorama_candidatos.csv": "b2f2a513f52813e1b49748d4bbf96fd8d6bd4743655878bb41683dfe2ca34b91",
+    "07_resumen_inspeccion.json": "ab2eca3e1d98416783265436edc746e9021de2a524b2bb58334167f9a0ca1fc5"
+  },
+  "alertas": [
+    "No es una selección automática de K ni una validación humana de los clusters.",
+    "Los 14 anuncios sin ESCO no se representaron; no inferir ausencia de competencias.",
+    "Las asignaciones de clusters de poblaciones diferentes NO son directamente comparables.",
+    "No se calculó cobertura curricular ni similitud academia-mercado."
+  ]
+}
